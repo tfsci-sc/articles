@@ -251,7 +251,7 @@ a Sources for hormone levels: [Zhang & Stanczyk, 2013][76]; [Nakamoto, 2016][77]
 
 ###  性腺抑制 
 
-At sufficiently high exposure, estrogens and androgens are able to completely suppress gonadal sex hormone production while progestogens by themselves are able to partially but substantially suppress gonadal sex hormone production. More specifically, studies in cisgender men and transfeminine people have found that estradiol levels of around 200 pg/mL generally suppress testosterone levels by about 90% (to around 50 ng/dL), while estradiol levels of about 500 pg/mL suppress testosterone levels by about 95% on average (to around 20–30 ng/dL) ([Wiki][106]; [Wiki-Graphs][107]). Estradiol levels of below 200 pg/mL also suppress testosterone levels, although to a reduced extent ([Aly W., 2019][108]; [Aly W., 2019][109]; [Aly W., 2020][110]). Progestogens on their own are able to maximally suppress testosterone levels by about 50 to 70% (to around 150–300 ng/dL on average) ([Aly W., 2019][111]; [Wiki][112]). In combination with even small amounts of estrogen however, there is synergism in antigonadotropic effect and the suppression of testosterone levels with maximally effective doses of progestogens increases to about 95% (to around 20–30 ng/dL) ([Aly W., 2019][113]). Hence, the combination of an estrogen and a progestogen can be used to achieve maximal suppression of testosterone levels at lower doses than would be necessary if an estrogen or progestogen were used alone. 
+在足够高的暴露量下，雌性激素和雄性激素能够完全抑制性腺性激素的产生，而孕激素本身能够部分但大幅度抑制性腺性激素的产生。更具体的说，对顺性别男性与女性倾向跨性别者的研究发现，雌二醇水平在 200 pg/mL 左右时一般能抑制睾酮水平约90% (至大约 50 ng/dL)，而雌二醇水平在 500 pg/mL 左右时，平均能抑制睾酮水平约95% (至大约 20–30 ng/dL) ([维基][106]; [维基图表][107]). 雌二醇水平低于 200 pg/mL 也会抑制睾酮水平，尽管程度有所降低 ([Aly W., 2019][108]; [Aly W., 2019][109]; [Aly W., 2020][110])。单独使用孕激素可以抑制五至七成的睾酮水平 (至大悦平均 150–300 ng/dL) ([Aly W., 2019][111]; [维基][112])。然而，在与少量的雌激素结合时，孕激素的抗促性腺激素作用可以产生协同效应，最大有效剂量的孕激素对睾酮水平的抑制增加到约95% (至大悦 20–30 ng/dL) ([Aly W., 2019][113])。因此，与单独使用雌激素或孕激素相比，联合使用一种雌激素和一种孕激素可以用较低的剂量实现对睾酮水平的最大抑制。
 
    [106]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_estradiol#Antigonadotropic_effects
    [107]: https://en.wikipedia.org/wiki/Template:Antigonadotropic_effects_of_estradiol
@@ -266,18 +266,22 @@ At sufficiently high exposure, estrogens and androgens are able to completely su
 
    [114]: https://transfemscience.org/assets/images/transfem-intro-pep-e2-t.png
 
-Figure: Estradiol and testosterone levels after a single injection of 320 mg [polyestradiol phosphate][115] (PEP) (a long-acting [prodrug][116] of estradiol) in men with prostate cancer ([Stege et al., 1996][117]). The peak decrease in testosterone levels occurred with estradiol levels of greater than 200 pg/mL and was about 90% (to roughly 50 ng/dL). 
+图例：患有前列腺癌的男性在单次注射320毫克 [聚雌二醇磷酸酯][115] (PEP) (一种长效的雌二醇 [原药][116]) 后的雌二醇和睾酮水平 ([Stege et al., 1996][117])）。睾丸激素水平下降的峰值发生在雌二醇水平大于 200 pg/mL 时，约为90% (至大约 50 ng/dL)。
 
    [115]: https://en.wikipedia.org/wiki/Polyestradiol_phosphate
    [116]: https://en.wikipedia.org/wiki/Prodrug
    [117]: https://doi.org/10.1002/(SICI)1097-0045(199605)28:5%3C307::AID-PROS6%3E3.0.CO;2-8
 
-The antigonadotropic effects of estrogens and progestogens are taken advantage of in transfeminine hormone therapy to suppress gonadal testosterone production and attain testosterone levels that are more consistent with those in cisgender women. It should be noted that the preceding numbers on testosterone suppression with estrogens and progestogens are averages and there is significant variation between individuals in terms of testosterone suppression. In other words, some may need more or less in terms of hormonal dosages to achieve the same decrease in testosterone levels. 
+雌激素和孕激素的抗促性腺激素作用在女性倾向跨性别者中被利用，以抑制性腺睾丸激素的产生，并达到与顺性别女性更一致的睾丸激素水平。应该注意的是，前面关于用雌激素和孕激素抑制睾丸激素的数字是平均数，在抑制睾丸激素方面，个人之间有很大差异。换句话说，有些人可能需要更多或更少的激素剂量来实现同样的睾丸激素水平下降。
 
-During normal puberty in both males and females, sex hormone exposure increases slowly over a period of several years ([Aly W., 2020][118]) and sexual maturation occurs gradually. In non-adolescent transgender people, adult or higher amounts of hormones are generally administered right away and this can result in changes in secondary sex characteristics happening much more quickly. The table below is reproduced from literature sources with slight modification and is commonly cited as a timeline for the effects of hormone therapy in transfeminine people ([Wiki-Table][119]). It is based on a mix of clinical experience, expert opinion, and clinical studies of transfeminine people. 
+###   效果时间线
+
+在男性和女性的正常青春期，性激素暴露在几年内缓慢增加 ([Aly W., 2020][118])，性成熟逐渐发生。在非青少年的跨性别者中，一般会立即使用成人或更高剂量的激素，这可能导致第二性征的变化发生得更快。下表是从文献资料中转载的，略有修改，通常被引用为女性倾向跨性别者激素治疗效果的时间表 ([Wiki-Table][119])。它是基于临床经验、专家意见和对女性倾向跨性别者的临床研究的综合考虑。
 
    [118]: https://transfemscience.org/articles/hormone-levels-female-puberty/
    [119]: https://en.wikipedia.org/wiki/Template:Effects_of_feminizing_hormone_therapy_in_transgender_women
+
+* 又是个表...枯了
 
 Table: Effects of hormone therapy at typical doses in adult transfeminine people ([Wiki-Table][120]): 
 
@@ -358,6 +362,8 @@ a May vary significantly between individuals due to factors like genetics, diet/
    [124]: https://en.wikipedia.org/wiki/Epilator
    [125]: https://en.wikipedia.org/wiki/Waxing
    [126]: https://en.wikipedia.org/wiki/Voice_training
+
+##   Specific Hormonal Medications
 
 The medications that are used in transfeminine hormone therapy include estrogens, progestogens, and antiandrogens. Estrogens produce feminization and suppress testosterone levels. Progestogens and antiandrogens can help to further suppress and/or block testosterone. Androgens are sometimes used at low doses in transfeminine people with low testosterone levels. There are many different types of these medications with different benefits and risks. 
 
