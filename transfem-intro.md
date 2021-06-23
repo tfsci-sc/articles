@@ -60,7 +60,7 @@
    [30]: https://en.wikipedia.org/wiki/Uterus
    [31]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_progesterone#Antiestrogenic_effects
 
-雄激素导致 [男性化][32]. 这包括 [阴茎的增长][33]，[肩膀的变宽][34]，[肋骨的扩张][35]，[肌肉的增长][36]，[声音的加深][37]，[脂肪分布的男性化模式][38] （集中在腹部和腰部），以及 [面部、身体毛发的生长][39] ([维基][40]). 雄性激素还导致各种普遍不受欢迎的皮肤和头发影响，如 [油性皮肤][41]、[痤疮][42]、[皮脂溢出][43]、[头皮脱发][44] 和 [体味][45]。此外，雄激素还阻止由雌激素激发的乳房发育。
+雄激素导致 [男性化][32]. 这包括 [阴茎的增长][33]，[肩膀的变宽][34]，[肋骨的扩张][35]，[肌肉的增长][36]，[声音的加深][37]，[脂肪分布的男性化模式][38] （集中在腹部和腰部），以及 [面部、身体毛发的生长][39] ([维基][40])。雄性激素还导致各种普遍不受欢迎的皮肤和头发影响，如 [油性皮肤][41]、[痤疮][42]、[皮脂溢出][43]、[头皮脱发][44] 和 [体味][45]。此外，雄激素还阻止由雌激素激发的乳房发育。
 
    [32]: https://en.wikipedia.org/wiki/Virilization
    [33]: https://en.wikipedia.org/wiki/Penile_growth
@@ -88,7 +88,7 @@
    [52]: https://en.wikipedia.org/wiki/Breast_cancer
    [53]: https://transfemscience.org/articles/breast-cancer/
 
-雌激素、孕激素和雄激素也有 [抗促性腺激素][54] 的作用。。意思是，它们抑制 [促性腺激素释放激素][55] (GnRH) 诱导的 [促性腺激素][56]、[黄体生成素][57] (LH) 和 [卵泡刺激素][58] (FSH) 从大脑垂体中的分泌。促性腺激素向性腺发出信号，使其制造性激素并提供生育所需的精子和卵细胞。因此，促性腺激素水平的降低将导致性腺性激素分泌的减少和生育能力的降低。如果促性腺激素水平被充分抑制，性腺将完全不再制造性激素，生育能力将停止。体内绝大部分的雌二醇、睾酮和孕酮是由性腺产生的。其余少量的这些激素大部分是由 [肾上腺][60] 产生的，其位于 [肾脏][61] 顶部。 
+雌激素、孕激素和雄激素也有 [抗促性腺激素][54] 的作用。意思是，它们抑制 [促性腺激素释放激素][55] (GnRH) 诱导的 [促性腺激素][56]、[黄体生成素][57] (LH) 和 [卵泡刺激素][58] (FSH) 从大脑垂体中的分泌。促性腺激素向性腺发出信号，使其制造性激素并提供生育所需的精子和卵细胞。因此，促性腺激素水平的降低将导致性腺性激素分泌的减少和生育能力的降低。如果促性腺激素水平被充分抑制，性腺将完全不再制造性激素，生育能力将停止。体内绝大部分的雌二醇、睾酮和孕酮是由性腺产生的。其余少量的这些激素大部分是由 [肾上腺][60] 产生的，其位于 [肾脏][61] 顶部。 
 
    [54]: https://en.wikipedia.org/wiki/Antigonadotropin
    [55]: https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone
@@ -198,7 +198,7 @@
 
 ###  性腺抑制 
 
-在足够高的暴露量下，雌性激素和雄性激素能够完全抑制性腺性激素的产生，而孕激素本身能够部分但大幅度抑制性腺性激素的产生。更具体的说，对顺性别男性与女性倾向跨性别者的研究发现，雌二醇水平在 200 pg/mL 左右时一般能抑制睾酮水平约90% (至大约 50 ng/dL)，而雌二醇水平在 500 pg/mL 左右时，平均能抑制睾酮水平约95% (至大约 20–30 ng/dL) ([维基][106]; [维基图表][107]). 雌二醇水平低于 200 pg/mL 也会抑制睾酮水平，尽管程度有所降低 ([Aly W., 2019][108]; [Aly W., 2019][109]; [Aly W., 2020][110])。单独使用孕激素可以抑制五至七成的睾酮水平 (至大约平均 150–300 ng/dL) ([Aly W., 2019][111]; [维基][112])。然而，在与少量的雌激素结合时，孕激素的抗促性腺激素作用可以产生协同效应，最大有效剂量的孕激素对睾酮水平的抑制增加到约95% (至大约 20–30 ng/dL) ([Aly W., 2019][113])。因此，与单独使用雌激素或孕激素相比，联合使用一种雌激素和一种孕激素可以用较低的剂量实现对睾酮水平的最大抑制。
+在足够高的暴露量下，雌性激素和雄性激素能够完全抑制性腺性激素的产生，而孕激素本身能够部分但大幅度抑制性腺性激素的产生。更具体的说，对顺性别男性与女性倾向跨性别者的研究发现，雌二醇水平在 200 pg/mL 左右时一般能抑制睾酮水平约90% (至大约 50 ng/dL)，而雌二醇水平在 500 pg/mL 左右时，平均能抑制睾酮水平约95% (至大约 20–30 ng/dL) ([维基][106]; [维基-图表][107]). 雌二醇水平低于 200 pg/mL 也会抑制睾酮水平，尽管程度有所降低 ([Aly W., 2019][108]; [Aly W., 2019][109]; [Aly W., 2020][110])。单独使用孕激素可以抑制五至七成的睾酮水平 (至大约平均 150–300 ng/dL) ([Aly W., 2019][111]; [维基][112])。然而，在与少量的雌激素结合时，孕激素的抗促性腺激素作用可以产生协同效应，最大有效剂量的孕激素对睾酮水平的抑制增加到约95% (至大约 20–30 ng/dL) ([Aly W., 2019][113])。因此，与单独使用雌激素或孕激素相比，联合使用一种雌激素和一种孕激素可以用较低的剂量实现对睾酮水平的最大抑制。
 
    [106]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_estradiol#Antigonadotropic_effects
    [107]: https://en.wikipedia.org/wiki/Template:Antigonadotropic_effects_of_estradiol
@@ -223,85 +223,32 @@
 
 ###   效果时间线
 
-在男性和女性的正常青春期，性激素暴露在几年内缓慢增加 ([Aly W., 2020][118])，性成熟逐渐发生。在非青少年的跨性别者中，一般会立即使用成人或更高剂量的激素，这可能导致第二性征的变化发生得更快。下表是从文献资料中转载的，略有修改，通常被引用为女性倾向跨性别者激素治疗效果的时间表 ([Wiki-Table][119])。它是基于临床经验、专家意见和对女性倾向跨性别者的临床研究的综合考虑。
+在男性和女性的正常青春期，性激素暴露在几年内缓慢增加 ([Aly W., 2020][118])，性成熟逐渐发生。在非青少年的跨性别者中，一般会立即使用成人或更高剂量的激素，这可能导致第二性征的变化发生得更快。下表是从文献资料中转载的，略有修改，通常被引用为女性倾向跨性别者激素治疗效果的时间表 ([维基-图表][119])。它是基于临床经验、专家意见和对女性倾向跨性别者的临床研究的综合考虑。
 
    [118]: https://transfemscience.org/articles/hormone-levels-female-puberty/
    [119]: https://en.wikipedia.org/wiki/Template:Effects_of_feminizing_hormone_therapy_in_transgender_women
 
-* 又是个表...枯了
-
-Table: Effects of hormone therapy at typical doses in adult transfeminine people ([Wiki-Table][120]): 
+表格：常见剂量的激素治疗在成年女性倾向跨性别者的效果 ([维基-图表][120]): 
 
    [120]: https://en.wikipedia.org/wiki/Template:Effects_of_feminizing_hormone_therapy_in_transgender_women
 
-EffectOnsetaCompletionaPermanency
+| 效果 | 开始时间<sup>a</sup> | 完成时间<sup>a</sup> | 永久性 |
+| --- | --- | --- | --- |
+| 乳房发育 | 2–6 months | 2–3 years | Permanent |
+| 毛发减少与生长减缓 | 3–12 months | >3 years<sup>b</sup> | Reversible |
+| 头皮脱发的减少与逆转 | 1–3 months | 1–2 years | Reversible |
+| 皮肤软化，出油与痤疮减少 | 3–6 months | Unknown | Reversible |
+| 女性化脂肪重分布 | 3–6 months | 2–5 years | Reversible |
+| 肌肉重量与强度减少 | 3–6 months | 1–2 years<sup>c</sup> | Reversible |
+| 骨盆变宽和变圆<sup>d</sup> | Unknown | Unknown | Permanent |
+| 情绪、情感和行为的变化 | Immediate | Unknown | Reversible |
+| 性欲和自发性勃起减少 | 1–3 months | 3–6 months | Reversible |
+| 勃起功能障碍和射精量减少 | 1–3 months | Variable | Reversible |
+| 精子产量减少和不孕不育 | Unknown | >3 years | Mixed<sup>e</sup> |
+| Decreased testicular volume | 3–6 months | 2–3 years | Unknown |
+| Voice changes (e.g., decreased pitch/resonance) | None<sup>f</sup> N/A | N/A |
 
-Breast development 
-2–6 months 
-2–3 years 
-Permanent 
-
-Reduced and slowed growth of facial and body hair 
-3–12 months 
->3 yearsb
-Reversible 
-
-Cessation and reversal of scalp hair loss 
-1–3 months 
-1–2 years 
-Reversible 
-
-Softening of skin and decreased skin oiliness and acne 
-3–6 months 
-Unknown 
-Reversible 
-
-Redistribution of body fat in a feminine pattern 
-3–6 months 
-2–5 years 
-Reversible 
-
-Decreased muscle mass and strength 
-3–6 months 
-1–2 yearsc
-Reversible 
-
-Widening and rounding of the pelvisd
-Unknown 
-Unknown 
-Permanent 
-
-Changes in mood, emotionality, and behavior 
-Immediate 
-Unknown 
-Reversible 
-
-Decreased sex drive and spontaneous erections 
-1–3 months 
-3–6 months 
-Reversible 
-
-Erectile dysfunction and decreased ejaculate volume 
-1–3 months 
-Variable 
-Reversible 
-
-Decreased sperm production and infertility 
-Unknown 
->3 years 
-Mixede
-
-Decreased testicular volume 
-3–6 months 
-2–3 years 
-Unknown 
-
-Voice changes (e.g., decreased pitch/resonance) 
-Nonef
-N/A 
-N/A 
-
-a May vary significantly between individuals due to factors like genetics, diet/nutrition, hormone levels, etc. b Hormone therapy usually has little influence on facial hair density in transfeminine people. Complete removal of facial and body hair can be achieved with [laser hair removal][121] and [electrolysis][122]. Temporary hair removal can be achieved with [shaving][123], [epilating][124], [waxing][125], and other methods. c May vary significantly depending on amount of physical exercise. d Occurs only in young individuals who have not yet completed growth plate closure (may not occur at all in post-adolescent people). e Only estrogens, particularly at high doses, seem to have the potential for long-lasting or irreversible infertility; impaired fertility caused by antiandrogens is usually readily reversible with discontinuation. f [Voice training][126] is an effective means of feminizing the voice.
+<sup>a</sup> May vary significantly between individuals due to factors like genetics, diet/nutrition, hormone levels, etc. <sup>b</sup Hormone therapy usually has little influence on facial hair density in transfeminine people. Complete removal of facial and body hair can be achieved with [laser hair removal][121] and [electrolysis][122]. Temporary hair removal can be achieved with [shaving][123], [epilating][124], [waxing][125], and other methods. <sup>c</sup> May vary significantly depending on amount of physical exercise. <sup>d</sup> Occurs only in young individuals who have not yet completed growth plate closure (may not occur at all in post-adolescent people). <sup>e</sup> Only estrogens, particularly at high doses, seem to have the potential for long-lasting or irreversible infertility; impaired fertility caused by antiandrogens is usually readily reversible with discontinuation. <sup>f</sup> [Voice training][126] is an effective means of feminizing the voice.
 
    [121]: https://en.wikipedia.org/wiki/Laser_hair_removal
    [122]: https://en.wikipedia.org/wiki/Electrolysis
