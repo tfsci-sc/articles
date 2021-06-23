@@ -1,22 +1,24 @@
-From: <https://transfemscience.org/articles/transfem-intro/>
+# 女性倾向跨性别者的激素治疗简介
 
-By [Aly W.][1] | First published August 4, 2018 | Last modified June 22, 2021 
+| 作者 [Aly W.][1] | 首次出版于 二零一八年八月四日 | 最后修改于 二零二一年六月二十二日 |
+| --- | --- | --- |
 
    [1]: https://transfemscience.org/about/#aly-w
 
-##  Preface 
+| 译者 yucandy | 翻译于 二零二一年六月二十三日 |
+| --- | --- |
 
-This article is also available in other languages for non-English speakers. 
+## 前言
 
-##  Abstract / TL;DR 
+### 提要 / 一句话简介
 
-Sex hormones such as estrogen, testosterone, and progesterone are produced by the gonads. The sex hormones mediate the development of the secondary sexual characteristics. Testosterone causes masculinization while estradiol causes feminization and breast development. Males have high amounts of testosterone while females have low testosterone but high amounts of estradiol. These hormonal differences are responsible for the physical differences between males and females. Sex hormones and other hormonal medications are used in transfeminine people to shift the hormonal profile from a male-typical one to a female-typical profile. This causes feminization and allows for alleviation of gender dysphoria. The changes caused by transfeminine hormone therapy occur over a period of months to years. There are many different types and forms of hormonal medications and these medications can be administered via a variety of different routes. For instance, as pills taken by mouth, as patches or gel applied to the skin, and as injections, among others. Different hormonal medications, routes, and doses have different efficacies, side effects, and risks. Hormone therapy should be regularly monitored via blood tests to ensure efficacy and safety and allow for adjustment as necessary. 
+性激素，如雌激素、睾酮和孕酮，由性腺产生。性激素影响第二性征的发展。睾酮导致男性化，而雌二醇导致女性化和乳房发育。男性有大量的睾酮，而女性有低量的睾酮和大量的雌二醇。这些激素差异是造成男性与女性之间差异的原因。性激素和其他激素药物被用于跨性别者，以转变男性典型激素状况为女性典型激素状况。这导致了女性化，并能够缓解性别障碍。跨性别激素治疗引起的变化发生在几个月到几年的时间里。有许多不同类型的激素药物，其可以通过不同的途径进行治疗。例如，作为药丸口服或作为贴剂和凝胶涂抹在皮肤上，以及注射，等等。不同的激素药物、途径和剂量有不同的疗效、副作用和风险。激素治疗应定期通过血液检查进行检测，以确保疗效和安全，并在需要时调整。
 
-##  The Sex Hormones 
+## 性激素
 
-###  Types and Effects 
+### 种类和效果
 
-The [sex hormones][2] include the [estrogens][3] (E), [progestogens][4] (P), and [androgens][5]. A person’s hormonal profile is a product of the type of [gonads][6] that they are born with. Natal men have [testes][7] while natal women have [ovaries][8]. Testes produce large amounts of androgens and small amounts of estrogens whereas ovaries produce high amounts of estrogens and progesterone and low amounts of androgens. 
+[性激素][2] 包括 [雌激素][3] (E)，[孕激素][4] (P)，和 [雄激素][5]。一个人的激素状况 (hormonal profile) 是其天生的 [性腺][6] 的产物。出生时男性有 [睾丸][7] 而女性有 [卵巢][8]。睾丸产生大量的雄激素和少量的雌激素，而卵巢则产生大量的雌激素、孕酮与少量的雄激素。
 
    [2]: http://en.wikipedia.org/wiki/Sex_steroid
    [3]: https://en.wikipedia.org/wiki/Estrogen
@@ -26,7 +28,7 @@ The [sex hormones][2] include the [estrogens][3] (E), [progestogens][4] (P), and
    [7]: http://en.wikipedia.org/wiki/Testicle
    [8]: https://en.wikipedia.org/wiki/Ovary
 
-The major estrogen in the body is [estradiol][9] (E2), the main progestogen is [progesterone][10] (P4), and the major androgens are [testosterone][11] (T) and [dihydrotestosterone][12] (DHT). The sex hormones are responsible for and determine the [secondary sex characteristics][13]. They mediate their effects by acting as [agonists][14] (or activators) of [receptors][15] inside of cells. These receptors include the [androgen receptor][16] (AR), the [estrogen receptors][17] (ERs), and the [progesterone receptors][18] (PRs). Following their activation, these receptors modulate [gene expression][19] to influence cells and [tissues][20]. 
+体内的主要雌激素是 [雌二醇][9] (E2)，主要孕激素是 [孕酮][10] (P4)，主要雄激素是 [睾酮][11] (T) 和 [双氢睾酮][12] (DHT)。性激素负责并决定 [第二性征][13]。它们通过作为细胞内的 [激动剂][14] （或激活剂）来影响 [受体][15] 作用。这些受体包括 [雄激素受体][16] (AR)，[雌激素受体][17] (ER)，和 [孕激素受体][18] (PR)。激活后，这些受体调节 [基因表达][19] 以影响细胞和 [组织][20]。
 
    [9]: https://en.wikipedia.org/wiki/Estradiol
    [10]: https://en.wikipedia.org/wiki/Progesterone
@@ -41,7 +43,7 @@ The major estrogen in the body is [estradiol][9] (E2), the main progestogen is [
    [19]: https://en.wikipedia.org/wiki/Gene_expression
    [20]: http://en.wikipedia.org/wiki/Tissue_(biology)
 
-Estrogens cause feminization. This includes [breast development][21], softening of the skin, a [feminine pattern of fat distribution][22] (concentrated in the breasts, hips, thighs, and buttocks), [widening of the hips][23] (in those whose [growth plates][24] have not yet fused), and other changes ([Wiki][25]). 
+雌激素导致女性化。这包括 [乳房发育][21]、皮肤软化、 [脂肪分布女性化][22] （集中于乳房、髋部、大腿与臀部）、 [臀部变宽][23] （在 [骺板][24] 尚未闭合的人中)），以及其他变化。 ([维基][25]) 
 
    [21]: https://en.wikipedia.org/wiki/Breast_development
    [22]: https://en.wikipedia.org/wiki/Gynoid_fat_distribution
@@ -1195,67 +1197,3 @@ Transfeminine people on hormone therapy should undergo regular laboratory [monit
 
    [421]: https://en.wikipedia.org/wiki/Liver_function_tests
    [422]: http://en.wikipedia.org/wiki/Prolactin
-
-##  Addendum 
-
-###  Translations 
-
-Translations of this page via [Google Translate][423] may be found as follows (see [here][424] for more languages): 
-
-   [423]: https://translate.google.com/
-   [424]: http://itools.com/tool/google-translate-web-page-translator
-
-[Chinese (Simpl.)/简化字][425]
-[Chinese (Trad.)/正體字/繁體字][426]
-[Filipino/Tagalog][427]
-
-   [425]: https://translate.google.com/translate?hl=en&sl=en&tl=zh-CN&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-   [426]: https://translate.google.com/translate?hl=en&sl=en&tl=zh-TW&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-   [427]: https://translate.google.com/translate?hl=en&sl=en&tl=tl&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-
-[French/Français][428]
-[German/Deutsche][429]
-[Hindi/हिन्दी][430]
-
-   [428]: https://translate.google.com/translate?hl=en&sl=en&tl=fr&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-   [429]: https://translate.google.com/translate?hl=en&sl=en&tl=de&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-   [430]: https://translate.google.com/translate?hl=en&sl=en&tl=hi&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-
-[Italian/Italiano][431]
-[Japanese/日本語][432]
-[Korean/韓國語][433]
-
-   [431]: https://translate.google.com/translate?hl=en&sl=en&tl=it&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-   [432]: https://translate.google.com/translate?hl=en&sl=en&tl=ja&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-   [433]: https://translate.google.com/translate?hl=en&sl=en&tl=ko&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-
-[Portuguese/Português][434]
-[Russian/Русский][435]
-[Spanish/Español][436]
-
-   [434]: https://translate.google.com/translate?hl=en&sl=en&tl=pt&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-   [435]: https://translate.google.com/translate?hl=en&sl=en&tl=ru&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-   [436]: https://translate.google.com/translate?hl=en&sl=en&tl=es&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-
-[Thai/ภาษาไทย][437]
-[Turkish/Türkçe][438]
-[Vietnamese/Tiếng Việt][439]
-
-   [437]: https://translate.google.com/translate?hl=en&sl=en&tl=th&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-   [438]: https://translate.google.com/translate?hl=en&sl=en&tl=tr&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-   [439]: https://translate.google.com/translate?hl=en&sl=en&tl=vi&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
-
-This translation tool can also be used for other articles on this site. 
-
-###  Video Adaptation 
-
-A video adaptation of an older version of this page has been created by YouTuber [Aria Bennett][440]: 
-
-   [440]: https://www.youtube.com/c/AriaBennett
-
-  * [Hormone Replacement Therapy - Medications (MTF HRT) - YouTube][441]
-  * [Hormone Replacement Therapy - Dosage + Administration (MTF HRT) - YouTube][442]
-
-   [441]: https://www.youtube.com/watch?v=riSViZWJaOM
-   [442]: https://www.youtube.com/watch?v=9p2iSQY09oQ
-
