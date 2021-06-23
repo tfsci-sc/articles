@@ -1,6 +1,6 @@
 # 女性倾向跨性别者的激素治疗简介
 
-作者 Aly W. | 首次出版 二零一八年八月四日  | 最后修改 二零二一年六月二十二日
+作者 Aly W. | 首次出版于 二零一八年八月四日  | 最后修改于 二零二一年六月二十二日
 
 译者 yucandy | 翻译于 二零二一年六月二十三日
 
@@ -10,24 +10,25 @@
 
 性激素，如雌激素、睾酮和孕酮，由性腺产生。性激素影响第二性征的发展。睾酮导致男性化，而雌二醇导致女性化和乳房发育。男性有大量的睾酮，而女性有低量的睾酮和大量的雌二醇。这些激素差异是造成男性与女性之间差异的原因。性激素和其他激素药物被用于跨性别者，以转变男性典型激素状况为女性典型激素状况。这导致了女性化，并能够缓解性别障碍。跨性别激素治疗引起的变化发生在几个月到几年的时间里。有许多不同类型的激素药物，其可以通过不同的途径进行治疗。例如，作为药丸口服或作为贴剂和凝胶涂抹在皮肤上，以及注射，等等。不同的激素药物、途径和剂量有不同的疗效、副作用和风险。激素治疗应定期通过血液检查进行检测，以确保疗效和安全，并在需要时调整。
 
-The Sex Hormones
+## 性激素
 
-Types and Effects
+### 种类和效果
 
-The sex hormones include the estrogens (E), progestogens (P), and androgens. A person’s hormonal profile is a product of the type of gonads that they are born with. Natal men have testes while natal women have ovaries. Testes produce large amounts of androgens and small amounts of estrogens whereas ovaries produce high amounts of estrogens and progesterone and low amounts of androgens.
+性激素包括雌激素 (E)、孕激素 (P) 和雄激素。一个人的激素状况 (hormonal profile) 是其天生的性腺类型的产物。出生时男性有睾丸，而女性有卵巢。睾丸产生大量的雄激素和少量的雌激素，而卵巢则产生大量的雌激素、孕酮与少量的雄激素。
 
-The major estrogen in the body is estradiol (E2), the main progestogen is progesterone (P4), and the major androgens are testosterone (T) and dihydrotestosterone (DHT). The sex hormones are responsible for and determine the secondary sex characteristics. They mediate their effects by acting as agonists (or activators) of receptors inside of cells. These receptors include the androgen receptor (AR), the estrogen receptors (ERs), and the progesterone receptors (PRs). Following their activation, these receptors modulate gene expression to influence cells and tissues.
+体内的主要雌激素是雌二醇 (E2)，主要孕激素是孕酮 (P4)，主要雄激素是睾酮 (T) 和双氢睾酮 (DHT)。性激素负责并决定第二性征。它们通过作为细胞内受体的激动剂（或激活剂）来影响其作用。这些受体包括雄激素受体 (AR)，雌激素受体 (ER) 和孕激素受体 (PR)。激活后，这些受体调节基因表达以影响细胞和组织。
 
-Estrogens cause feminization. This includes breast development, softening of the skin, a feminine pattern of fat distribution (concentrated in the breasts, hips, thighs, and buttocks), widening of the hips (in those whose growth plates have not yet fused), and other changes (Wiki).
+雌激素导致女性化。这包括乳房发育、皮肤软化、脂肪分布女性化（集中于乳房、髋部、大腿与臀部）、臀部变宽（在骨骼尚未闭合的人中），以及其他变化。（维基百科）
 
-Progestogens have essentially no known role in feminization or pubertal breast development. Rather than acting as mediators of feminization, progestogens have important effects in the female reproductive system and are essential hormones during pregnancy (Wiki). They also oppose the actions of estrogens in certain parts of the body, such as the uterus, vagina, and breasts (Wiki).
+孕激素在女性化或青春期乳房发育中基本上没有已知的作用。孕激素不作为女性化的媒介，但是却在女性生殖系统中具有重要的作用。其是怀孕期间必不可少的激素。（维基百科）孕激素也阻止雌激素在身体某些部位中的作用，如子宫、阴道和乳房。（维基百科）
 
-Androgens cause masculinization. This includes growth of the penis, broadening of the shoulders, expansion of the rib cage, muscle growth, voice deepening, a masculine pattern of fat distribution (concentrated in the stomach and waist), and facial/body hair growth (Wiki). Androgens also cause a variety of generally undesirable skin and hair effects, including oily skin, acne, seborrhea, scalp hair loss, and body odor. They additionally oppose breast development mediated by estrogens.
+雄激素导致男性化。这包括阴茎的增长、肩膀的变宽、肋骨的扩张、肌肉的增长、声音的加深、脂肪分布的男性化模式（集中在腹部和腰部），以及面部、身体毛发的生长。（维基百科）雄性激素还导致各种普遍不受欢迎的皮肤和头发影响，如油性皮肤、痤疮、皮脂溢出、头皮脱发和体味。此外，雄激素还阻止由雌激素激发的乳房发育。
 
-In addition to their effects on the body, sex hormones have actions in the brain. These actions influence cognition, emotions, and behavior. For instance, androgens produce pronounced sexual desire and arousal (including spontaneous erections) in men while estrogens are the major hormones responsible for sexual desire in women (Cappelletti & Wallen, 2016). Sex hormones also have important effects on health, which can be both positive and negative. For instance, estrogens maintain bone strength and likely protect against heart disease, but also increase the risk of breast cancer (Aly W., 2020).
+除了对身体的影响外，性激素在大脑中也有作用。这些作用影响认知、情绪和行为。例如，雄激素在男性中产生明显的性欲和唤醒（包括自发勃起），而雌激素是负责女性性欲的主要激素 (Cappelletti & Wallen, 2016)。性激素对健康也有重要影响，这可以是积极或消极的。例如，雌激素可以保持骨骼强度，并可能防止心脏疾病，但也会增加乳腺癌的风险 (Aly W., 2020)。
 
-Estrogens, progestogens, and androgens also have antigonadotropic effects. That is, they inhibit the gonadotropin-releasing hormone (GnRH)-induced secretion of the gonadotropins, luteinizing hormone (LH) and follicle-stimulating hormone (FSH), from the pituitary gland in the brain. The gonadotropins signal the gonads to make sex hormones and to supply the sperm and egg cells necessary for fertility. Hence, lower levels of the gonadotropins will result in reduced gonadal sex hormone production and diminished fertility. If gonadotropin levels are sufficiently suppressed, the gonads will no longer make sex hormones at all and fertility will cease. The vast majorities of the quantities of estradiol, testosterone, and progesterone in the body are produced by the gonads. Most of the small remaining amounts of these hormones are produced via the adrenal glands on top of the kidneys.
-Normal Hormone Levels
+雌激素、孕激素和雄激素也有抗促性腺激素的作用。意思是，它们抑制促性腺激素释放激素 (GnRH) 诱导的促性腺激素、黄体生成素 (LH) 和卵泡刺激素 (FSH) 从大脑垂体中的分泌。促性腺激素向性腺发出信号，使其制造性激素并提供生育所需的精子和卵细胞。因此，促性腺激素水平的降低将导致性腺性激素分泌的减少和生育能力的降低。如果促性腺激素水平被充分抑制，性腺将完全不再制造性激素，生育能力将停止。体内绝大部分的雌二醇、睾酮和孕酮是由性腺产生的。其余少量的这些激素大部分是由肾脏顶部的肾上腺产生的。
+
+### Normal Hormone Levels
 
 Hormone levels vary substantially but in a predictable manner during the normal menstrual cycle in cisgender women. The menstrual cycle lasts about 28 days and consists of the following parts:
 
