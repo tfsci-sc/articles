@@ -131,81 +131,28 @@
 
    [72]: https://en.wikipedia.org/wiki/Ovulation
 
-下表显示了女性和男性的雌二醇、孕酮和睾酮的循环水平和产生率，并可在它们之间进行比较。
+下表显示了女性和男性的雌二醇、孕酮和睾酮的循环水平和生产率，并可在它们之间进行比较。
 
-* 嗯表炸了。提醒自己回来修（微笑脸
+表格：主要性激素的循环水平<sup>a</sup>和预计生产率的区间<sup>b</sup>：
 
-Table: Ranges for circulating levelsa and estimated production ratesb of the major sex hormones: 
-
-HormoneGroupTimeLevelscProdution rates
-
-[Estradiol][73]
-Womend
-Follicular phase 
-5–180 pg/mL 
-30–170 μg/daye
+| 激素 | 群体 | 时间 | 水平<sup>c</sup> | 生产率 |
+| --- | --- | --- | --- | --- | 
+| [雌二醇][73] | 女性<sup>d</sup> | 卵泡期 | 5–180 pg/mL | 30–170 μg/day<sup>e</sup> |
+| | | 周期中期（排卵） | 45–750 pg/mL | 320–950 μg/day<sup>e</sup> |
+| | | 黄体期 | 20–300 pg/mL | 250–300 μg/day<sup>e</sup> |
+| | 男性 | – | 8–35 pg/mL | 20–60 μg/day |
+| [孕酮][74] | 女性<sup>d</sup> | 卵泡期 | ≤0.3 ng/mL | 0.75–5 mg/day |
+| | | 周期中期（排卵） | 0.1–1.5 ng/mL | ? (低) |
+| | | 黄体期 | 3.5–38 ng/mL | 15–50 mg/day<sup>f</sup> |
+| | 男性 | – | ≤0.5 ng/mL | 0.75–3 mg/day |
+| [睾酮][75] | 女性<sup>d</sup> | 月经周期 | 5–55 ng/dL | 190–260 μg/day |
+| | 男性 | – | 250–1100 ng/dL | 6.5 mg/day |
 
    [73]: http://en.wikipedia.org/wiki/Estradiol
-
-  
-  
-Mid-cycle (ovulation) 
-45–750 pg/mL 
-320–950 μg/daye
-
-  
-  
-Luteal phase 
-20–300 pg/mL 
-250–300 μg/daye
-
-  
-Men 
-– 
-8–35 pg/mL 
-20–60 μg/day 
-
-[Progesterone][74]
-Womend
-Follicular phase 
-≤0.3 ng/mL 
-0.75–5 mg/day 
-
    [74]: https://en.wikipedia.org/wiki/Progesterone
-
-  
-  
-Mid-cycle (ovulation) 
-0.1–1.5 ng/mL 
-? (low) 
-
-  
-  
-Luteal phase 
-3.5–38 ng/mL 
-15–50 mg/dayf
-
-  
-Men 
-– 
-≤0.5 ng/mL 
-0.75–3 mg/day 
-
-[Testosterone][75]
-Womend
-Menstrual cycle 
-5–55 ng/dL 
-190–260 μg/day 
-
    [75]: http://en.wikipedia.org/wiki/Testosterone
 
-  
-Men 
-– 
-250–1100 ng/dL 
-6.5 mg/day 
-
-a Sources for hormone levels: [Zhang & Stanczyk, 2013][76]; [Nakamoto, 2016][77]; [Styne, 2016][78]; [LabCorp, 2020][79]. b Sources for production rates: [Aufrère & Benson, 1976][80]; [Powers et al., 1985][81]; [Lauritzen, 1988][82]; [Carr, 1993][83]; [O’Connell, 1995][84]; [Kuhl, 2003][85]; [Strauss & FitzGerald, 2019][86]. c With [liquid chromatography–mass spectrometry][87] (LC–MS) (state-of-the-art blood tests). d During the menstrual cycle in the adult [premenopause][88] (age ~18–50 years). e Average production rate over the whole menstrual cycle is roughly 200 μg/day or 6 mg/month ([Rosenfield, Cooke, & Radovich, 2021][89]). f Average is about 25 mg/day (Carr, 1993).
+<sup>a</sup> 激素水平的来源：[Zhang & Stanczyk, 2013][76]; [Nakamoto, 2016][77]; [Styne, 2016][78]; [LabCorp, 2020][79]. <sup>b</sup> 生产率的来源：[Aufrère & Benson, 1976][80]; [Powers et al., 1985][81]; [Lauritzen, 1988][82]; [Carr, 1993][83]; [O’Connell, 1995][84]; [Kuhl, 2003][85]; [Strauss & FitzGerald, 2019][86]. <sup>c</sup> 使用 [液相色谱-质谱法][87] (LC–MS) (state-of-the-art blood tests). <sup>d</sup> 在停经前的成人月经周期中 [premenopause][88] (年龄 ~18–50 岁). <sup>e</sup>  整个月经周期的平均生产率约为 200 μg/day 或 6 mg/month ([Rosenfield, Cooke, & Radovich, 2021][89]). <sup>f</sup> 平均大概 25 mg/day (Carr, 1993).
 
    [76]: https://doi.org/10.1002/9781118671276.ch45
    [77]: https://doi.org/10.1016/B978-0-323-18907-1.00154-2
@@ -222,7 +169,7 @@ a Sources for hormone levels: [Zhang & Stanczyk, 2013][76]; [Nakamoto, 2016][77]
    [88]: https://en.wikipedia.org/wiki/Premenopause
    [89]: https://doi.org/10.1016/B978-0-323-62520-3.00016-6
 
-女性的平均雌二醇水平约为 100 pg/mL，男性为 25 pg/mL，而女性的平均睾酮水平约为 30 ng/dL，男性为 600 ng/dL。根据这些数值，男性的睾丸激素水平平均比女性高约20倍。在接受 [性腺切除术][90] （睾丸移除）的男性中，睾酮水平与女性相似 (<50 ng/dL)。([Nishiyama, 2014][91]; [Itty & Getzenberg, 2020][92])在有[雄性激素过剩][93] 症状的女性中（面部/ 身体毛发过度生长），如 [多囊卵巢综合症][94] (PCOS) 患者，其睾酮的平均水平约为 60 ng/dL。([Steinberger et al., 1998][95]) 因此，即使是相对于正常女性水平略微升高的睾丸激素水平也可能产生不良的雄性激素效应。
+女性的平均雌二醇水平约为 100 pg/mL，男性为 25 pg/mL，而女性的平均睾酮水平约为 30 ng/dL，男性为 600 ng/dL。根据这些数值，男性的睾丸激素水平平均比女性高约20倍。在接受 [性腺切除术][90]（睾丸移除）的男性中，睾酮水平与女性相似 (<50 ng/dL)。([Nishiyama, 2014][91]; [Itty & Getzenberg, 2020][92])在有[雄性激素过剩][93] 症状的女性中（面部/ 身体毛发过度生长），如 [多囊卵巢综合症][94] (PCOS) 患者，其睾酮的平均水平约为 60 ng/dL。([Steinberger et al., 1998][95]) 因此，即使是相对于正常女性水平略微升高的睾丸激素水平也可能产生不良的雄性激素效应。
 
    [90]: https://en.wikipedia.org/wiki/Gonadectomy
    [91]: https://doi.org/10.1016/j.urolonc.2013.03.007
