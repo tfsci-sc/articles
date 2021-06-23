@@ -1,0 +1,1261 @@
+From: <https://transfemscience.org/articles/transfem-intro/>
+
+By [Aly W.][1] | First published August 4, 2018 | Last modified June 22, 2021 
+
+   [1]: https://transfemscience.org/about/#aly-w
+
+##  Preface 
+
+This article is also available in other languages for non-English speakers. 
+
+##  Abstract / TL;DR 
+
+Sex hormones such as estrogen, testosterone, and progesterone are produced by the gonads. The sex hormones mediate the development of the secondary sexual characteristics. Testosterone causes masculinization while estradiol causes feminization and breast development. Males have high amounts of testosterone while females have low testosterone but high amounts of estradiol. These hormonal differences are responsible for the physical differences between males and females. Sex hormones and other hormonal medications are used in transfeminine people to shift the hormonal profile from a male-typical one to a female-typical profile. This causes feminization and allows for alleviation of gender dysphoria. The changes caused by transfeminine hormone therapy occur over a period of months to years. There are many different types and forms of hormonal medications and these medications can be administered via a variety of different routes. For instance, as pills taken by mouth, as patches or gel applied to the skin, and as injections, among others. Different hormonal medications, routes, and doses have different efficacies, side effects, and risks. Hormone therapy should be regularly monitored via blood tests to ensure efficacy and safety and allow for adjustment as necessary. 
+
+##  The Sex Hormones 
+
+###  Types and Effects 
+
+The [sex hormones][2] include the [estrogens][3] (E), [progestogens][4] (P), and [androgens][5]. A person’s hormonal profile is a product of the type of [gonads][6] that they are born with. Natal men have [testes][7] while natal women have [ovaries][8]. Testes produce large amounts of androgens and small amounts of estrogens whereas ovaries produce high amounts of estrogens and progesterone and low amounts of androgens. 
+
+   [2]: http://en.wikipedia.org/wiki/Sex_steroid
+   [3]: https://en.wikipedia.org/wiki/Estrogen
+   [4]: https://en.wikipedia.org/wiki/Progestogen
+   [5]: https://en.wikipedia.org/wiki/Androgen
+   [6]: http://en.wikipedia.org/wiki/Gonad
+   [7]: http://en.wikipedia.org/wiki/Testicle
+   [8]: https://en.wikipedia.org/wiki/Ovary
+
+The major estrogen in the body is [estradiol][9] (E2), the main progestogen is [progesterone][10] (P4), and the major androgens are [testosterone][11] (T) and [dihydrotestosterone][12] (DHT). The sex hormones are responsible for and determine the [secondary sex characteristics][13]. They mediate their effects by acting as [agonists][14] (or activators) of [receptors][15] inside of cells. These receptors include the [androgen receptor][16] (AR), the [estrogen receptors][17] (ERs), and the [progesterone receptors][18] (PRs). Following their activation, these receptors modulate [gene expression][19] to influence cells and [tissues][20]. 
+
+   [9]: https://en.wikipedia.org/wiki/Estradiol
+   [10]: https://en.wikipedia.org/wiki/Progesterone
+   [11]: https://en.wikipedia.org/wiki/Testosterone
+   [12]: https://en.wikipedia.org/wiki/Dihydrotestosterone
+   [13]: https://en.wikipedia.org/wiki/Secondary_sex_characteristic
+   [14]: https://en.wikipedia.org/wiki/Agonist
+   [15]: https://en.wikipedia.org/wiki/Receptor_(biochemistry)
+   [16]: https://en.wikipedia.org/wiki/Androgen_receptor
+   [17]: https://en.wikipedia.org/wiki/Estrogen_receptor
+   [18]: https://en.wikipedia.org/wiki/Progesterone_receptor
+   [19]: https://en.wikipedia.org/wiki/Gene_expression
+   [20]: http://en.wikipedia.org/wiki/Tissue_(biology)
+
+Estrogens cause feminization. This includes [breast development][21], softening of the skin, a [feminine pattern of fat distribution][22] (concentrated in the breasts, hips, thighs, and buttocks), [widening of the hips][23] (in those whose [growth plates][24] have not yet fused), and other changes ([Wiki][25]). 
+
+   [21]: https://en.wikipedia.org/wiki/Breast_development
+   [22]: https://en.wikipedia.org/wiki/Gynoid_fat_distribution
+   [23]: https://en.wikipedia.org/wiki/Hip#Sexual_dimorphism_and_cultural_significance
+   [24]: https://en.wikipedia.org/wiki/Epiphyseal_plate
+   [25]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_estradiol#Effects_in_the_body_and_brain
+
+Progestogens have essentially no known role in feminization or [pubertal][26] breast development. Rather than acting as mediators of feminization, progestogens have important effects in the [female reproductive system][27] and are essential hormones during [pregnancy][28] ([Wiki][29]). They also oppose the actions of estrogens in certain parts of the body, such as the [uterus][30], vagina, and breasts ([Wiki][31]). 
+
+   [26]: http://en.wikipedia.org/wiki/Puberty
+   [27]: https://en.wikipedia.org/wiki/Female_reproductive_system
+   [28]: https://en.wikipedia.org/wiki/Pregnancy
+   [29]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_progesterone#Effects_in_the_body_and_brain
+   [30]: https://en.wikipedia.org/wiki/Uterus
+   [31]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_progesterone#Antiestrogenic_effects
+
+Androgens cause [masculinization][32]. This includes [growth of the penis][33], [broadening of the shoulders][34], [expansion of the rib cage][35], [muscle growth][36], [voice deepening][37], a [masculine pattern of fat distribution][38] (concentrated in the stomach and waist), and [facial/body hair growth][39] ([Wiki][40]). Androgens also cause a variety of generally undesirable skin and hair effects, including [oily skin][41], [acne][42], [seborrhea][43], [scalp hair loss][44], and [body odor][45]. They additionally oppose breast development mediated by estrogens. 
+
+   [32]: https://en.wikipedia.org/wiki/Virilization
+   [33]: https://en.wikipedia.org/wiki/Penile_growth
+   [34]: https://en.wikipedia.org/wiki/Shoulder#Development
+   [35]: https://en.wikipedia.org/wiki/Rib_cage#Development
+   [36]: https://en.wikipedia.org/wiki/Muscle_growth
+   [37]: https://en.wikipedia.org/wiki/Voice_change
+   [38]: https://en.wikipedia.org/wiki/Android_fat_distribution
+   [39]: http://en.wikipedia.org/wiki/Hair_growth
+   [40]: https://en.wikipedia.org/wiki/Testosterone_(medication)#Effects_in_the_body_and_brain
+   [41]: https://en.wikipedia.org/wiki/Oily_skin
+   [42]: https://en.wikipedia.org/wiki/Acne
+   [43]: https://en.wikipedia.org/wiki/Seborrhoeic_dermatitis
+   [44]: https://en.wikipedia.org/wiki/Pattern_hair_loss
+   [45]: https://en.wikipedia.org/wiki/Body_odor
+
+In addition to their effects on the body, sex hormones have actions in the brain. These actions influence cognition, emotions, and behavior. For instance, androgens produce pronounced [sexual desire][46] and [arousal][47] (including [spontaneous erections][48]) in men while estrogens are the major hormones responsible for sexual desire in women ([Cappelletti & Wallen, 2016][49]). Sex hormones also have important effects on health, which can be both positive and negative. For instance, estrogens maintain [bone strength][50] and likely protect against [heart disease][51], but also increase the risk of [breast cancer][52] ([Aly W., 2020][53]). 
+
+   [46]: https://en.wikipedia.org/wiki/Sexual_desire
+   [47]: https://en.wikipedia.org/wiki/Sexual_arousal
+   [48]: https://en.wikipedia.org/wiki/Erection
+   [49]: https://doi.org/10.1016/j.yhbeh.2015.11.003
+   [50]: https://en.wikipedia.org/wiki/Bone_density
+   [51]: https://en.wikipedia.org/wiki/Coronary_artery_disease
+   [52]: https://en.wikipedia.org/wiki/Breast_cancer
+   [53]: https://transfemscience.org/articles/breast-cancer/
+
+Estrogens, progestogens, and androgens also have [antigonadotropic][54] effects. That is, they inhibit the [gonadotropin-releasing hormone][55] (GnRH)-induced secretion of the [gonadotropins][56], [luteinizing hormone][57] (LH) and [follicle-stimulating hormone][58] (FSH), from the [pituitary gland][59] in the brain. The gonadotropins signal the gonads to make sex hormones and to supply the sperm and egg cells necessary for fertility. Hence, lower levels of the gonadotropins will result in reduced gonadal sex hormone production and diminished fertility. If gonadotropin levels are sufficiently suppressed, the gonads will no longer make sex hormones at all and fertility will cease. The vast majorities of the quantities of estradiol, testosterone, and progesterone in the body are produced by the gonads. Most of the small remaining amounts of these hormones are produced via the [adrenal glands][60] on top of the [kidneys][61]. 
+
+   [54]: https://en.wikipedia.org/wiki/Antigonadotropin
+   [55]: https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone
+   [56]: https://en.wikipedia.org/wiki/Gonadotropin
+   [57]: https://en.wikipedia.org/wiki/Luteinizing_hormone
+   [58]: https://en.wikipedia.org/wiki/Follicle-stimulating_hormone
+   [59]: https://en.wikipedia.org/wiki/Pituitary_gland
+   [60]: https://en.wikipedia.org/wiki/Adrenal_gland
+   [61]: http://en.wikipedia.org/wiki/Kidney
+
+###  Normal Hormone Levels 
+
+Hormone levels vary substantially but in a predictable manner during the normal [menstrual cycle][62] in cisgender women. The menstrual cycle lasts about 28 days and consists of the following parts: 
+
+   [62]: https://en.wikipedia.org/wiki/Menstrual_cycle
+
+  1. [Follicular phase][63]—first half of the cycle or days 1–14
+  2. [Mid-cycle][64]—middle of the cycle or days 12–16 or so
+  3. [Luteal phase][65]—latter half of the cycle or days 14–28
+
+   [63]: https://en.wikipedia.org/wiki/Follicular_phase
+   [64]: https://en.wikipedia.org/wiki/Menstrual_cycle#Cycles_and_phases
+   [65]: https://en.wikipedia.org/wiki/Luteal_phase
+
+Hormone levels during the menstrual cycle are shown in the following graph: 
+
+![][66]
+
+   [66]: https://transfemscience.org/assets/images/transfem-intro-e2-p4-cycle.png
+
+Figure: Median estradiol and progesterone levels throughout the menstrual cycle in premenopausal women ([Stricker et al., 2006][67]; [Abbott, 2009][68]). The horizontal dashed lines are the average levels over the spanned periods. Other graphs available elsewhere show variation between individuals ([Wiki-Graph][69]; [Wiki-Graph][70]; [Wiki-Graph][71]). 
+
+   [67]: https://doi.org/10.1515/CCLM.2006.160
+   [68]: https://web.archive.org/web/20200127014925/http://www.ilexmedical.com/files/PDF/Estradiol_ARC.pdf
+   [69]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_with_LC-MS-MS_during_the_normal_menstrual_cycle_in_women.png
+   [70]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_across_the_normal_menstrual_cycle_in_women.png
+   [71]: https://commons.wikimedia.org/wiki/File:Progesterone_levels_across_the_normal_menstrual_cycle_in_women.png
+
+As can be seen from the graph, estradiol levels are relatively low and progesterone levels are very low during the follicular phase; estradiol but not progesterone levels briefly surge to very high levels and trigger [ovulation][72] during mid-cycle; and estradiol and progesterone levels both undergo a bump and are relatively high during the luteal phase (though estradiol not as high as during the mid-cycle peak). 
+
+   [72]: https://en.wikipedia.org/wiki/Ovulation
+
+The table below shows the circulating levels and production rates of estradiol, progesterone, and testosterone in women and men and allows for comparison between them. 
+
+Table: Ranges for circulating levelsa and estimated production ratesb of the major sex hormones: 
+
+HormoneGroupTimeLevelscProdution rates
+
+[Estradiol][73]
+Womend
+Follicular phase 
+5–180 pg/mL 
+30–170 μg/daye
+
+   [73]: http://en.wikipedia.org/wiki/Estradiol
+
+  
+  
+Mid-cycle (ovulation) 
+45–750 pg/mL 
+320–950 μg/daye
+
+  
+  
+Luteal phase 
+20–300 pg/mL 
+250–300 μg/daye
+
+  
+Men 
+– 
+8–35 pg/mL 
+20–60 μg/day 
+
+[Progesterone][74]
+Womend
+Follicular phase 
+≤0.3 ng/mL 
+0.75–5 mg/day 
+
+   [74]: https://en.wikipedia.org/wiki/Progesterone
+
+  
+  
+Mid-cycle (ovulation) 
+0.1–1.5 ng/mL 
+? (low) 
+
+  
+  
+Luteal phase 
+3.5–38 ng/mL 
+15–50 mg/dayf
+
+  
+Men 
+– 
+≤0.5 ng/mL 
+0.75–3 mg/day 
+
+[Testosterone][75]
+Womend
+Menstrual cycle 
+5–55 ng/dL 
+190–260 μg/day 
+
+   [75]: http://en.wikipedia.org/wiki/Testosterone
+
+  
+Men 
+– 
+250–1100 ng/dL 
+6.5 mg/day 
+
+a Sources for hormone levels: [Zhang & Stanczyk, 2013][76]; [Nakamoto, 2016][77]; [Styne, 2016][78]; [LabCorp, 2020][79]. b Sources for production rates: [Aufrère & Benson, 1976][80]; [Powers et al., 1985][81]; [Lauritzen, 1988][82]; [Carr, 1993][83]; [O’Connell, 1995][84]; [Kuhl, 2003][85]; [Strauss & FitzGerald, 2019][86]. c With [liquid chromatography–mass spectrometry][87] (LC–MS) (state-of-the-art blood tests). d During the menstrual cycle in the adult [premenopause][88] (age ~18–50 years). e Average production rate over the whole menstrual cycle is roughly 200 μg/day or 6 mg/month ([Rosenfield, Cooke, & Radovich, 2021][89]). f Average is about 25 mg/day (Carr, 1993).
+
+   [76]: https://doi.org/10.1002/9781118671276.ch45
+   [77]: https://doi.org/10.1016/B978-0-323-18907-1.00154-2
+   [78]: https://doi.org/10.1007/978-3-319-18371-8_16
+   [79]: https://web.archive.org/web/20200330030510/https://www.esoterix.com/sites/default/files/L5167-0320-17.pdf
+   [80]: https://doi.org/10.1002/jps.2600650602
+   [81]: https://doi.org/10.1016/0002-9378(85)90569-1
+   [82]: https://docs.google.com/document/d/1vlUvDVON8ZrB_NeFqyQDRn-lvYUtV74lCmfBRP2DxzI/view
+   [83]: https://scholar.google.com/scholar?cluster=16829789208796034783
+   [84]: https://doi.org/10.1002/j.1552-4604.1995.tb04143.x
+   [85]: https://www.kup.at/journals/summary/3583.html
+   [86]: https://doi.org/10.1016/B978-0-323-47912-7.00004-4
+   [87]: https://en.wikipedia.org/wiki/Liquid_chromatography%E2%80%93mass_spectrometry
+   [88]: https://en.wikipedia.org/wiki/Premenopause
+   [89]: https://doi.org/10.1016/B978-0-323-62520-3.00016-6
+
+Mean estradiol levels are about 100 pg/mL in women and 25 pg/mL in men, while mean testosterone levels are about 30 ng/dL in women and 600 ng/dL in men. Based on these values, testosterone levels are on average about 20-fold higher in men than in women. In men who have undergone [gonadectomy][90] (castration), testosterone levels are similar to those in women (<50 ng/dL) ([Nishiyama, 2014][91]; [Itty & Getzenberg, 2020][92]). The average levels of testosterone in women with symptoms of [androgen excess][93] (e.g., excessive facial/body hair growth) due to [polycystic ovary syndrome][94] (PCOS) are about 60 ng/dL ([Steinberger et al., 1998][95]). Hence, even testosterone levels that are marginally elevated relative to normal female levels may produce undesirable androgenic effects. 
+
+   [90]: https://en.wikipedia.org/wiki/Gonadectomy
+   [91]: https://doi.org/10.1016/j.urolonc.2013.03.007
+   [92]: https://doi.org/10.4103/aja.aja_139_19
+   [93]: https://en.wikipedia.org/wiki/Hyperandrogenism
+   [94]: https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome
+   [95]: https://doi.org/10.4158/EP.4.1.1
+
+##  Overview of Hormone Therapy 
+
+The goal of [hormone therapy for transfeminine people][96], otherwise known as male-to-female (MtF) hormone replacement therapy (HRT) or feminizing hormone therapy (FHT), is to produce [feminization][97] and [demasculinization][98] of the body as well as alleviation of [gender dysphoria][99]. Medication therapy with sex hormones and other [sex-hormonal medications][100] is used to mediate these changes. Transfeminine people are given [estrogens][101], [progestogens][102], and [antiandrogens][103] (AAs) to supersede gonadal sex hormone production and shift the hormonal profile from male-typical to female-typical. 
+
+   [96]: https://en.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)
+   [97]: https://en.wikipedia.org/wiki/Feminization_(biology)
+   [98]: https://en.wikipedia.org/wiki/Demasculinization
+   [99]: https://en.wikipedia.org/wiki/Gender_dysphoria
+   [100]: https://en.wikipedia.org/wiki/Sex-hormonal_agent
+   [101]: https://en.wikipedia.org/wiki/Estrogen_(medication)
+   [102]: https://en.wikipedia.org/wiki/Progestogen_(medication)
+   [103]: https://en.wikipedia.org/wiki/Antiandrogen
+
+Transfeminine hormone therapy aims to achieve estradiol and testosterone levels within the normal female range. Commonly recommended ranges in the literature are 100 to 200 pg/mL for estradiol levels and less than 50 ng/dL for testosterone levels ([Wiki-Table][104]). However, higher estradiol levels of 200 pg/mL and above can be useful in transfeminine hormone therapy to help suppress testosterone levels. Sex hormone levels in the blood can be measured with [blood tests][105]. This is useful in transfeminine hormone therapy to ensure that the hormonal profile has been satisfactorily altered in line with therapeutic goals, specifically hormone levels that are within female ranges. 
+
+   [104]: https://en.wikipedia.org/wiki/Template:Target_ranges_for_hormone_levels_in_hormone_therapy_for_transgender_women
+   [105]: https://en.wikipedia.org/wiki/Blood_test
+
+###  Gonadal Suppression 
+
+At sufficiently high exposure, estrogens and androgens are able to completely suppress gonadal sex hormone production while progestogens by themselves are able to partially but substantially suppress gonadal sex hormone production. More specifically, studies in cisgender men and transfeminine people have found that estradiol levels of around 200 pg/mL generally suppress testosterone levels by about 90% (to around 50 ng/dL), while estradiol levels of about 500 pg/mL suppress testosterone levels by about 95% on average (to around 20–30 ng/dL) ([Wiki][106]; [Wiki-Graphs][107]). Estradiol levels of below 200 pg/mL also suppress testosterone levels, although to a reduced extent ([Aly W., 2019][108]; [Aly W., 2019][109]; [Aly W., 2020][110]). Progestogens on their own are able to maximally suppress testosterone levels by about 50 to 70% (to around 150–300 ng/dL on average) ([Aly W., 2019][111]; [Wiki][112]). In combination with even small amounts of estrogen however, there is synergism in antigonadotropic effect and the suppression of testosterone levels with maximally effective doses of progestogens increases to about 95% (to around 20–30 ng/dL) ([Aly W., 2019][113]). Hence, the combination of an estrogen and a progestogen can be used to achieve maximal suppression of testosterone levels at lower doses than would be necessary if an estrogen or progestogen were used alone. 
+
+   [106]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_estradiol#Antigonadotropic_effects
+   [107]: https://en.wikipedia.org/wiki/Template:Antigonadotropic_effects_of_estradiol
+   [108]: https://transfemscience.org/articles/oral-e2-leinung-2018/
+   [109]: https://transfemscience.org/articles/sublingual-e2-mpa-jain-2019/
+   [110]: https://transfemscience.org/articles/e2-patches-de-ronde/
+   [111]: https://transfemscience.org/articles/cpa-dosage/#testosterone-suppression-in-combination-with-estrogen
+   [112]: https://en.wikipedia.org/wiki/Pharmacology_of_cyproterone_acetate#Antigonadotropic_effects
+   [113]: https://transfemscience.org/articles/cpa-dosage/
+
+![][114]
+
+   [114]: https://transfemscience.org/assets/images/transfem-intro-pep-e2-t.png
+
+Figure: Estradiol and testosterone levels after a single injection of 320 mg [polyestradiol phosphate][115] (PEP) (a long-acting [prodrug][116] of estradiol) in men with prostate cancer ([Stege et al., 1996][117]). The peak decrease in testosterone levels occurred with estradiol levels of greater than 200 pg/mL and was about 90% (to roughly 50 ng/dL). 
+
+   [115]: https://en.wikipedia.org/wiki/Polyestradiol_phosphate
+   [116]: https://en.wikipedia.org/wiki/Prodrug
+   [117]: https://doi.org/10.1002/(SICI)1097-0045(199605)28:5%3C307::AID-PROS6%3E3.0.CO;2-8
+
+The antigonadotropic effects of estrogens and progestogens are taken advantage of in transfeminine hormone therapy to suppress gonadal testosterone production and attain testosterone levels that are more consistent with those in cisgender women. It should be noted that the preceding numbers on testosterone suppression with estrogens and progestogens are averages and there is significant variation between individuals in terms of testosterone suppression. In other words, some may need more or less in terms of hormonal dosages to achieve the same decrease in testosterone levels. 
+
+During normal puberty in both males and females, sex hormone exposure increases slowly over a period of several years ([Aly W., 2020][118]) and sexual maturation occurs gradually. In non-adolescent transgender people, adult or higher amounts of hormones are generally administered right away and this can result in changes in secondary sex characteristics happening much more quickly. The table below is reproduced from literature sources with slight modification and is commonly cited as a timeline for the effects of hormone therapy in transfeminine people ([Wiki-Table][119]). It is based on a mix of clinical experience, expert opinion, and clinical studies of transfeminine people. 
+
+   [118]: https://transfemscience.org/articles/hormone-levels-female-puberty/
+   [119]: https://en.wikipedia.org/wiki/Template:Effects_of_feminizing_hormone_therapy_in_transgender_women
+
+Table: Effects of hormone therapy at typical doses in adult transfeminine people ([Wiki-Table][120]): 
+
+   [120]: https://en.wikipedia.org/wiki/Template:Effects_of_feminizing_hormone_therapy_in_transgender_women
+
+EffectOnsetaCompletionaPermanency
+
+Breast development 
+2–6 months 
+2–3 years 
+Permanent 
+
+Reduced and slowed growth of facial and body hair 
+3–12 months 
+>3 yearsb
+Reversible 
+
+Cessation and reversal of scalp hair loss 
+1–3 months 
+1–2 years 
+Reversible 
+
+Softening of skin and decreased skin oiliness and acne 
+3–6 months 
+Unknown 
+Reversible 
+
+Redistribution of body fat in a feminine pattern 
+3–6 months 
+2–5 years 
+Reversible 
+
+Decreased muscle mass and strength 
+3–6 months 
+1–2 yearsc
+Reversible 
+
+Widening and rounding of the pelvisd
+Unknown 
+Unknown 
+Permanent 
+
+Changes in mood, emotionality, and behavior 
+Immediate 
+Unknown 
+Reversible 
+
+Decreased sex drive and spontaneous erections 
+1–3 months 
+3–6 months 
+Reversible 
+
+Erectile dysfunction and decreased ejaculate volume 
+1–3 months 
+Variable 
+Reversible 
+
+Decreased sperm production and infertility 
+Unknown 
+>3 years 
+Mixede
+
+Decreased testicular volume 
+3–6 months 
+2–3 years 
+Unknown 
+
+Voice changes (e.g., decreased pitch/resonance) 
+Nonef
+N/A 
+N/A 
+
+a May vary significantly between individuals due to factors like genetics, diet/nutrition, hormone levels, etc. b Hormone therapy usually has little influence on facial hair density in transfeminine people. Complete removal of facial and body hair can be achieved with [laser hair removal][121] and [electrolysis][122]. Temporary hair removal can be achieved with [shaving][123], [epilating][124], [waxing][125], and other methods. c May vary significantly depending on amount of physical exercise. d Occurs only in young individuals who have not yet completed growth plate closure (may not occur at all in post-adolescent people). e Only estrogens, particularly at high doses, seem to have the potential for long-lasting or irreversible infertility; impaired fertility caused by antiandrogens is usually readily reversible with discontinuation. f [Voice training][126] is an effective means of feminizing the voice.
+
+   [121]: https://en.wikipedia.org/wiki/Laser_hair_removal
+   [122]: https://en.wikipedia.org/wiki/Electrolysis
+   [123]: https://en.wikipedia.org/wiki/Shaving
+   [124]: https://en.wikipedia.org/wiki/Epilator
+   [125]: https://en.wikipedia.org/wiki/Waxing
+   [126]: https://en.wikipedia.org/wiki/Voice_training
+
+The medications that are used in transfeminine hormone therapy include estrogens, progestogens, and antiandrogens. Estrogens produce feminization and suppress testosterone levels. Progestogens and antiandrogens can help to further suppress and/or block testosterone. Androgens are sometimes used at low doses in transfeminine people with low testosterone levels. There are many different types of these medications with different benefits and risks. 
+
+Estrogens, progestogens, and antiandrogens are available in a variety of different [formulations][127] and for use by many different [routes of administration][128] in transfeminine people. The route of administration influences the [absorption][129], [distribution][130], [metabolism][131], and [elimination][132] of the hormone in the body, resulting in significant differences between routes in terms of [bioavailability][133], hormone levels in blood and specific tissues, and patterns of [metabolites][134]. These differences can have therapeutic implications. 
+
+   [127]: https://en.wikipedia.org/wiki/Drug_formulation
+   [128]: https://en.wikipedia.org/wiki/Route_of_administration
+   [129]: https://en.wikipedia.org/wiki/Absorption_(pharmacology)
+   [130]: https://en.wikipedia.org/wiki/Distribution_(pharmacology)
+   [131]: https://en.wikipedia.org/wiki/Metabolism
+   [132]: https://en.wikipedia.org/wiki/Elimination_(pharmacology)
+   [133]: https://en.wikipedia.org/wiki/Bioavailability
+   [134]: https://en.wikipedia.org/wiki/Metabolite
+
+Table: Major routes of administration of hormonal medications for transfeminine people: 
+
+RouteAbbr.DescriptionTypical forms
+
+[Oral administration][135]
+PO 
+Swallowed 
+Tablet, capsule 
+
+   [135]: https://en.wikipedia.org/wiki/Oral_administration
+
+[Sublingual administration][136]
+SL 
+Held and absorbed under tongue 
+Tablet 
+
+   [136]: https://en.wikipedia.org/wiki/Sublingual_administration
+
+[Buccal administration][137]
+BUC 
+Held and absorbed in cheek or under lips 
+Tablet 
+
+   [137]: https://en.wikipedia.org/wiki/Buccal_administration
+
+[Transdermal administration][138]
+TD 
+Applied to and absorbed through the skin 
+Patch, gel, cream 
+
+   [138]: https://en.wikipedia.org/wiki/Transdermal
+
+[Rectal administration][139]
+REC 
+Inserted into and absorbed by rectum 
+Suppository 
+
+   [139]: https://en.wikipedia.org/wiki/Rectal_administration
+
+[Intramuscular injection][140]
+IM 
+Injected into muscle (e.g., buttocks, thigh, arm) 
+Solution (vial/amp.) 
+
+   [140]: https://en.wikipedia.org/wiki/Intramuscular_injection
+
+[Subcutaneous injection][141]
+SC 
+Injected into fat under skin 
+Solution (vial/amp.) 
+
+   [141]: https://en.wikipedia.org/wiki/Subcutaneous_injection
+
+[Subcutaneous implant][142]
+SCi 
+Insertion via surgical incision into fat under skin 
+Pellet 
+
+   [142]: https://en.wikipedia.org/wiki/Subcutaneous_implant
+
+[Vaginal administration][143] is a major route of administration of hormonal medications in cisgender women. While vaginal administration via a natal vagina is of course not possible in transfeminine people, [neovaginal][144] administration is an option in those who have undergone [vaginoplasty][145]. However, the lining of the neovagina is not the [vaginal epithelium][146] of natal females but rather is usually skin or colon depending on the type of vaginoplasty performed ([penile inversion][147] or [sigmoid colon vaginoplasty][148], respectively). For this reason, neovaginal administration in transfeminine people is likely more similar in its properties to the transdermal and rectal routes (depending on the type of neovagina) than to vaginal administration in cisgender women. In any case, absorption of estradiol via neovagina constructed from [peritoneum][149] (internal abdominal lining) was reported in one study to be similar to that with vaginal administration of estradiol in cisgender women ([Willemsen et al., 1985][150]). 
+
+   [143]: https://en.wikipedia.org/wiki/Intravaginal_administration
+   [144]: https://en.wiktionary.org/wiki/neovagina
+   [145]: https://en.wikipedia.org/wiki/Vaginoplasty
+   [146]: https://en.wikipedia.org/wiki/Vaginal_epithelium
+   [147]: https://en.wikipedia.org/wiki/Penile_inversion_vaginoplasty
+   [148]: https://en.wikipedia.org/wiki/Sigmoid_colon_vaginoplasty
+   [149]: https://en.wikipedia.org/wiki/Peritoneum
+   [150]: https://doi.org/10.1016/0028-2243(85)90036-X
+
+###  Estrogens 
+
+The estrogens that are used in transfeminine people are [estradiol][151] and [estradiol esters][152]. Examples of estradiol esters include [estradiol valerate][153] (EV; Progynova, Progynon Depot, Delestrogen), [estradiol cypionate][154] (EC; Depo-Estradiol), [estradiol enanthate][155] (EEn), and [estradiol benzoate][156] (EB; Progynon-B). They are [prodrugs][157] of estradiol (i.e., are converted into estradiol in the body) and have identical biological activity to estradiol. However, they have longer [durations][158] when used by injection due to slower [absorption][159] from the injection site. This allows them to be administered less often. [Polyestradiol phosphate][160] (PEP; Estradurin) is an estradiol prodrug in the form of a [polymer][161] (i.e., linked chain of estradiol molecules). It is [metabolized][162] slowly and has a very long duration. 
+
+   [151]: https://en.wikipedia.org/wiki/Estradiol_(medication)
+   [152]: https://en.wikipedia.org/wiki/Estrogen_ester
+   [153]: https://en.wikipedia.org/wiki/Estradiol_valerate
+   [154]: https://en.wikipedia.org/wiki/Estradiol_cypionate
+   [155]: https://en.wikipedia.org/wiki/Estradiol_enantate
+   [156]: https://en.wikipedia.org/wiki/Estradiol_benzoate
+   [157]: https://en.wikipedia.org/wiki/Prodrug
+   [158]: https://en.wikipedia.org/wiki/Duration_of_action
+   [159]: https://en.wikipedia.org/wiki/Absorption_(pharmacology)
+   [160]: https://en.wikipedia.org/wiki/Polyestradiol_phosphate
+   [161]: https://en.wikipedia.org/wiki/Polymer
+   [162]: https://en.wikipedia.org/wiki/Metabolism
+
+Non-[bioidentical][163] estrogens such as [ethinylestradiol][164] (EE; found in [birth control pills][165]), [conjugated estrogens][166] (CEEs; Premarin; used in [menopausal hormone therapy][167]), and [diethylstilbestrol][168] (DES; no longer used) are resistant to metabolism in the liver when compared to estradiol and have disproportionate effects on estrogen-modulated [liver synthesis][169] ([Aly W., 2020][170]). As a result, they have greater risks of health problems such as [blood clots][171] and associated [cardiovascular problems][172]. For this reason, as well as the fact that relatively high doses of estrogens may be necessary to adequately suppress testosterone levels in gonadally intact transfeminine people, non-bioidentical estrogens should ideally never be used in transfeminine hormone therapy. 
+
+   [163]: https://en.wiktionary.org/wiki/bioidentical
+   [164]: https://en.wikipedia.org/wiki/Ethinylestradiol
+   [165]: https://en.wikipedia.org/wiki/Combined_oral_contraceptive_pill
+   [166]: https://en.wikipedia.org/wiki/Conjugated_estrogens
+   [167]: http://en.wikipedia.org/wiki/Menopausal_hormone_therapy
+   [168]: https://en.wikipedia.org/wiki/Diethylstilbestrol
+   [169]: https://en.wikipedia.org/wiki/Liver#Synthesis
+   [170]: https://transfemscience.org/articles/estrogens-coagulation-blood-clots/
+   [171]: https://en.wikipedia.org/wiki/Venous_thrombosis
+   [172]: https://en.wikipedia.org/wiki/Cardiovascular_disease
+
+Estrogens can be used by themselves at high doses to suppress testosterone levels into the female range. Alternatively, an estrogen can be used at lower doses that result in more [physiological][173] estrogen levels in combination with an antiandrogen or progestogen. This will result in partial suppression of testosterone levels by the estrogen and further suppression or blockade of remaining testosterone via the antiandrogen or progestogen. However, the addition of an antiandrogen or progestogen to estrogen therapy will also include the side effects and risks of these medications. 
+
+   [173]: https://en.wiktionary.org/wiki/physiological
+
+The feminizing effects of estrogens are maximal at low levels in the absence of androgens. Higher doses of estrogens, aside from allowing for greater testosterone suppression, don’t result in better feminization. In fact, there is indication that higher doses may actually result in worse breast development. This topic will be covered in a future article on this site. Higher doses of estrogens, including estradiol, also have a greater risk of adverse health effects such as blood clots and cardiovascular problems ([Aly W., 2020][174]). As such, the use of physiological doses of estrogens is optimal. However, high doses of estrogen are useful for testosterone suppression and the absolute risks in the case of [non-oral][175] estradiol are low. They are also confined largely to people with specific [risk factors][176], including older age, physical inactivity, obesity, concomitant progestogen use, smoking, surgery, and [thrombophilic abnormalities][177]. In healthy young individuals without relevant risk factors, high doses of non-oral estradiol—within reason—are likely acceptably safe ([Aly W., 2020][174]). 
+
+   [174]: https://transfemscience.org/articles/estrogens-coagulation-blood-clots/
+   [175]: https://en.wikipedia.org/wiki/Parenteral_administration
+   [176]: https://en.wikipedia.org/wiki/Risk_factor
+   [177]: http://en.wikipedia.org/wiki/Thrombophilia
+
+####  Routes, Doses, and Levels of Estradiol 
+
+Estradiol and its esters are usually used in transfeminine people by the oral, sublingual, transdermal, intramuscular, and/or subcutaneous routes ([Wiki][178]). 
+
+   [178]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Routes_of_administration
+
+Oral estradiol is available in the form of tablets of estradiol or estradiol valerate. Administration of estradiol by the oral route has issues with bioavailability and often achieves relatively low estradiol levels, which can result in inadequate testosterone suppression depending on the antiandrogen ([Wiki][179]; [Leinung, 2014][180]; [Leinung et al., 2018][181]). Oral estradiol is not a favorable choice in the case of estrogen monotherapy due to the high estradiol levels required. Oral estradiol tablets can notably be taken sublingually instead of orally. Sublingual administration of estradiol tablets has as much as 5-fold higher bioavailability than when taken by the oral route ([Wiki][182]). However, sublingual estradiol has a very short duration ([Wiki][182]) and it may be advisable to take it in divided doses throughout the day to maintain steadier estradiol levels. Oral estradiol valerate tablets can be taken sublingually similarly to estradiol ([Wiki][183]; [Aly W., 2019][184]). Buccal administration of estradiol has similar properties to sublingual administration but is less often used and has not been studied as much ([Wiki][185]). 
+
+   [179]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Oral_administration
+   [180]: https://web.archive.org/web/20180304204640/http://press.endocrine.org/doi/abs/10.1210/endo-meetings.2014.RE.2.OR42-1
+   [181]: https://doi.org/10.1089/trgh.2017.0035
+   [182]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Sublingual_administration
+   [183]: https://en.wikipedia.org/wiki/Estradiol_valerate#Sublingual_administration
+   [184]: https://transfemscience.org/articles/sublingual-ev/
+   [185]: https://en.wikipedia.org/wiki/Buccal_administration
+
+Transdermal estradiol is available as patches, gel, emulsions, and sprays ([Wiki][186]). They are usually applied to skin sites such as the arms, abdomen, and buttocks. In the case of estrogen monotherapy, two to four maximum-dose patches or many pumps or packets of gel may be required to achieve estradiol levels sufficient for full testosterone suppression in transfeminine people ([Wiki][186]). Genital application of transdermal estradiol, specifically to the scrotum or neolabia, can result in much higher estradiol levels than application to conventional skin sites in this context ([Aly W., 2019][187]; [Aly W., 2019][188]). 
+
+   [186]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Transdermal_administration
+   [187]: https://transfemscience.org/articles/genital-e2-patches/
+   [188]: https://transfemscience.org/articles/genital-e2-gel/
+
+Injectable estradiol esters can be administered via either intramuscular or subcutaneous injection. In the case of intramuscular injection, possible injection sites include the [deltoid muscle][189] (upper arm), [vastus lateralis][190] and [rectus femoris muscles][191] (thigh), and [ventrogluteal muscle][192] (buttocks). Subcutaneous injection of estradiol esters, while less commonly used, is easier, less painful, and more convenient than the intramuscular route ([Wiki][193]). However, the maximum volume that can be injected subcutaneously is less than that which can be injected intramuscularly (depending on the site up to 1.5–3 mL and up to 2–5 mL, respectively) ([Hopkins, & Arias, 2013][194]; [Usach et al., 2019][195]). Injections of estradiol esters can easily achieve high levels of estradiol and, depending on the estradiol ester in question, last for days to weeks. An injection of PEP, which in contrast to other estradiol esters should always be administered by intramuscular injection, lasts for months. However, the availability of PEP is very limited, with its use mostly restricted to the Nordic region of Europe ([Wiki][196]). 
+
+   [189]: https://en.wikipedia.org/wiki/Deltoid_muscle
+   [190]: https://en.wikipedia.org/wiki/Vastus_lateralis_muscle
+   [191]: https://en.wikipedia.org/wiki/Rectus_femoris_muscle
+   [192]: http://en.wikipedia.org/wiki/Ventrogluteal_muscle
+   [193]: http://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Subcutaneous_injection
+   [194]: https://www.oncologynurseadvisor.com/home/hot-topics/chemotherapy/large-volume-im-injections-%E2%80%A8a-review-of-best-practices/
+   [195]: https://doi.org/10.1007/s12325-019-01101-6
+   [196]: https://en.wikipedia.org/wiki/Polyestradiol_phosphate#Availability
+
+Non-oral routes, although less convenient than the oral route, are preferred, because oral estradiol results in excessive levels of estradiol in the liver and has a disproportionate impact on estrogen-modulated liver protein synthesis ([Aly W., 2020][197]). Particularly at the high doses of estrogens that may be required to suppress testosterone levels in transfeminine people, this may increase the risk of health issues like blood clots and cardiovascular problems. The health concerns of estradiol are largely allayed if it is taken non-orally at reasonable doses. 
+
+   [197]: https://transfemscience.org/articles/estrogens-coagulation-blood-clots/
+
+Table: Available forms and recommended doses of estradiol (for adults/non-adolescents): 
+
+MedicationRouteFormDosage
+
+[Estradiol][198]
+Oral 
+Tablets 
+2–10 mg/day 
+
+   [198]: https://en.wikipedia.org/wiki/Estradiol_(medication)
+
+  
+Sublingual or buccal 
+Tablets 
+0.5–2 mg 1–4x/day 
+
+  
+Transdermal 
+Patches 
+50–300 μg/day 
+
+  
+Transdermal 
+Gel 
+2–6 mg/day 
+
+  
+SC implant 
+Pellet 
+25–150 mg/6 months 
+
+[Estradiol valerate][199]
+Oral 
+Tablets 
+2–10 mg/day 
+
+   [199]: https://en.wikipedia.org/wiki/Estradiol_valerate
+
+  
+Sublingual or buccal 
+Tablets 
+0.5–2 mg 1–4x/day 
+
+  
+IM or SC injection 
+Oil solution 
+2–6 mg/week; or  
+1.5–4 mg/5 days 
+
+[Estradiol cypionate][200]
+IM or SC injection 
+Oil solution 
+2–6 mg/week 
+
+   [200]: https://en.wikipedia.org/wiki/Estradiol_cypionate
+
+[Estradiol benzoate][201]
+IM or SC injection 
+Oil solution 
+1–3 mg 2x/week 
+
+   [201]: https://en.wikipedia.org/wiki/Estradiol_benzoate
+
+[Estradiol enanthate][202]
+IM or SC injection 
+Oil solution 
+4–12 mg/2 weeks 
+
+   [202]: https://en.wikipedia.org/wiki/Estradiol_enanthate
+
+[Polyestradiol phosphate][203]
+IM injection 
+Water solution 
+40–160 mg/montha
+
+   [203]: https://en.wikipedia.org/wiki/Polyestradiol_phosphate
+
+a In the case of polyestradiol phosphate, a loading dose of, e.g., 240 to 320 mg, can be employed for the first one or two injections to reach steady state levels of estradiol more quickly.
+
+For estrogen levels with different forms, routes, and doses of estradiol, see the tables [here][204] and [here][205] and the graphs [here][206]. 
+
+   [204]: https://transfemscience.org/articles/e2-equivalent-doses/
+   [205]: https://en.wikipedia.org/wiki/Template:Plasma_estrogen_levels_after_a_single_dose_of_estradiol_by_different_routes
+   [206]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol
+
+There is high variability between individuals in the levels of estradiol achieved during estradiol therapy. That is, estradiol levels during treatment with the same dosage of estradiol can differ widely between individuals. This variability is greatest with the oral and transdermal routes. As such, the doses of estradiol recommended are not absolute and should be individualized in conjunction with blood work on a case-by-case basis. It should also be noted that estradiol levels can vary considerably from one blood test to another, most importantly with the sublingual and injected routes. However, this variation is predictable, and can be minimized with proper timing of blood tests. 
+
+After removal of the gonads, estrogen doses can be lowered or adjusted to approximate normal female physiological exposure. The average production of estradiol in premenopausal women is about 6 mg over the course of a single menstrual cycle (i.e., one month) ([Rosenfield et al., 2008][207]). 
+
+   [207]: https://scholar.google.com/scholar?cluster=9979206541205334235
+
+###  Progestogens 
+
+[Progestogens][208] include [progesterone][209] and [progestins][210]. Progestins are [synthetic][211] progestogens derived from [structural modification][212] of progesterone or testosterone. Examples of some major progestins include [medroxyprogesterone acetate][213] (MPA; Provera, Depo-Provera), [norethisterone][214] (NET; many brand names), [dydrogesterone][215] (Duphaston), and [drospirenone][216] (Slynd, Yasmin) ([Aly W., 2019][217]). There are dozens of different progestins and these progestins can be divided into a variety of different structural classes with varying properties ([Wiki-Table][218]). Progestins were developed because they have a more favorable [disposition in the body][219] than progesterone for use as medications. Only a few clinically used progestins have been used in transfeminine hormone therapy, although almost all progestogens have the same progestogenic actions and theoretically any progestogen could be employed. 
+
+   [208]: https://en.wikipedia.org/wiki/Progestogen_(medication)
+   [209]: https://en.wikipedia.org/wiki/Progesterone_(medication)
+   [210]: https://en.wikipedia.org/wiki/Progestin
+   [211]: https://en.wikipedia.org/wiki/Synthetic_compound
+   [212]: https://en.wikipedia.org/wiki/Molecular_modification
+   [213]: https://en.wikipedia.org/wiki/Medroxyprogesterone_acetate
+   [214]: https://en.wikipedia.org/wiki/Norethisterone
+   [215]: https://en.wikipedia.org/wiki/Dydrogesterone
+   [216]: https://en.wikipedia.org/wiki/Drospirenone
+   [217]: https://transfemscience.org/articles/drospirenone-approval/
+   [218]: https://en.wikipedia.org/wiki/Template:Progestogens_marketed_for_clinical_or_veterinary_use
+   [219]: http://en.wikipedia.org/wiki/Pharmacokinetics
+
+Most progestogens also have [off-target activities][220] that may be desirable or undesirable depending on the action in question ([Kuhl, 2005][221]; [Stanczyk et al., 2013][222]; [Wiki][223]; [Wiki-Table][224]). Progesterone has [neurosteroid][225] activities that can result in a variety of brain effects not shared by progestins. MPA as well as NET and its derivatives have weak androgenic activity—which is unfavorable in the context of transfeminine hormone therapy. NET and certain related progestins produce EE as a [metabolite][226] at high doses and hence can produce EE-like estrogenic effects—including risk of blood clots and cardiovascular problems. Other off-target activities of progestogens include antiandrogenic, [glucocorticoid][227], and [antimineralocorticoid][228] activities. These actions can produce changes in therapeutic effectiveness (e.g., androgen suppression or blockade), side effects, and health risks. 
+
+   [220]: https://en.wikipedia.org/wiki/Off-target_activity
+   [221]: https://doi.org/10.1080/13697130500148875
+   [222]: https://doi.org/10.1210/er.2012-1008
+   [223]: https://en.wikipedia.org/wiki/Progestogen_(medication)#Pharmacodynamics
+   [224]: https://en.wikipedia.org/wiki/Template:Pharmacodynamics_of_progestogens
+   [225]: https://en.wikipedia.org/wiki/Neurosteroid
+   [226]: https://en.wikipedia.org/wiki/Metabolite
+   [227]: https://en.wikipedia.org/wiki/Glucocorticoid
+   [228]: https://en.wikipedia.org/wiki/Antimineralocorticoid
+
+The addition of progestogens to estrogen therapy has been associated with a number of unfavorable health effects. These include increased risk of blood clots ([Wiki][229]; [Aly W., 2020][230]), [coronary heart disease][231] ([Wiki][232]), and breast cancer ([Wiki][233]; [Aly W., 2020][234]). High doses of progestogens are also associated with increased risk of certain non-cancerous brain tumors including [meningiomas][235] and [prolactinomas][236] ([Wiki][237]; [Aly W., 2020][238]). The coronary heart disease risk may be due to changes in [blood lipids][239] caused by the weak androgenic activity of specific progestogens, but the rest of the aforementioned risks are probably due to their progestogenic activity (Stanczyk et al., 2013; [Jiang & Tian, 2017][240]). Aside from health risks, progestogens have also been associated with adverse mood changes ([Wiki][241]; [Wiki][242]). However, these effects are controversial and are not well-supported by evidence ([Wiki][241]; [Wiki][242]). Progestogens are otherwise generally well-tolerated and produce few to no side effects. 
+
+   [229]: https://en.wikipedia.org/wiki/Progestogen_(medication)#Blood_clots
+   [230]: https://transfemscience.org/articles/estrogens-coagulation-blood-clots/
+   [231]: https://en.wikipedia.org/wiki/Coronary_artery_disease
+   [232]: https://en.wikipedia.org/wiki/Progestogen_(medication)#Cardiovascular_health
+   [233]: https://en.wikipedia.org/wiki/Progestogen_(medication)#Side_effects
+   [234]: https://transfemscience.org/articles/breast-cancer/
+   [235]: http://en.wikipedia.org/wiki/Meningioma
+   [236]: http://en.wikipedia.org/wiki/Prolactinoma
+   [237]: https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate#Brain_tumors
+   [238]: https://transfemscience.org/articles/cpa-meningioma/
+   [239]: https://en.wikipedia.org/wiki/Blood_lipids
+   [240]: https://doi.org/10.1186/s12944-017-0612-5
+   [241]: https://en.wikipedia.org/wiki/Progestogen_(medication)#Mood_changes
+   [242]: https://en.wikipedia.org/wiki/Medroxyprogesterone_acetate#Mood_changes
+
+In contrast to progestins, progesterone has no unfavorable off-target activities. Moreover, the addition of oral progesterone to estrogen therapy has not been associated with increased risk of blood clots ([Wiki][243]). In addition, oral progesterone seems to have less risk of breast cancer than progestins with short-term therapy although notably not with longer-term exposure ([Wiki][244]; [Aly W., 2020][245]). As such, it has been suggested that progesterone, for reasons that have yet to be fully elucidated, may be a safer progestogen than progestins and that it should be preferred for progestogen therapy. However, the seemingly better safety of progesterone may simply be an artifact of the very low progesterone levels that occur with [oral][246] progesterone and hence of dosage ([Aly W., 2018][247]; [Wiki][248]). [Non-oral][249] progesterone at doses resulting in full progestogenic strength has never been properly evaluated in terms of health outcomes and may have the same risks as progestins ([Aly W., 2018][247]; [Wiki][248]). 
+
+   [243]: https://en.wikipedia.org/wiki/Progesterone_(medication)#Blood_clots
+   [244]: https://en.wikipedia.org/wiki/Progesterone_(medication)#Breast_cancer
+   [245]: https://transfemscience.org/articles/breast-cancer/
+   [246]: https://en.wikipedia.org/wiki/Oral_administration
+   [247]: https://transfemscience.org/articles/oral-p4-low-levels/
+   [248]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#Clinical_progestogenic_potency_and_effects
+   [249]: https://en.wikipedia.org/wiki/Parenteral_administration
+
+Progestogens are of no clear or known benefit for feminization or breast development in transfeminine people aside from helping with testosterone suppression. While some transfeminine people [anecdotally][250] claim to experience improved breast development with progestogens, an involvement of these agents in breast size or shape is controversial and not supported by theory or evidence at present ([Wiki][251]; [Aly W., 2020][252]; [Aly W., 2020][253]). It’s possible that premature introduction of progestogens may actually have an unfavorable influence on breast development ([Aly W., 2019][254]). Many transfeminine people have also anecdotally claimed that progestogens have a beneficial effect on their sexual desire. However, a review of the literature showed that neither progesterone nor progestins positively influence sexual desire ([Aly W., 2020][255]). Instead, the available evidence indicates the opposite—an inhibitory influence of progestogens on sexual desire—although this may be specific to high doses ([Aly W., 2020][255]). 
+
+   [250]: https://en.wikipedia.org/wiki/Anecdotal_evidence
+   [251]: https://en.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)#Progestogens
+   [252]: https://transfemscience.org/articles/p4-breast-dev-puberty/
+   [253]: https://transfemscience.org/articles/cais-breast-dev-p4/
+   [254]: https://transfemscience.org/articles/progestogens-suboptimal-breast-dev-excerpts/
+   [255]: https://transfemscience.org/articles/progestogens-sexual-desire/
+
+Due to their lack of influence on feminization and breast development and their adverse effects and health risks, progestogens are not routinely used in transfeminine hormone therapy at present. There is however a major exception to this in the form of [cyproterone acetate][256] (CPA; Androcur), an antiandrogen which is widely used in transfeminine hormone therapy and also happens to be a powerful progestogen at typical therapeutic doses. CPA will be described in the section below on antiandrogens. Although progestogens have various health risks, cisgender women of course have progesterone and the absolute risks of progestogens are very low in healthy young people. Risks like breast cancer also take many years to develop. And the testosterone suppression provided by progestogens can be very useful in transfeminine people. A limited duration of progestogen therapy, for instance a few years to help suppress testosterone levels before gonadectomy, may be quite acceptable in transfeminine people. 
+
+   [256]: https://en.wikipedia.org/wiki/Cyproterone_acetate
+
+####  Routes, Doses, and Levels of Progesterone and Progestins 
+
+Progesterone can be used in transfeminine people by the oral route, by the [rectal][257] route, or by intramuscular or subcutaneous injection ([Wiki][258]). Progestins are usually used by the oral route but certain progestins are also available in injectable formulations. 
+
+   [257]: https://en.wikipedia.org/wiki/Rectal_administration
+   [258]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#Routes_of_administration
+
+Levels of progesterone with the oral route have been found using state-of-the-art assays (LC–MS) to be very low (<2 ng/dL at 100 mg/day) and inadequate for satisfactory progestogenic effects ([Wiki][259]; [Aly W., 2018][260]). In accordance, even high doses of oral progesterone showed no antigonadotropic effect in cisgender men ([Wiki][261]). This is in major contrast to non-oral progesterone and to progestins. Additionally, oral progesterone is excessively converted into potent neurosteroid metabolites like allopregnanolone and [pregnanolone][262], and this can result in undesirable [alcohol][263]-like side effects such as sedation, cognitive/memory impairment, and mood changes ([Wiki][264]; [Wiki][265]). As such, while inconvenient, non-oral routes are preferable in the case of progesterone similarly to estradiol. Conversely, progestins have high oral bioavailability and are resistant to metabolism in the liver. In contrast to the ERs, PRs are expressed minimally or not at all in the liver ([Lax, 1987][266]). For these reasons, there are no apparent problems with the oral route in the case of progestins. 
+
+   [259]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#Oral_administration
+   [260]: https://transfemscience.org/articles/oral-p4-low-levels/
+   [261]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_progesterone#Antigonadotropic_effects
+   [262]: https://en.wikipedia.org/wiki/Pregnanolone
+   [263]: https://en.wikipedia.org/wiki/Alcohol_(drug)
+   [264]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_progesterone#Neurosteroid_effects
+   [265]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#First-pass_effect_and_neurosteroids
+   [266]: https://doi.org/10.1016/0022-4731(87)90198-1
+
+Sublingual progesterone tablets exist but are only available in a couple of Eastern European countries ([Wiki][267]). In contrast to estradiol, oral progesterone is formulated as oil-filled capsules. This makes them difficult and unpleasant to use by the sublingual route. 
+
+   [267]: https://en.wikipedia.org/wiki/Progesterone_(medication)#Availability
+
+Progesterone can be used rectally in the form of suppositories. Oral micronized progesterone capsules can be taken rectally and this can allow for much higher progesterone levels than would be achieved orally ([Aly W., 2018][268]). While certainly inconvenient, rectal use is probably the best route of administration for progesterone for transfeminine people. 
+
+   [268]: https://transfemscience.org/articles/oral-p4-rectally/
+
+Progesterone by injection is available in both intramuscular and subcutaneous forms. However, injectable progesterone has a relatively short duration and must be given once every one to three days. This makes it too inconvenient to use for most people. Unlike with estradiol, [progesterone esters][269] with longer durations than progesterone itself by injection are not chemically possible. Injectable progestins, on the other hand, have durations ranging from weeks to months. 
+
+   [269]: https://en.wikipedia.org/wiki/Progestogen_ester
+
+Table: Available forms and recommended doses of progestogens: 
+
+MedicationRouteFormDosage
+
+[Progesterone][270]
+Oral 
+Oil-filled capsules 
+100–300 mg 1–2x/day 
+
+   [270]: https://en.wikipedia.org/wiki/Progesterone_(medication)
+
+  
+Rectal 
+Suppositories; Oil-filled capsules 
+100–200 mg 1–2x/day 
+
+  
+IM injection 
+Oil solution 
+25–75 mg/1–3 days 
+
+  
+SC injection 
+Water solution 
+25 mg/day 
+
+[Progestins][271]
+Oral; IM or SC injection 
+Tablets; Oil solution; Water solution 
+Various 
+
+   [271]: https://en.wikipedia.org/wiki/Progestin
+
+For progesterone levels with different forms, routes, and doses of progesterone, see the table [here][272] (only LC–MS and IA + CS assays for oral progesterone) and the graphs [here][273]. 
+
+   [272]: https://en.wikipedia.org/wiki/Template:Plasma_progesterone_levels_after_a_single_dose_of_progesterone_by_different_routes
+   [273]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone
+
+As with estradiol, there is high variability between individuals in progesterone levels. Conversely, there is relatively little variability between individuals in the case of progestins. 
+
+After removal of the gonads, progestogen doses can be lowered or adjusted to approximate normal female physiological exposure or they can be discontinued entirely. 
+
+###  Antiandrogens 
+
+Aside from estrogens and progestogens, there is another class of hormonal medications used in transfeminine hormone therapy known as antiandrogens (AAs). These medications nullify the effects of androgens in the body. They work by a variety of different mechanisms of action and include AR [antagonists][274], [antigonadotropins][275], and [androgen synthesis inhibitors][276]. 
+
+   [274]: https://en.wikipedia.org/wiki/Receptor_antagonist
+   [275]: https://en.wikipedia.org/wiki/Antigonadotropin
+   [276]: https://en.wikipedia.org/wiki/Antiandrogen#Androgen_synthesis_inhibitors
+
+AR antagonists work by directly blocking the effects of androgens. They bind to the AR without activating it, thereby displacing androgens from the receptor. AR antagonists include [steroidal antiandrogens][277] (SAAs) like [spironolactone][278] (Aldactone) and [cyproterone acetate][279] (CPA; Androcur) and [nonsteroidal antiandrogens][280] (NSAAs) like [bicalutamide][281] (Casodex). 
+
+   [277]: https://en.wikipedia.org/wiki/Steroidal_antiandrogen
+   [278]: https://en.wikipedia.org/wiki/Spironolactone
+   [279]: https://en.wikipedia.org/wiki/Cyproterone_acetate
+   [280]: https://en.wikipedia.org/wiki/Nonsteroidal_antiandrogen
+   [281]: https://en.wikipedia.org/wiki/Bicalutamide
+
+Antigonadotropins suppress the gonadal production of androgens by inhibiting the GnRH-mediated secretion of gonadotropins from the pituitary gland. They include estrogens and progestogens. In addition, [GnRH agonists][282] such as [leuprorelin][283] (Lupron) and [GnRH antagonists][284] such as [elagolix][285] (Orilissa) act similarly and could be regarded as antigonadotropins. 
+
+   [282]: https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone_agonist
+   [283]: https://en.wikipedia.org/wiki/Leuprorelin
+   [284]: https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone_antagonist
+   [285]: https://en.wikipedia.org/wiki/Elagolix
+
+Androgen synthesis inhibitors inhibit the enzyme-mediated synthesis of androgens. They include [5α-reductase inhibitors][286] (5α-RIs) like [finasteride][287] (Propecia) and [dutasteride][288] (Avodart). There are also other types of androgen synthesis inhibitors, for instance potent [17α-hydroxylase/17,20-lyase inhibitors][289] like [ketoconazole][290] (Nizoral) and [abiraterone acetate][291] (Zytiga). However, these other agents have limitations (e.g., [toxicity][292], cost, lack of experience) and are not used in transfeminine hormone therapy. 
+
+   [286]: https://en.wikipedia.org/wiki/5%CE%B1-Reductase_inhibitor
+   [287]: https://en.wikipedia.org/wiki/Finasteride
+   [288]: https://en.wikipedia.org/wiki/Dutasteride
+   [289]: https://en.wikipedia.org/wiki/CYP17A1_inhibitor
+   [290]: https://en.wikipedia.org/wiki/Ketoconazole
+   [291]: https://en.wikipedia.org/wiki/Abiraterone_acetate
+   [292]: https://en.wikipedia.org/wiki/Toxicity
+
+Although antigonadotropins and androgen synthesis inhibitors certainly have antiandrogenic effects secondary to decreased androgen levels, they are not usually referred to as “antiandrogens”. Instead, the term “antiandrogen” is most commonly reserved to describe AR antagonists. 
+
+####  Androgen Receptor Antagonists 
+
+AR antagonists act by directly blocking the effects of androgens. Unlike antigonadotropins and androgen synthesis inhibitors, they do not work by suppressing androgen levels. However, some AR antagonists also have additional actions that result in decreased androgen levels. Due to the nature of their mechanism of action as competitive blockers of androgens, the antiandrogenic efficacy of AR antagonists is both highly dose-dependent and fundamentally dependent on testosterone levels. AR antagonists tend to have relatively low [affinity][293] for the AR, and relatively high doses by weight may be required for satisfactory prevention of the effects of testosterone—especially in the context of male-range testosterone levels ([Aly W., 2019][294]). In any case, AR antagonists can be very useful when testosterone levels are incompletely but markedly suppressed (e.g., <200 ng/dL). Because AR antagonists do not work by lowering testosterone levels, blood work is less informative for them compared to antiandrogens that suppress testosterone levels. 
+
+   [293]: https://en.wikipedia.org/wiki/Affinity_(pharmacology)
+   [294]: https://transfemscience.org/articles/bica-dosage/
+
+The AR antagonists spironolactone, bicalutamide, and CPA are all taken orally in the form of tablets. 
+
+Table: Available forms and recommended doses of antiandrogens: 
+
+MedicationTypeRouteFormDosage
+
+[Spironolactone][295]
+AR antagonist; Weak androgen  
+synthesis inhibitor 
+Oral 
+Tablets 
+100–200 mg 1–2x/daya
+
+   [295]: https://en.wikipedia.org/wiki/Spironolactone
+
+[Bicalutamide][296]
+AR antagonist 
+Oral 
+Tablets 
+12.5–50 mg/daya
+
+   [296]: https://en.wikipedia.org/wiki/Bicalutamide
+
+[Cyproterone acetate][297]
+Progestogen; AR antagonist 
+Oral 
+Tablets 
+2.5–12.5 mg/day (total)b
+
+   [297]: https://en.wikipedia.org/wiki/Cyproterone_acetate
+
+a For the AR antagonists spironolactone and bicalutamide, it is assumed that testosterone levels are substantially suppressed (≤200 ng/dL). If not, higher doses may be warranted. b For CPA, one-quarter of a 10-mg tablet to one full 10-mg tablet per day (2.5–10 mg/day) _or_ a quarter of a 50-mg tablet every other day or every 2 to 3 days (4.2–12.5 mg/day). A dosage of 5 to 12.5 mg/day is likely to ensure maximal testosterone suppression while lower doses may be less effective.
+
+####  Spironolactone 
+
+Spironolactone is a relatively weak AR antagonist ([Wiki][298]). It is also a weak androgen synthesis inhibitor in addition to AR antagonist—specifically via 17α-hydroxylase/17,20-lyase inhibition ([Wiki][298]). However, it shows limited and highly inconsistent effects on testosterone levels and its primary mechanism of action appears to be via AR blockade ([Aly W., 2018][299]; [Aly W., 2020][300]). Due to its relatively weak AR antagonism, spironolactone is best-suited for blocking female-range or somewhat higher testosterone levels. 
+
+   [298]: https://en.wikipedia.org/wiki/Spironolactone#Pharmacodynamics
+   [299]: https://transfemscience.org/articles/spiro-hormone-levels-men-transfem/
+   [300]: https://transfemscience.org/articles/spiro-hormone-levels-women/
+
+Spironolactone has [antimineralocorticoid][301] side effects and has a risk of rare but potentially life-threatening [hyperkalemia][302] (high potassium levels) in those with specific risk factors ([Wiki][303]). Monitoring of blood potassium levels during spironolactone therapy is advisable in those with risk factors for high potassium levels, but appears to not be necessary in people without such risk factors ([Plovanich et al., 2015][304]). Risk factors for high potassium levels include old age, kidney disease, concomitant use of other potassium-elevating drugs, and intake of potassium supplements. 
+
+   [301]: https://en.wikipedia.org/wiki/Antimineralocorticoid
+   [302]: https://en.wikipedia.org/wiki/Hyperkalemia
+   [303]: https://en.wikipedia.org/wiki/Spironolactone#High_potassium_levels
+   [304]: https://www.doi.org/10.1001/jamadermatol.2015.34
+
+####  Bicalutamide 
+
+Bicalutamide is a potent and highly selective AR antagonist ([Wiki][305]). Due to its relatively high potency, bicalutamide is able at higher doses to substantially block male-range testosterone levels ([Aly W., 2019][306]). Owing to its selectivity for the AR, bicalutamide has no off-target hormonal activity and has almost no side effects in women ([Erem, 2013][307]; [Moretti et al., 2018][308]). As a selective AR antagonist, bicalutamide does not decrease testosterone levels ([Wiki][309]). 
+
+   [305]: https://en.wikipedia.org/wiki/Bicalutamide#Pharmacodynamics
+   [306]: https://transfemscience.org/articles/bica-dosage/
+   [307]: https://www.tandfonline.com/doi/abs/10.2143/ACB.3267
+   [308]: https://doi.org/10.1210/jc.2017-01186
+   [309]: https://en.wikipedia.org/wiki/Pharmacology_of_bicalutamide#Influences_on_hormone_levels
+
+Bicalutamide has mostly been used to treat men with prostate cancer, but has also been used to treat other androgen-dependent conditions such as excessive facial and/or body hair in women and is becoming increasingly adopted for use in transfeminine people ([Aly W., 2020][310]; [Wiki][311]). 
+
+   [310]: https://transfemscience.org/articles/bica-adoption/
+   [311]: https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide#Transgender_hormone_therapy
+
+Bicalutamide has a small risk of [liver toxicity][312] ([Wiki][313]; [Aly W., 2020][314]) and [lung toxicity][315] ([Wiki][316]). Liver monitoring is advisable during bicalutamide therapy. Older AR antagonists related to bicalutamide like [flutamide][317] (Eulexin) and [nilutamide][318] (Anandron, Nilandron) have much greater health risks in comparison and should not be used in transfeminine hormone therapy. 
+
+   [312]: http://en.wikipedia.org/wiki/Liver_toxicity
+   [313]: https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide#Liver_toxicity
+   [314]: https://transfemscience.org/articles/bica-adoption/
+   [315]: https://en.wikipedia.org/wiki/Lung_disease
+   [316]: https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide#Lung_toxicity
+   [317]: https://en.wikipedia.org/wiki/Flutamide
+   [318]: https://en.wikipedia.org/wiki/Nilutamide
+
+####  Cyproterone Acetate 
+
+CPA is a progestogen that at much higher doses also acts as an AR antagonist ([Aly W., 2019][319]). It has been used at relatively high doses in transfeminine people to take advantage of its AR antagonism ([Aly W., 2019][319]). As a result of the strong progestogenic exposure that occurs with typical doses of CPA, the medication substantially suppresses testosterone levels in addition to its AR antagonism ([Aly W., 2019][319]). Relatively low doses of CPA (e.g., 5–10 mg/day) are able to maximally suppress testosterone levels in combination with even low doses of an estrogen ([Aly W., 2019][319]). Due to a variety of dose-dependent risks with CPA, doses of the medication have come down substantially in recent years. Lower doses of CPA are likely to be purely progestogenic and have minimal or no significant AR antagonism. However, the AR antagonism of higher doses is unnecessary since the combination of CPA with estradiol results in suppression of testosterone levels well into the female range. 
+
+   [319]: https://transfemscience.org/articles/cpa-dosage/
+
+CPA has been reported to produce fatigue and slight weight gain as side effects ([Belisle & Love, 1986][320]; [Hammerstein, 1990][321]). It may result in sexual dysfunction ([Wiki][322]; [Aly W., 2019][323]) and have a small risk of depressive mood changes ([Wiki][324]; [Aly W., 2019][325]). CPA produces pregnancy-like breast changes ([Kanhai et al., 2000][326]) and sometimes causes [lactation][327] as a side effect in transfeminine people ([Gooren, Harmsen-Louman, & van Kessel, 1985][328]; [Schlatterer et al., 1998][329]; [Bazarra-Castro, 2009][330]). As with other progestogens, the addition of low doses of CPA to estrogen therapy is associated with increased risk of blood clots and breast cancer ([Wiki][331]; [Wiki][332]; [Aly W., 2020][333]). Higher doses of CPA appear to have a greater risk of blood clots than low doses ([Wiki][331]). CPA is also associated with [high prolactin levels][334] ([Wiki][322]) and with certain non-cancerous brain tumors including prolactinomas and meningiomas ([Wiki][335]; [Aly W., 2020][336]). High doses of CPA are associated with [abnormal liver changes][337] and have resulted in rare cases of liver toxicity ([Wiki][338]). This probably isn’t an issue at doses of less than 20 mg/day however ([Wiki][338]). Monitoring of [prolactin][339] levels to detect prolactinomas and monitoring of liver function to detect liver toxicity is advisable during CPA therapy. The side effects and risks of CPA may be minimized by using the lowest effective dosage, which is much lower than what has conventionally been used ([Aly W., 2019][340]). 
+
+   [320]: https://doi.org/10.1016/S0015-0282(16)49873-0
+   [321]: https://doi.org/10.1007/978-3-642-74612-3_35
+   [322]: https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate#High_prolactin_levels
+   [323]: https://transfemscience.org/articles/progestogens-sexual-desire/
+   [324]: https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate#Depression
+   [325]: https://transfemscience.org/articles/cpa-depression/
+   [326]: https://doi.org/10.1097/00000478-200001000-00009
+   [327]: http://en.wikipedia.org/wiki/Lactation
+   [328]: https://doi.org/10.1111/j.1365-2265.1985.tb01081.x
+   [329]: https://doi.org/10.1023/A:1018704630036
+   [330]: https://doi.org/10.5282/edoc.9984
+   [331]: https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate#Blood_clots
+   [332]: https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate#Breast_cancer
+   [333]: https://transfemscience.org/articles/breast-cancer/
+   [334]: http://en.wikipedia.org/wiki/Hyperprolactinemia
+   [335]: https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate#Brain_tumors
+   [336]: https://transfemscience.org/articles/cpa-meningioma/
+   [337]: https://en.wikipedia.org/wiki/Elevated_transaminases
+   [338]: https://en.wikipedia.org/wiki/Side_effects_of_cyproterone_acetate#Liver_toxicity
+   [339]: http://en.wikipedia.org/wiki/Prolactin
+   [340]: https://transfemscience.org/articles/cpa-dosage/
+
+CPA is notably not approved for use in the United States, but is available in most other countries. 
+
+####  5α-Reductase Inhibitors 
+
+Testosterone is converted into DHT within certain tissues in the body ([Swerdloff et al., 2017][341]). DHT is an androgen metabolite of testosterone with several-fold higher activity than testosterone. The transformation of testosterone into DHT is mediated by the enzyme [5α-reductase][342]. The tissues in which 5α-reductase is present and testosterone is converted into DHT are limited and most importantly include the skin, hair follicles, and prostate gland. Although DHT is more potent than testosterone, it has minimal biological role as a circulating hormone ([Horton, 1992][343]; Swerdloff et al., 2017). Instead, testosterone serves as the main circulating androgen, and the role of DHT is from metabolism of testosterone into DHT within tissues. 
+
+   [341]: https://doi.org/10.1210/er.2016-1067
+   [342]: https://en.wikipedia.org/wiki/5%CE%B1-Reductase
+   [343]: https://doi.org/10.1002/j.1939-4640.1992.tb01621.x
+
+5α-RIs inhibit 5α-reductase and thereby block the conversion of testosterone into DHT. This results in marked decreases in circulating and within-tissue levels of DHT. Due to DHT’s role as a mediator in tissues rather than circulating hormone, the antiandrogenic efficacy of 5α-RIs is limited. This is exemplified by the fact that they are well-tolerated in cisgender men and don’t cause notable demasculinization in them ([Hirshburg, 2016][344]). The medical use of 5α-RIs is mainly restricted to the treatment of scalp hair loss in men and women, hirsutism (excessive facial/body hair) in women, and [prostate enlargement][345] in men. They might also be useful for acne in women, but evidence of this is very limited ([Wiki][346]). Due to their specificity, 5α-RIs are inappropriate as general antiandrogens in transfeminine people. Moreover, DHT levels decrease in tandem with testosterone levels with suppression of testosterone production in transfeminine hormone therapy, and routine use of 5α-RIs in transfeminine people with testosterone levels within the female range can be considered unnecessary ([Irwig, 2020][347]). In any case, 5α-RIs may be useful in transfeminine people on hormone therapy who have persistent body hair growth or scalp hair loss—as they have been shown to be in cisgender women ([Barrionuevo et al., 2018][348]). However, it is notable that evidence is better for AR antagonists for such indications ([van Zuuren et al., 2015][349]). This is intuitive as AR antagonists block both testosterone and DHT whereas 5α-RIs only prevent conversion of testosterone into DHT. 
+
+   [344]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5023004/
+   [345]: https://en.wikipedia.org/wiki/Benign_prostatic_hyperplasia
+   [346]: https://en.wikipedia.org/wiki/Finasteride#Research
+   [347]: http://doi.org/10.1111/andr.12881
+   [348]: https://doi.org/10.1210/jc.2017-02052
+   [349]: https://doi.org/10.1002/14651858.CD010334.pub2
+
+There are three subtypes of 5α-reductase. Dutasteride inhibits all three subtypes of 5α-reductase whereas finasteride only inhibits two of the subtypes. As a result of this, dutasteride is a more complete 5α-RI than finasteride. Dutasteride decreases DHT levels in the blood by up to 98% while finasteride can only decrease them by around 65 to 70%. As nearly all circulating DHT originates from peripheral tissues, these decreases indicate parallel decreases in tissue DHT production (Horton, 1992). In accordance with these findings, dutasteride has been found to be more effective than finasteride in the treatment of scalp hair loss in men ([Zhou et al., 2018][350]; [Dhurat et al., 2020][351]; [Wiki][352]). For these reasons, although both finasteride and dutasteride are effective 5α-RIs, dutasteride may be the preferable choice if a 5α-RI is used (Zhou et al., 2018; Dhurat et al., 2020). 
+
+   [350]: https://doi.org/10.2147/CIA.S192435
+   [351]: https://doi.org/10.1111/dth.13379
+   [352]: https://en.wikipedia.org/wiki/Dutasteride#Scalp_hair_loss
+
+A potentially undesirable effect of 5α-RIs in transfeminine people is that they may increase testosterone levels to a certain degree in those whose testosterone production isn’t fully suppressed (Leinung et al., 2018; [Aly W., 2019][353]; [Traish et al., 2019][354]; Irwig, 2020). It appears that DHT adds significantly to negative feedback on gonadotropin secretion in the pituitary gland in people with testes who have low testosterone levels relative to the normal male range (Traish et al., 2019). The therapeutic implications of this for transfeminine people, if any, are uncertain. 
+
+   [353]: https://transfemscience.org/articles/oral-e2-leinung-2018/
+   [354]: https://doi.org/10.1016/j.sxmr.2018.06.002
+
+Another potentially undesirable action of 5α-RIs is that they inhibit not only the production of DHT but also of certain [neurosteroids][355]. Neurosteroids are steroids that act on the [nervous system][356]—most notably the brain. Examples of neurosteroids that 5α-RIs inhibit the synthesis of include [allopregnanolone][357], which is formed from progesterone, and [3α-androstanediol][358], which is derived from testosterone and DHT. Research suggests that these neurosteroids have significant biological modulatory roles in mood, anxiety, stress, and other cognitive/emotional processes ([King, 2013][359]). Possibly in relation to this, 5α-RIs have been associated with a small risk of depression ([Welk et al., 2018][360]; [Deng et al., 2020][361]; [Dyson, Cantrell, & Lund, 2020][362]; [Nguyen et al., 2020][363]; [Wiki][364]). Claims of other, more significant and persistent side effects with 5α-RIs exist ([Traish, 2020][365]). However, they are based on low-quality reports and are controversial ([Fertig et al., 2016][366]; [Rezende, Dias, & Trüeb, 2018][367]). 
+
+   [355]: https://en.wikipedia.org/wiki/Neurosteroid
+   [356]: https://en.wikipedia.org/wiki/Nervous_system
+   [357]: https://en.wikipedia.org/wiki/Allopregnanolone
+   [358]: https://en.wikipedia.org/wiki/3%CE%B1-Androstanediol
+   [359]: https://doi.org/10.1007/978-1-4614-5559-2_1
+   [360]: https://doi.org/10.1001/jamainternmed.2017.0089
+   [361]: https://doi.org/10.22037/uj.v16i7.5866
+   [362]: https://doi.org/10.1097/JU.0000000000001079
+   [363]: http://doi.org/10.1001/jamadermatol.2020.3385
+   [364]: https://en.wikipedia.org/wiki/5%CE%B1-Reductase_inhibitor#Emotional_changes
+   [365]: https://doi.org/10.1016/j.fertnstert.2019.11.030
+   [366]: https://doi.org/10.1159/000450617
+   [367]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6369643/
+
+Clinical [dose-ranging studies][368] have found that lower doses of finasteride and dutasteride than are typically used still provide substantial or near-maximal 5α-reductase inhibition ([Gormley et al., 1990][369]; [Vermeulen et al., 1991][370]; [Sudduth & Koronkowski, 1993][371]; [Drake et al., 1999][372]; [Roberts et al., 1999][373]; [Clark et al., 2004][374]; [Frye, 2006][375]; [Olsen et al., 2006][376]; [Harcha et al., 2014][377]; [Kuhl & Wiegratz, 2017][378]). In one study with finasteride for instance, DHT levels decreased by 49.5% at 0.05 mg/day, 68.6% at 0.2 mg/day, 71.4% at 1 mg/day, and 72.2% at 5 mg/day (Drake et al., 1999). Parallel reductions in DHT levels were seen locally in the scalp (Drake et al., 1999). In a study with dutasteride, DHT levels were decreased by 52.9% at 0.05 mg/day, 94.7% at 0.5 mg/day, 97.7% at 2.5 mg/day, and 98.4% at 5 mg/day (Clark et al., 2004). Based on these findings, 5α-RIs can potentially be taken at lower doses to help reduce medication costs if needed. 
+
+   [368]: https://en.wikipedia.org/wiki/Dose-ranging_study
+   [369]: https://doi.org/10.1210/jcem-70-4-1136
+   [370]: https://doi.org/10.1159/000471752
+   [371]: https://doi.org/10.1002/j.1875-9114.1993.tb02739.x
+   [372]: https://doi.org/10.1016/S0190-9622(99)80051-6
+   [373]: https://doi.org/10.1016/S0190-9622(99)80052-8
+   [374]: https://doi.org/10.1210/jc.2003-030330
+   [375]: https://doi.org/10.2174/156802606776743101
+   [376]: https://doi.org/10.1016/j.jaad.2006.05.007
+   [377]: https://doi.org/10.1016/j.jaad.2013.10.049
+   [378]: https://doi.org/10.1007/s10304-017-0126-2
+
+5α-Reductase inhibitors are taken orally in the form of tablets and capsules. 
+
+Table: Available forms and recommended doses of 5α-reductase inhibitors: 
+
+MedicationRouteFormDosage
+
+[Dutasteride][379]
+Oral 
+Capsules 
+0.05–2.5 mg/day 
+
+   [379]: https://en.wikipedia.org/wiki/Dutasteride
+
+[Finasteride][380]
+Oral 
+Tablets 
+0.05–5 mg/day 
+
+   [380]: https://en.wikipedia.org/wiki/Finasteride
+
+####  GnRH Agonists and Antagonists 
+
+GnRH agonists and antagonists (GnRHa) work by blocking the effects of GnRH in the pituitary gland and thereby suppressing LH and FSH secretion. Due to a physiological quirk, they have the same effects in this part of the body. This is because GnRH is normally secreted in pulses, and when the GnRH receptor is activated continuously, as with GnRH agonists, the GnRH receptor in the pituitary gland is desensitized to the point of becoming inactive. Consequently, both GnRH agonists and GnRH antagonists abolish gonadal sex hormone production. GnRHa are like a reversible gonadectomy, and for this reason, are also referred to as “medical castration”. Provided that an estrogen is taken in combination to prevent [sex hormone deficiency][381], GnRHa have essentially no side effects or risks. For these reasons, GnRHa are the ideal antiandrogens for use in transfeminine people. 
+
+   [381]: https://en.wikipedia.org/wiki/Hypogonadism
+
+GnRHa are widely used to suppess puberty in adolescent transgender individuals. Unfortunately however, they are very expensive (e.g., ~US$10,000 per year) and medical insurance does not usually cover them for adult transgender people. Consequently, GnRHa are not commonly used in adult transfeminine people at this time. An exception is in the United Kingdom, where GnRH agonists are covered for all adult transgender people by the [National Health Service][382] (NHS). Another exception is [buserelin][383] (Suprefact), which has become available very inexpensively in its nasal spray form from certain Eastern European online pharmacies in recent years ([Aly W., 2018][384]). 
+
+   [382]: https://en.wikipedia.org/wiki/National_Health_Service
+   [383]: https://en.wikipedia.org/wiki/Buserelin
+   [384]: https://transfemscience.org/articles/buserelin-inexpensive/
+
+GnRH agonists cause a brief flare in testosterone levels at the start of therapy ([Wiki][385]). Testosterone levels increase by up to about 1.5- to 2-fold for about 1 week and then decrease thereafter ([Wiki][385]). Castrate levels are reached within 2 to 4 weeks ([Wiki][385]). In contrast, because GnRH antagonists work by blocking the GnRH receptor without initially activating it, there is no testosterone flare with these agents and testosterone levels decrease immediately ([Wiki][385]). Antigonadotropins, for instance estrogens and progestogens, and potent androgen receptor antagonists like bicalutamide, can be used to prevent or blunt the effects of the testosterone flare at the initiation of GnRH agonist therapy if desired ([Wiki][385]). 
+
+   [385]: https://en.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)#GnRH_modulators
+
+GnRH agonists must be injected subcutaneously or intramuscularly once per day or once every one to six months (depending on the formulation). Alternatively, they can be [surgically implanted][386] once a year or used as a [nasal spray][387] two to three times per day. 
+
+   [386]: https://en.wikipedia.org/wiki/Subcutaneous_implant
+   [387]: https://en.wikipedia.org/wiki/Nasal_spray
+
+Table: Available forms and recommended doses of GnRH agonists: 
+
+MedicationBrand nameRouteFormDosage
+
+[Buserelin][388]
+Suprefact, others 
+SC injection 
+Solution 
+200 μg/daya
+
+   [388]: https://en.wikipedia.org/wiki/Buserelin
+
+  
+  
+  
+Implant 
+6.3 mg/2 months 
+
+  
+  
+  
+  
+9.45 mg/3 months 
+
+  
+  
+Intranasal 
+Nasal spray 
+400 µg 3x/dayb,c
+
+[Goserelin][389]
+Zoladex 
+SC injection 
+Implant 
+3.6 mg/month 
+
+   [389]: https://en.wikipedia.org/wiki/Goserelin
+
+  
+  
+  
+  
+10.8 mg/3 months 
+
+[Histrelin][390]
+Supprelin LA, Vantas 
+SC implant 
+Implant 
+50 mg/year 
+
+   [390]: https://en.wikipedia.org/wiki/Histrelin
+
+[Leuprorelin][391]
+Lupron, others 
+IM injection 
+Solution 
+1 mg/day 
+
+   [391]: https://en.wikipedia.org/wiki/Leuprorelin
+
+  
+Eligard, Lupron Depot, others 
+IM/SC injection 
+Suspension 
+3.75–7.5 mg/month 
+
+  
+  
+  
+  
+11.25–22.5 mg/3 months 
+
+  
+  
+  
+  
+30 mg/4 months 
+
+  
+  
+  
+  
+45 mg/6 months 
+
+  
+Viadur 
+SC implant 
+Implant 
+65 mg/year 
+
+[Nafarelin][392]
+Synarel 
+Intranasal 
+Nasal spray 
+400–600 μg 2–3x/day 
+
+   [392]: https://en.wikipedia.org/wiki/Nafarelin
+
+[Triptorelin][393]
+Decapeptyl, Trelstar Depot/LA 
+IM injection 
+Suspension 
+3.75 mg/month 
+
+   [393]: https://en.wikipedia.org/wiki/Triptorelin
+
+  
+  
+  
+  
+11.25 mg/3 months 
+
+a 500 μg 3x/day for the first week then 200 μg/day. b 800 μg 3x/day for the first week then 400 μg 3x/day. c 500 μg 2x/day can be used instead of 400 μg 3x/day but is less effective (70% decrease in testosterone levels (to ~180 ng/dL) instead of 90% decrease in testosterone levels (to ~50 ng/dL) per available studies of buserelin for prostate cancer) ([Aly W., 2018][394]; [Wiki][395]).
+
+   [394]: https://transfemscience.org/articles/buserelin-inexpensive/
+   [395]: https://en.wikipedia.org/wiki/Buserelin#Pharmacodynamics
+
+The first GnRH antagonists were developed for use by once-monthly intramuscular or subcutaneous injection. More recently, orally administered GnRH antagonists such as elagolix and [relugolix][396] have been introduced for medical use ([Aly W., 2018][397]; [Aly W., 2019][398]). They are taken once or twice daily. 
+
+   [396]: https://en.wikipedia.org/wiki/Relugolix
+   [397]: https://transfemscience.org/articles/elagolix-approval/
+   [398]: https://transfemscience.org/articles/relugolix-approval/
+
+Table: Available forms and recommended doses of GnRH antagonists: 
+
+MedicationBrand nameRouteFormDosage
+
+[Abarelix][399]
+Plenaxis 
+IM injection 
+Suspension 
+113 mg/month 
+
+   [399]: https://en.wikipedia.org/wiki/Abarelix
+
+[Degarelix][400]
+Firmagon 
+SC injection 
+Solution 
+80 mg/montha
+
+   [400]: https://en.wikipedia.org/wiki/Degarelix
+
+[Elagolix][401]
+Orilissa 
+Oral 
+Tablets 
+150–200 mg 1–2x/dayb
+
+   [401]: https://en.wikipedia.org/wiki/Elagolix
+
+[Relugolix][402]
+Relumina 
+Oral 
+Tablets 
+40 mg/day 
+
+   [402]: https://en.wikipedia.org/wiki/Relugolix
+
+a First month is 240 mg then 80 mg per month thereafter. b 150 mg 1x/day is less effective than 200 mg 2x/day (which provides full gonadal sex-hormone suppression in cisgender women) ([Wiki][403]).
+
+   [403]: https://en.wikipedia.org/wiki/Elagolix#Pharmacodynamics
+
+####  Additional Notes 
+
+There is relatively little variability between individuals with antiandrogens. 
+
+After removal of the gonads, antiandrogens can be discontinued. If unwanted androgen-dependent symptoms occur, such as acne, seborrhea, or scalp hair loss, then a lower dose of an AR antagonist, such as 100 to 200 mg/day spironolactone or 12.5 to 25 mg/day bicalutamide, can be continued. 
+
+###  Androgens and Anabolic Steroids 
+
+In addition to estrogens, progestogens, and antiandrogens, [androgens/anabolic steroids][404] (AAS) are sometimes added to transfeminine hormone therapy. This is when testosterone levels are low (e.g., below the female average of 30 ng/dL) and androgen replacement is desired. It has been proposed that adequate levels of testosterone may provide benefits such as increased sexual desire, improved mood and energy, positive effects on skin health and [cellulite][405] ([Avram, 2004][406]), and increased muscle size and strength ([Huang & Basaria, 2017][407]). However, there is insufficient clinical evidence to support such benefits at present ([Wiki][408]). In any case, possible options for androgen therapy include [testosterone][409], [dehydroepiandrosterone][410] (DHEA; prasterone), and [nandrolone decanoate][411] (ND) ([Aly W., 2020][412]). 
+
+   [404]: https://en.wikipedia.org/wiki/Anabolic_steroid
+   [405]: https://en.wikipedia.org/wiki/Cellulite
+   [406]: https://doi.org/10.1080/14764170410003057
+   [407]: https://doi.org/10.1007/978-3-319-42451-4_10
+   [408]: https://en.wikipedia.org/wiki/Testosterone_(medication)#Women
+   [409]: https://en.wikipedia.org/wiki/Testosterone_(medication)
+   [410]: https://en.wikipedia.org/wiki/Prasterone
+   [411]: https://en.wikipedia.org/wiki/Nandrolone_decanoate
+   [412]: https://transfemscience.org/articles/nandrolone/
+
+##  Monitoring of Therapy 
+
+Transfeminine people on hormone therapy should undergo regular laboratory [monitoring][413] in the form of [blood work][414]. Total estradiol levels and total testosterone levels should be measured to assess the effectiveness of therapy and determine whether medication adjustments may be necessary. Levels of free testosterone, free estradiol, [estrone][415] (E1), dihydrotestosterone (DHT), luteinizing hormone (LH), follicle-stimulating hormone (FSH), and [sex hormone-binding globulin][416] (SHBG) can be also be measured to provide further information although they’re not absolutely necessary. If progesterone is used, progesterone levels can be measured. However, in the specific case of oral progesterone, progesterone levels should be measured with a [mass spectrometry][417]-based test and not with an [immunoassay][418] ([Aly W., 2018][419]; [Wiki][420]). Conversely, either type of assay may be used with non-oral progesterone. 
+
+   [413]: https://en.wikipedia.org/wiki/Monitoring_(medicine)
+   [414]: https://en.wikipedia.org/wiki/Blood_test
+   [415]: https://en.wikipedia.org/wiki/Estrone
+   [416]: https://en.wikipedia.org/wiki/Sex_hormone-binding_globulin
+   [417]: https://en.wikipedia.org/wiki/Mass_spectrometry
+   [418]: http://en.wikipedia.org/wiki/Immunoassay
+   [419]: https://transfemscience.org/articles/oral-p4-low-levels/
+   [420]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#Oral_progesterone
+
+[Liver function tests][421] (LFTs) should be regularly performed to monitor for liver toxicity in transfeminine people taking bicalutamide or high doses of CPA (≥20 mg/day). In those with relevant risk factors for hyperkalemia (e.g., older age) who are taking spironolactone, potassium levels should be monitored. In transfeminine people taking high doses of estrogens and/or progestogens (particularly CPA), [prolactin][422] levels should be regularly measured to monitor for the development of prolactinoma. If these tests come back abnormal, depending on the situation and its severity, doses should be reduced or specific medications should be discontinued entirely or replaced with alternatives where applicable. 
+
+   [421]: https://en.wikipedia.org/wiki/Liver_function_tests
+   [422]: http://en.wikipedia.org/wiki/Prolactin
+
+##  Addendum 
+
+###  Translations 
+
+Translations of this page via [Google Translate][423] may be found as follows (see [here][424] for more languages): 
+
+   [423]: https://translate.google.com/
+   [424]: http://itools.com/tool/google-translate-web-page-translator
+
+[Chinese (Simpl.)/简化字][425]
+[Chinese (Trad.)/正體字/繁體字][426]
+[Filipino/Tagalog][427]
+
+   [425]: https://translate.google.com/translate?hl=en&sl=en&tl=zh-CN&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+   [426]: https://translate.google.com/translate?hl=en&sl=en&tl=zh-TW&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+   [427]: https://translate.google.com/translate?hl=en&sl=en&tl=tl&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+
+[French/Français][428]
+[German/Deutsche][429]
+[Hindi/हिन्दी][430]
+
+   [428]: https://translate.google.com/translate?hl=en&sl=en&tl=fr&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+   [429]: https://translate.google.com/translate?hl=en&sl=en&tl=de&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+   [430]: https://translate.google.com/translate?hl=en&sl=en&tl=hi&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+
+[Italian/Italiano][431]
+[Japanese/日本語][432]
+[Korean/韓國語][433]
+
+   [431]: https://translate.google.com/translate?hl=en&sl=en&tl=it&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+   [432]: https://translate.google.com/translate?hl=en&sl=en&tl=ja&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+   [433]: https://translate.google.com/translate?hl=en&sl=en&tl=ko&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+
+[Portuguese/Português][434]
+[Russian/Русский][435]
+[Spanish/Español][436]
+
+   [434]: https://translate.google.com/translate?hl=en&sl=en&tl=pt&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+   [435]: https://translate.google.com/translate?hl=en&sl=en&tl=ru&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+   [436]: https://translate.google.com/translate?hl=en&sl=en&tl=es&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+
+[Thai/ภาษาไทย][437]
+[Turkish/Türkçe][438]
+[Vietnamese/Tiếng Việt][439]
+
+   [437]: https://translate.google.com/translate?hl=en&sl=en&tl=th&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+   [438]: https://translate.google.com/translate?hl=en&sl=en&tl=tr&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+   [439]: https://translate.google.com/translate?hl=en&sl=en&tl=vi&u=https%3A%2F%2Ftransfemscience.org%2Farticles%2Ftransfem-intro%2F
+
+This translation tool can also be used for other articles on this site. 
+
+###  Video Adaptation 
+
+A video adaptation of an older version of this page has been created by YouTuber [Aria Bennett][440]: 
+
+   [440]: https://www.youtube.com/c/AriaBennett
+
+  * [Hormone Replacement Therapy - Medications (MTF HRT) - YouTube][441]
+  * [Hormone Replacement Therapy - Dosage + Administration (MTF HRT) - YouTube][442]
+
+   [441]: https://www.youtube.com/watch?v=riSViZWJaOM
+   [442]: https://www.youtube.com/watch?v=9p2iSQY09oQ
+
