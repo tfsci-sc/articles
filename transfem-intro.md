@@ -1,14 +1,14 @@
-女性倾向跨性别者的激素治疗简介
+# 女性倾向跨性别者的激素治疗简介
 
-作者 Aly W. | 首次出版 二零一八年八月四日 | 最后修改 二零二一年六月二十二日
+作者 Aly W. | 首次出版 二零一八年八月四日  | 最后修改 二零二一年六月二十二日
 
 译者 yucandy | 翻译于 二零二一年六月二十三日
 
-前言
+## 前言
 
-提要 / 一句话简介
+### 提要 / 一句话简介
 
-Sex hormones such as estrogen, testosterone, and progesterone are produced by the gonads. The sex hormones mediate the development of the secondary sexual characteristics. Testosterone causes masculinization while estradiol causes feminization and breast development. Males have high amounts of testosterone while females have low testosterone but high amounts of estradiol. These hormonal differences are responsible for the physical differences between males and females. Sex hormones and other hormonal medications are used in transfeminine people to shift the hormonal profile from a male-typical one to a female-typical profile. This causes feminization and allows for alleviation of gender dysphoria. The changes caused by transfeminine hormone therapy occur over a period of months to years. There are many different types and forms of hormonal medications and these medications can be administered via a variety of different routes. For instance, as pills taken by mouth, as patches or gel applied to the skin, and as injections, among others. Different hormonal medications, routes, and doses have different efficacies, side effects, and risks. Hormone therapy should be regularly monitored via blood tests to ensure efficacy and safety and allow for adjustment as necessary.
+性激素，如雌激素、睾酮和孕酮，由性腺产生。性激素影响第二性征的发展。睾酮导致男性化，而雌二醇导致女性化和乳房发育。男性有大量的睾酮，而女性有低量的睾酮和大量的雌二醇。这些激素差异是造成男性与女性之间差异的原因。性激素和其他激素药物被用于跨性别者，以转变男性典型激素状况为女性典型激素状况。这导致了女性化，并能够缓解性别障碍。跨性别激素治疗引起的变化发生在几个月到几年的时间里。有许多不同类型的激素药物，其可以通过不同的途径进行治疗。例如，作为药丸口服或作为贴剂和凝胶涂抹在皮肤上，以及注射，等等。不同的激素药物、途径和剂量有不同的疗效、副作用和风险。激素治疗应定期通过血液检查进行检测，以确保疗效和安全，并在需要时调整。
 
 The Sex Hormones
 
