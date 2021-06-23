@@ -1,4 +1,4 @@
-# 女性倾向跨性别者的激素治疗简介
+#  女性倾向跨性别者的激素治疗简介
 
 | 作者 [Aly W.][1] | 首次出版于 二零一八年八月四日 | 最后修改于 二零二一年六月二十二日 |
 | --- | --- | --- |
@@ -8,15 +8,15 @@
 | 译者 yucandy | 翻译于 二零二一年六月二十三日 |
 | --- | --- |
 
-## 前言
+##  前言
 
-### 提要 / 一句话简介
+###  提要 / 一句话简介
 
 性激素，如雌激素、睾酮和孕酮，由性腺产生。性激素影响第二性征的发展。睾酮导致男性化，而雌二醇导致女性化和乳房发育。男性有大量的睾酮，而女性有低量的睾酮和大量的雌二醇。这些激素差异是造成男性与女性之间差异的原因。性激素和其他激素药物被用于跨性别者，以转变男性典型激素状况为女性典型激素状况。这导致了女性化，并能够缓解性别障碍。跨性别激素治疗引起的变化发生在几个月到几年的时间里。有许多不同类型的激素药物，其可以通过不同的途径进行治疗。例如，作为药丸口服或作为贴剂和凝胶涂抹在皮肤上，以及注射，等等。不同的激素药物、途径和剂量有不同的疗效、副作用和风险。激素治疗应定期通过血液检查进行检测，以确保疗效和安全，并在需要时调整。
 
-## 性激素
+##  性激素
 
-### 种类和效果
+###  种类和效果
 
 [性激素][2] 包括 [雌激素][3] (E)，[孕激素][4] (P)，和 [雄激素][5]。一个人的激素状况 (hormonal profile) 是其天生的 [性腺][6] 的产物。出生时男性有 [睾丸][7] 而女性有 [卵巢][8]。睾丸产生大量的雄激素和少量的雌激素，而卵巢则产生大量的雌激素、孕酮与少量的雄激素。
 
@@ -231,9 +231,9 @@ a Sources for hormone levels: [Zhang & Stanczyk, 2013][76]; [Nakamoto, 2016][77]
    [94]: https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome
    [95]: https://doi.org/10.4158/EP.4.1.1
 
-##  Overview of Hormone Therapy 
+##  激素治疗概述 
 
-The goal of [hormone therapy for transfeminine people][96], otherwise known as male-to-female (MtF) hormone replacement therapy (HRT) or feminizing hormone therapy (FHT), is to produce [feminization][97] and [demasculinization][98] of the body as well as alleviation of [gender dysphoria][99]. Medication therapy with sex hormones and other [sex-hormonal medications][100] is used to mediate these changes. Transfeminine people are given [estrogens][101], [progestogens][102], and [antiandrogens][103] (AAs) to supersede gonadal sex hormone production and shift the hormonal profile from male-typical to female-typical. 
+[女性倾向跨性别者的激素治疗][96]，又称为男跨女 (MtF) 激素替代疗法 (HRT) 或女性化激素疗法 (FHT) 的目标，是使身体产生 [女性化][97] 和 [去男性化][98] 的变化，并缓解 [性别焦虑][99]。用于实现这些变化的是 [性激素类药物][100]。女性倾向跨性别者使用 [雌激素][101]、[孕激素][102]，和 [抗雄药物][103] (AA)，以取代性腺性激素的分泌，并将激素状况从男性典型转向女性典型。
 
    [96]: https://en.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)
    [97]: https://en.wikipedia.org/wiki/Feminization_(biology)
@@ -244,12 +244,12 @@ The goal of [hormone therapy for transfeminine people][96], otherwise known as m
    [102]: https://en.wikipedia.org/wiki/Progestogen_(medication)
    [103]: https://en.wikipedia.org/wiki/Antiandrogen
 
-Transfeminine hormone therapy aims to achieve estradiol and testosterone levels within the normal female range. Commonly recommended ranges in the literature are 100 to 200 pg/mL for estradiol levels and less than 50 ng/dL for testosterone levels ([Wiki-Table][104]). However, higher estradiol levels of 200 pg/mL and above can be useful in transfeminine hormone therapy to help suppress testosterone levels. Sex hormone levels in the blood can be measured with [blood tests][105]. This is useful in transfeminine hormone therapy to ensure that the hormonal profile has been satisfactorily altered in line with therapeutic goals, specifically hormone levels that are within female ranges. 
+女性化激素治疗的目的是使雌二醇和睾酮水平达到正常女性范围。文献中普遍推荐的范围是雌二醇水平为 100 至 200 pg/mL，睾酮水平低于 50 ng/dL ([Wiki-Table][104])。然而，较高的 200 pg/mL 以上的雌二醇水平在女性化激素治疗中可以帮助抑制睾丸激素水平。血液中的性激素水平可以通过 [血检][105] 测量。这在女性化激素治疗是很有用的，可以确保激素状况已经按照治疗目标进行了令人满意的改变，特别是激素水平在女性范围内。
 
    [104]: https://en.wikipedia.org/wiki/Template:Target_ranges_for_hormone_levels_in_hormone_therapy_for_transgender_women
    [105]: https://en.wikipedia.org/wiki/Blood_test
 
-###  Gonadal Suppression 
+###  性腺抑制 
 
 At sufficiently high exposure, estrogens and androgens are able to completely suppress gonadal sex hormone production while progestogens by themselves are able to partially but substantially suppress gonadal sex hormone production. More specifically, studies in cisgender men and transfeminine people have found that estradiol levels of around 200 pg/mL generally suppress testosterone levels by about 90% (to around 50 ng/dL), while estradiol levels of about 500 pg/mL suppress testosterone levels by about 95% on average (to around 20–30 ng/dL) ([Wiki][106]; [Wiki-Graphs][107]). Estradiol levels of below 200 pg/mL also suppress testosterone levels, although to a reduced extent ([Aly W., 2019][108]; [Aly W., 2019][109]; [Aly W., 2020][110]). Progestogens on their own are able to maximally suppress testosterone levels by about 50 to 70% (to around 150–300 ng/dL on average) ([Aly W., 2019][111]; [Wiki][112]). In combination with even small amounts of estrogen however, there is synergism in antigonadotropic effect and the suppression of testosterone levels with maximally effective doses of progestogens increases to about 95% (to around 20–30 ng/dL) ([Aly W., 2019][113]). Hence, the combination of an estrogen and a progestogen can be used to achieve maximal suppression of testosterone levels at lower doses than would be necessary if an estrogen or progestogen were used alone. 
 
