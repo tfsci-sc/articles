@@ -30,20 +30,23 @@
 
 雌激素、孕激素和雄激素也有抗促性腺激素的作用。意思是，它们抑制促性腺激素释放激素 (GnRH) 诱导的促性腺激素、黄体生成素 (LH) 和卵泡刺激素 (FSH) 从大脑垂体中的分泌。促性腺激素向性腺发出信号，使其制造性激素并提供生育所需的精子和卵细胞。因此，促性腺激素水平的降低将导致性腺性激素分泌的减少和生育能力的降低。如果促性腺激素水平被充分抑制，性腺将完全不再制造性激素，生育能力将停止。体内绝大部分的雌二醇、睾酮和孕酮是由性腺产生的。其余少量的这些激素大部分是由肾脏顶部的肾上腺产生的。
 
-### Normal Hormone Levels
+### 正常激素水平
 
-Hormone levels vary substantially but in a predictable manner during the normal menstrual cycle in cisgender women. The menstrual cycle lasts about 28 days and consists of the following parts:
+尽管不同顺性别女性的激素水平可能变化很大，其变化是可以根据正常的月经周期而预测的。月经周期持续约28天，由以下部分组成。
 
-    Follicular phase—first half of the cycle or days 1–14
-    Mid-cycle—middle of the cycle or days 12–16 or so
-    Luteal phase—latter half of the cycle or days 14–28
+    卵泡期-周期的前半段或第1-14天
+    周期中期-周期中间或第12-16天左右
+    黄体期-周期的后半段或第14-28天
 
-Hormone levels during the menstrual cycle are shown in the following graph:
-Figure: Median estradiol and progesterone levels throughout the menstrual cycle in premenopausal women (Stricker et al., 2006; Abbott, 2009). The horizontal dashed lines are the average levels over the spanned periods. Other graphs available elsewhere show variation between individuals (Wiki-Graph; Wiki-Graph; Wiki-Graph).
+月经周期中的激素水平如下图所示：
 
-As can be seen from the graph, estradiol levels are relatively low and progesterone levels are very low during the follicular phase; estradiol but not progesterone levels briefly surge to very high levels and trigger ovulation during mid-cycle; and estradiol and progesterone levels both undergo a bump and are relatively high during the luteal phase (though estradiol not as high as during the mid-cycle peak).
+图.jpg
 
-The table below shows the circulating levels and production rates of estradiol, progesterone, and testosterone in women and men and allows for comparison between them.
+图示: 绝经前妇女整个月经周期的雌二醇和孕酮中位数水平 (Stricker et al., 2006; Abbott, 2009)。水平虚线是周期的平均水平。其他地方提供的图表显示了个体之间的变化 (Wiki-Graph; Wiki-Graph; Wiki-Graph)。
+
+从图中可以看出，在卵泡期，雌二醇水平相对较低，孕酮水平非常低；在周期中期，雌二醇水平短暂激增至非常高的水平并触发排卵，孕酮不变；在黄体期，雌二醇和孕酮水平都经历了一个颠簸，相对较高（尽管雌二醇没有周期中期高峰时那么高）。
+
+下表显示了女性和男性的雌二醇、孕酮和睾酮的循环水平和产生率，并可在它们之间进行比较。
 
 Table: Ranges for circulating levelsa and estimated production ratesb of the major sex hormones:
 Hormone	Group	Time	Levelsc	Prodution rates
@@ -60,7 +63,7 @@ Testosterone	Womend	Menstrual cycle	5–55 ng/dL	190–260 μg/day
 
 a Sources for hormone levels: Zhang & Stanczyk, 2013; Nakamoto, 2016; Styne, 2016; LabCorp, 2020. b Sources for production rates: Aufrère & Benson, 1976; Powers et al., 1985; Lauritzen, 1988; Carr, 1993; O’Connell, 1995; Kuhl, 2003; Strauss & FitzGerald, 2019. c With liquid chromatography–mass spectrometry (LC–MS) (state-of-the-art blood tests). d During the menstrual cycle in the adult premenopause (age ~18–50 years). e Average production rate over the whole menstrual cycle is roughly 200 μg/day or 6 mg/month (Rosenfield, Cooke, & Radovich, 2021). f Average is about 25 mg/day (Carr, 1993).
 
-Mean estradiol levels are about 100 pg/mL in women and 25 pg/mL in men, while mean testosterone levels are about 30 ng/dL in women and 600 ng/dL in men. Based on these values, testosterone levels are on average about 20-fold higher in men than in women. In men who have undergone gonadectomy (castration), testosterone levels are similar to those in women (<50 ng/dL) (Nishiyama, 2014; Itty & Getzenberg, 2020). The average levels of testosterone in women with symptoms of androgen excess (e.g., excessive facial/body hair growth) due to polycystic ovary syndrome (PCOS) are about 60 ng/dL (Steinberger et al., 1998). Hence, even testosterone levels that are marginally elevated relative to normal female levels may produce undesirable androgenic effects.
+女性的平均雌二醇水平约为 100 pg/mL，男性为 25 pg/mL，而女性的平均睾酮水平约为 30 ng/dL，男性为 600 ng/dL。根据这些数值，男性的睾丸激素水平平均比女性高约20倍。在接受性腺切除术（睾丸移除）的男性中，睾酮水平与女性相似 (<50 ng/dL) (Nishiyama, 2014; Itty & Getzenberg, 2020)。因多囊卵巢综合症 (PCOS) 而出现雄性激素过剩症状（如面部/ 身体毛发过度生长）的女性，其睾酮的平均水平约为 60 ng/dL (Steinberger et al., 1998)。因此，即使是相对于正常女性水平略微升高的睾丸激素水平也可能产生不良的雄性激素效应。
 
 ## Overview of Hormone Therapy
 
