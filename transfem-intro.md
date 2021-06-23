@@ -234,21 +234,21 @@
 
 | 效果 | 开始时间<sup>a</sup> | 完成时间<sup>a</sup> | 永久性 |
 | --- | --- | --- | --- |
-| 乳房发育 | 2–6 months | 2–3 years | Permanent |
-| 毛发减少与生长减缓 | 3–12 months | >3 years<sup>b</sup> | Reversible |
-| 头皮脱发的减少与逆转 | 1–3 months | 1–2 years | Reversible |
-| 皮肤软化，出油与痤疮减少 | 3–6 months | Unknown | Reversible |
-| 女性化脂肪重分布 | 3–6 months | 2–5 years | Reversible |
-| 肌肉重量与强度减少 | 3–6 months | 1–2 years<sup>c</sup> | Reversible |
-| 骨盆变宽和变圆<sup>d</sup> | Unknown | Unknown | Permanent |
-| 情绪、情感和行为的变化 | Immediate | Unknown | Reversible |
-| 性欲和自发性勃起减少 | 1–3 months | 3–6 months | Reversible |
-| 勃起功能障碍和射精量减少 | 1–3 months | Variable | Reversible |
-| 精子产量减少和不孕不育 | Unknown | >3 years | Mixed<sup>e</sup> |
-| Decreased testicular volume | 3–6 months | 2–3 years | Unknown |
-| Voice changes (e.g., decreased pitch/resonance) | None<sup>f</sup> N/A | N/A |
+| 乳房发育 | 2–6 月 | 2–3 年 | 永久 |
+| 毛发减少与生长减缓 | 3–12 月 | >3 年<sup>b</sup> | 可逆 |
+| 头皮脱发的减少与逆转 | 1–3 月 | 1–2 年 | 可逆 |
+| 皮肤软化，出油与痤疮减少 | 3–6 月 | 未知 | 可逆 |
+| 女性化脂肪重分布 | 3–6 月 | 2–5 years | 可逆 |
+| 肌肉重量与强度减少 | 3–6 月 | 1–2 年<sup>c</sup> | 可逆 |
+| 骨盆变宽和变圆<sup>d</sup> | 未知 | 未知 | 永久 |
+| 情绪、情感和行为的变化 | 立即 | 未知 | 可逆 |
+| 性欲和自发性勃起减少 | 1–3 月 | 3–6 月 | 可逆 |
+| 勃起功能障碍和射精量减少 | 1–3 月 | 变化的 | 可逆 |
+| 精子产量减少和不孕不育 | 未知 | >3 年 | 混合<sup>e</sup> |
+| 睾丸体积缩小 | 3–6 月 | 2–3 年 | 未知 |
+| 声音变化 (例如，音调/共鸣下降) | 无<sup>f</sup> N/A | N/A |
 
-<sup>a</sup> May vary significantly between individuals due to factors like genetics, diet/nutrition, hormone levels, etc. <sup>b</sup Hormone therapy usually has little influence on facial hair density in transfeminine people. Complete removal of facial and body hair can be achieved with [laser hair removal][121] and [electrolysis][122]. Temporary hair removal can be achieved with [shaving][123], [epilating][124], [waxing][125], and other methods. <sup>c</sup> May vary significantly depending on amount of physical exercise. <sup>d</sup> Occurs only in young individuals who have not yet completed growth plate closure (may not occur at all in post-adolescent people). <sup>e</sup> Only estrogens, particularly at high doses, seem to have the potential for long-lasting or irreversible infertility; impaired fertility caused by antiandrogens is usually readily reversible with discontinuation. <sup>f</sup> [Voice training][126] is an effective means of feminizing the voice.
+<sup>a</sup> 由于遗传、饮食/营养、激素水平等因素，不同个体之间可能有很大差异。 <sup>b</sup 激素治疗通常对女性倾向跨性别者的面部毛发密度影响不大。彻底去除面部和身体毛发可以通过以下方法实现： [激光脱毛][121] 和 [电解脱毛][122]。临时除毛可以使用 [刮毛][123]，[拔毛][124]，[蜜蜡脱毛][125]和其他方法。 <sup>c</sup> 可能因体育锻炼量的不同而有很大差异。 <sup>d</sup> 只发生在尚未完成生长板闭合的年轻人身上（在青春期后的人可能完全不会发生）。 <sup>e</sup> 只有雌激素，特别是大剂量的雌激素，似乎有可能导致长期或不可逆的不育；由抗雄激素引起的生育力受损通常在停药后容易恢复。 <sup>f</sup> [嗓音训练][126] 是实现声音女性化的有效方式。
 
    [121]: https://en.wikipedia.org/wiki/Laser_hair_removal
    [122]: https://en.wikipedia.org/wiki/Electrolysis
