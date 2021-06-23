@@ -1,8 +1,10 @@
 # 女性倾向跨性别者的激素治疗简介
 
-作者 Aly W. | 首次出版于 二零一八年八月四日  | 最后修改于 二零二一年六月二十二日
+| 作者 Aly W. | 首次出版于 二零一八年八月四日 | 最后修改于 二零二一年六月二十二日 |
+| --- | --- | --- |
 
-译者 yucandy | 翻译于 二零二一年六月二十三日
+| 译者 yucandy | 翻译于 二零二一年六月二十三日 |
+| --- | --- |
 
 ## 前言
 
@@ -59,18 +61,21 @@ Testosterone	Womend	Menstrual cycle	5–55 ng/dL	190–260 μg/day
 a Sources for hormone levels: Zhang & Stanczyk, 2013; Nakamoto, 2016; Styne, 2016; LabCorp, 2020. b Sources for production rates: Aufrère & Benson, 1976; Powers et al., 1985; Lauritzen, 1988; Carr, 1993; O’Connell, 1995; Kuhl, 2003; Strauss & FitzGerald, 2019. c With liquid chromatography–mass spectrometry (LC–MS) (state-of-the-art blood tests). d During the menstrual cycle in the adult premenopause (age ~18–50 years). e Average production rate over the whole menstrual cycle is roughly 200 μg/day or 6 mg/month (Rosenfield, Cooke, & Radovich, 2021). f Average is about 25 mg/day (Carr, 1993).
 
 Mean estradiol levels are about 100 pg/mL in women and 25 pg/mL in men, while mean testosterone levels are about 30 ng/dL in women and 600 ng/dL in men. Based on these values, testosterone levels are on average about 20-fold higher in men than in women. In men who have undergone gonadectomy (castration), testosterone levels are similar to those in women (<50 ng/dL) (Nishiyama, 2014; Itty & Getzenberg, 2020). The average levels of testosterone in women with symptoms of androgen excess (e.g., excessive facial/body hair growth) due to polycystic ovary syndrome (PCOS) are about 60 ng/dL (Steinberger et al., 1998). Hence, even testosterone levels that are marginally elevated relative to normal female levels may produce undesirable androgenic effects.
-Overview of Hormone Therapy
+
+## Overview of Hormone Therapy
 
 The goal of hormone therapy for transfeminine people, otherwise known as male-to-female (MtF) hormone replacement therapy (HRT) or feminizing hormone therapy (FHT), is to produce feminization and demasculinization of the body as well as alleviation of gender dysphoria. Medication therapy with sex hormones and other sex-hormonal medications is used to mediate these changes. Transfeminine people are given estrogens, progestogens, and antiandrogens (AAs) to supersede gonadal sex hormone production and shift the hormonal profile from male-typical to female-typical.
 
 Transfeminine hormone therapy aims to achieve estradiol and testosterone levels within the normal female range. Commonly recommended ranges in the literature are 100 to 200 pg/mL for estradiol levels and less than 50 ng/dL for testosterone levels (Wiki-Table). However, higher estradiol levels of 200 pg/mL and above can be useful in transfeminine hormone therapy to help suppress testosterone levels. Sex hormone levels in the blood can be measured with blood tests. This is useful in transfeminine hormone therapy to ensure that the hormonal profile has been satisfactorily altered in line with therapeutic goals, specifically hormone levels that are within female ranges.
-Gonadal Suppression
+
+### Gonadal Suppression
 
 At sufficiently high exposure, estrogens and androgens are able to completely suppress gonadal sex hormone production while progestogens by themselves are able to partially but substantially suppress gonadal sex hormone production. More specifically, studies in cisgender men and transfeminine people have found that estradiol levels of around 200 pg/mL generally suppress testosterone levels by about 90% (to around 50 ng/dL), while estradiol levels of about 500 pg/mL suppress testosterone levels by about 95% on average (to around 20–30 ng/dL) (Wiki; Wiki-Graphs). Estradiol levels of below 200 pg/mL also suppress testosterone levels, although to a reduced extent (Aly W., 2019; Aly W., 2019; Aly W., 2020). Progestogens on their own are able to maximally suppress testosterone levels by about 50 to 70% (to around 150–300 ng/dL on average) (Aly W., 2019; Wiki). In combination with even small amounts of estrogen however, there is synergism in antigonadotropic effect and the suppression of testosterone levels with maximally effective doses of progestogens increases to about 95% (to around 20–30 ng/dL) (Aly W., 2019). Hence, the combination of an estrogen and a progestogen can be used to achieve maximal suppression of testosterone levels at lower doses than would be necessary if an estrogen or progestogen were used alone.
 Figure: Estradiol and testosterone levels after a single injection of 320 mg polyestradiol phosphate (PEP) (a long-acting prodrug of estradiol) in men with prostate cancer (Stege et al., 1996). The peak decrease in testosterone levels occurred with estradiol levels of greater than 200 pg/mL and was about 90% (to roughly 50 ng/dL).
 
 The antigonadotropic effects of estrogens and progestogens are taken advantage of in transfeminine hormone therapy to suppress gonadal testosterone production and attain testosterone levels that are more consistent with those in cisgender women. It should be noted that the preceding numbers on testosterone suppression with estrogens and progestogens are averages and there is significant variation between individuals in terms of testosterone suppression. In other words, some may need more or less in terms of hormonal dosages to achieve the same decrease in testosterone levels.
-Timeline of Effects
+
+### Timeline of Effects
 
 During normal puberty in both males and females, sex hormone exposure increases slowly over a period of several years (Aly W., 2020) and sexual maturation occurs gradually. In non-adolescent transgender people, adult or higher amounts of hormones are generally administered right away and this can result in changes in secondary sex characteristics happening much more quickly. The table below is reproduced from literature sources with slight modification and is commonly cited as a timeline for the effects of hormone therapy in transfeminine people (Wiki-Table). It is based on a mix of clinical experience, expert opinion, and clinical studies of transfeminine people.
 
@@ -91,7 +96,8 @@ Decreased testicular volume	3–6 months	2–3 years	Unknown
 Voice changes (e.g., decreased pitch/resonance)	Nonef	N/A	N/A
 
 a May vary significantly between individuals due to factors like genetics, diet/nutrition, hormone levels, etc. b Hormone therapy usually has little influence on facial hair density in transfeminine people. Complete removal of facial and body hair can be achieved with laser hair removal and electrolysis. Temporary hair removal can be achieved with shaving, epilating, waxing, and other methods. c May vary significantly depending on amount of physical exercise. d Occurs only in young individuals who have not yet completed growth plate closure (may not occur at all in post-adolescent people). e Only estrogens, particularly at high doses, seem to have the potential for long-lasting or irreversible infertility; impaired fertility caused by antiandrogens is usually readily reversible with discontinuation. f Voice training is an effective means of feminizing the voice.
-Specific Hormonal Medications
+
+## Specific Hormonal Medications
 
 The medications that are used in transfeminine hormone therapy include estrogens, progestogens, and antiandrogens. Estrogens produce feminization and suppress testosterone levels. Progestogens and antiandrogens can help to further suppress and/or block testosterone. Androgens are sometimes used at low doses in transfeminine people with low testosterone levels. There are many different types of these medications with different benefits and risks.
 
@@ -109,7 +115,8 @@ Subcutaneous injection	SC	Injected into fat under skin	Solution (vial/amp.)
 Subcutaneous implant	SCi	Insertion via surgical incision into fat under skin	Pellet
 
 Vaginal administration is a major route of administration of hormonal medications in cisgender women. While vaginal administration via a natal vagina is of course not possible in transfeminine people, neovaginal administration is an option in those who have undergone vaginoplasty. However, the lining of the neovagina is not the vaginal epithelium of natal females but rather is usually skin or colon depending on the type of vaginoplasty performed (penile inversion or sigmoid colon vaginoplasty, respectively). For this reason, neovaginal administration in transfeminine people is likely more similar in its properties to the transdermal and rectal routes (depending on the type of neovagina) than to vaginal administration in cisgender women. In any case, absorption of estradiol via neovagina constructed from peritoneum (internal abdominal lining) was reported in one study to be similar to that with vaginal administration of estradiol in cisgender women (Willemsen et al., 1985).
-Estrogens
+
+### Estrogens
 
 The estrogens that are used in transfeminine people are estradiol and estradiol esters. Examples of estradiol esters include estradiol valerate (EV; Progynova, Progynon Depot, Delestrogen), estradiol cypionate (EC; Depo-Estradiol), estradiol enanthate (EEn), and estradiol benzoate (EB; Progynon-B). They are prodrugs of estradiol (i.e., are converted into estradiol in the body) and have identical biological activity to estradiol. However, they have longer durations when used by injection due to slower absorption from the injection site. This allows them to be administered less often. Polyestradiol phosphate (PEP; Estradurin) is an estradiol prodrug in the form of a polymer (i.e., linked chain of estradiol molecules). It is metabolized slowly and has a very long duration.
 
@@ -118,7 +125,8 @@ Non-bioidentical estrogens such as ethinylestradiol (EE; found in birth control 
 Estrogens can be used by themselves at high doses to suppress testosterone levels into the female range. Alternatively, an estrogen can be used at lower doses that result in more physiological estrogen levels in combination with an antiandrogen or progestogen. This will result in partial suppression of testosterone levels by the estrogen and further suppression or blockade of remaining testosterone via the antiandrogen or progestogen. However, the addition of an antiandrogen or progestogen to estrogen therapy will also include the side effects and risks of these medications.
 
 The feminizing effects of estrogens are maximal at low levels in the absence of androgens. Higher doses of estrogens, aside from allowing for greater testosterone suppression, don’t result in better feminization. In fact, there is indication that higher doses may actually result in worse breast development. This topic will be covered in a future article on this site. Higher doses of estrogens, including estradiol, also have a greater risk of adverse health effects such as blood clots and cardiovascular problems (Aly W., 2020). As such, the use of physiological doses of estrogens is optimal. However, high doses of estrogen are useful for testosterone suppression and the absolute risks in the case of non-oral estradiol are low. They are also confined largely to people with specific risk factors, including older age, physical inactivity, obesity, concomitant progestogen use, smoking, surgery, and thrombophilic abnormalities. In healthy young individuals without relevant risk factors, high doses of non-oral estradiol—within reason—are likely acceptably safe (Aly W., 2020).
-Routes, Doses, and Levels of Estradiol
+
+#### Routes, Doses, and Levels of Estradiol
 
 Estradiol and its esters are usually used in transfeminine people by the oral, sublingual, transdermal, intramuscular, and/or subcutaneous routes (Wiki).
 
@@ -153,7 +161,8 @@ For estrogen levels with different forms, routes, and doses of estradiol, see th
 There is high variability between individuals in the levels of estradiol achieved during estradiol therapy. That is, estradiol levels during treatment with the same dosage of estradiol can differ widely between individuals. This variability is greatest with the oral and transdermal routes. As such, the doses of estradiol recommended are not absolute and should be individualized in conjunction with blood work on a case-by-case basis. It should also be noted that estradiol levels can vary considerably from one blood test to another, most importantly with the sublingual and injected routes. However, this variation is predictable, and can be minimized with proper timing of blood tests.
 
 After removal of the gonads, estrogen doses can be lowered or adjusted to approximate normal female physiological exposure. The average production of estradiol in premenopausal women is about 6 mg over the course of a single menstrual cycle (i.e., one month) (Rosenfield et al., 2008).
-Progestogens
+
+### Progestogens
 
 Progestogens include progesterone and progestins. Progestins are synthetic progestogens derived from structural modification of progesterone or testosterone. Examples of some major progestins include medroxyprogesterone acetate (MPA; Provera, Depo-Provera), norethisterone (NET; many brand names), dydrogesterone (Duphaston), and drospirenone (Slynd, Yasmin) (Aly W., 2019). There are dozens of different progestins and these progestins can be divided into a variety of different structural classes with varying properties (Wiki-Table). Progestins were developed because they have a more favorable disposition in the body than progesterone for use as medications. Only a few clinically used progestins have been used in transfeminine hormone therapy, although almost all progestogens have the same progestogenic actions and theoretically any progestogen could be employed.
 
@@ -166,7 +175,8 @@ In contrast to progestins, progesterone has no unfavorable off-target activities
 Progestogens are of no clear or known benefit for feminization or breast development in transfeminine people aside from helping with testosterone suppression. While some transfeminine people anecdotally claim to experience improved breast development with progestogens, an involvement of these agents in breast size or shape is controversial and not supported by theory or evidence at present (Wiki; Aly W., 2020; Aly W., 2020). It’s possible that premature introduction of progestogens may actually have an unfavorable influence on breast development (Aly W., 2019). Many transfeminine people have also anecdotally claimed that progestogens have a beneficial effect on their sexual desire. However, a review of the literature showed that neither progesterone nor progestins positively influence sexual desire (Aly W., 2020). Instead, the available evidence indicates the opposite—an inhibitory influence of progestogens on sexual desire—although this may be specific to high doses (Aly W., 2020).
 
 Due to their lack of influence on feminization and breast development and their adverse effects and health risks, progestogens are not routinely used in transfeminine hormone therapy at present. There is however a major exception to this in the form of cyproterone acetate (CPA; Androcur), an antiandrogen which is widely used in transfeminine hormone therapy and also happens to be a powerful progestogen at typical therapeutic doses. CPA will be described in the section below on antiandrogens. Although progestogens have various health risks, cisgender women of course have progesterone and the absolute risks of progestogens are very low in healthy young people. Risks like breast cancer also take many years to develop. And the testosterone suppression provided by progestogens can be very useful in transfeminine people. A limited duration of progestogen therapy, for instance a few years to help suppress testosterone levels before gonadectomy, may be quite acceptable in transfeminine people.
-Routes, Doses, and Levels of Progesterone and Progestins
+
+#### Routes, Doses, and Levels of Progesterone and Progestins
 
 Progesterone can be used in transfeminine people by the oral route, by the rectal route, or by intramuscular or subcutaneous injection (Wiki). Progestins are usually used by the oral route but certain progestins are also available in injectable formulations.
 
@@ -191,7 +201,8 @@ For progesterone levels with different forms, routes, and doses of progesterone,
 As with estradiol, there is high variability between individuals in progesterone levels. Conversely, there is relatively little variability between individuals in the case of progestins.
 
 After removal of the gonads, progestogen doses can be lowered or adjusted to approximate normal female physiological exposure or they can be discontinued entirely.
-Antiandrogens
+
+### Antiandrogens
 
 Aside from estrogens and progestogens, there is another class of hormonal medications used in transfeminine hormone therapy known as antiandrogens (AAs). These medications nullify the effects of androgens in the body. They work by a variety of different mechanisms of action and include AR antagonists, antigonadotropins, and androgen synthesis inhibitors.
 
@@ -202,7 +213,8 @@ Antigonadotropins suppress the gonadal production of androgens by inhibiting the
 Androgen synthesis inhibitors inhibit the enzyme-mediated synthesis of androgens. They include 5α-reductase inhibitors (5α-RIs) like finasteride (Propecia) and dutasteride (Avodart). There are also other types of androgen synthesis inhibitors, for instance potent 17α-hydroxylase/17,20-lyase inhibitors like ketoconazole (Nizoral) and abiraterone acetate (Zytiga). However, these other agents have limitations (e.g., toxicity, cost, lack of experience) and are not used in transfeminine hormone therapy.
 
 Although antigonadotropins and androgen synthesis inhibitors certainly have antiandrogenic effects secondary to decreased androgen levels, they are not usually referred to as “antiandrogens”. Instead, the term “antiandrogen” is most commonly reserved to describe AR antagonists.
-Androgen Receptor Antagonists
+
+#### Androgen Receptor Antagonists
 
 AR antagonists act by directly blocking the effects of androgens. Unlike antigonadotropins and androgen synthesis inhibitors, they do not work by suppressing androgen levels. However, some AR antagonists also have additional actions that result in decreased androgen levels. Due to the nature of their mechanism of action as competitive blockers of androgens, the antiandrogenic efficacy of AR antagonists is both highly dose-dependent and fundamentally dependent on testosterone levels. AR antagonists tend to have relatively low affinity for the AR, and relatively high doses by weight may be required for satisfactory prevention of the effects of testosterone—especially in the context of male-range testosterone levels (Aly W., 2019). In any case, AR antagonists can be very useful when testosterone levels are incompletely but markedly suppressed (e.g., <200 ng/dL). Because AR antagonists do not work by lowering testosterone levels, blood work is less informative for them compared to antiandrogens that suppress testosterone levels.
 
@@ -216,26 +228,30 @@ Bicalutamide	AR antagonist	Oral	Tablets	12.5–50 mg/daya
 Cyproterone acetate	Progestogen; AR antagonist	Oral	Tablets	2.5–12.5 mg/day (total)b
 
 a For the AR antagonists spironolactone and bicalutamide, it is assumed that testosterone levels are substantially suppressed (≤200 ng/dL). If not, higher doses may be warranted. b For CPA, one-quarter of a 10-mg tablet to one full 10-mg tablet per day (2.5–10 mg/day) or a quarter of a 50-mg tablet every other day or every 2 to 3 days (4.2–12.5 mg/day). A dosage of 5 to 12.5 mg/day is likely to ensure maximal testosterone suppression while lower doses may be less effective.
-Spironolactone
+
+#### Spironolactone
 
 Spironolactone is a relatively weak AR antagonist (Wiki). It is also a weak androgen synthesis inhibitor in addition to AR antagonist—specifically via 17α-hydroxylase/17,20-lyase inhibition (Wiki). However, it shows limited and highly inconsistent effects on testosterone levels and its primary mechanism of action appears to be via AR blockade (Aly W., 2018; Aly W., 2020). Due to its relatively weak AR antagonism, spironolactone is best-suited for blocking female-range or somewhat higher testosterone levels.
 
 Spironolactone has antimineralocorticoid side effects and has a risk of rare but potentially life-threatening hyperkalemia (high potassium levels) in those with specific risk factors (Wiki). Monitoring of blood potassium levels during spironolactone therapy is advisable in those with risk factors for high potassium levels, but appears to not be necessary in people without such risk factors (Plovanich et al., 2015). Risk factors for high potassium levels include old age, kidney disease, concomitant use of other potassium-elevating drugs, and intake of potassium supplements.
-Bicalutamide
+
+#### Bicalutamide
 
 Bicalutamide is a potent and highly selective AR antagonist (Wiki). Due to its relatively high potency, bicalutamide is able at higher doses to substantially block male-range testosterone levels (Aly W., 2019). Owing to its selectivity for the AR, bicalutamide has no off-target hormonal activity and has almost no side effects in women (Erem, 2013; Moretti et al., 2018). As a selective AR antagonist, bicalutamide does not decrease testosterone levels (Wiki).
 
 Bicalutamide has mostly been used to treat men with prostate cancer, but has also been used to treat other androgen-dependent conditions such as excessive facial and/or body hair in women and is becoming increasingly adopted for use in transfeminine people (Aly W., 2020; Wiki).
 
 Bicalutamide has a small risk of liver toxicity (Wiki; Aly W., 2020) and lung toxicity (Wiki). Liver monitoring is advisable during bicalutamide therapy. Older AR antagonists related to bicalutamide like flutamide (Eulexin) and nilutamide (Anandron, Nilandron) have much greater health risks in comparison and should not be used in transfeminine hormone therapy.
-Cyproterone Acetate
+
+#### Cyproterone Acetate
 
 CPA is a progestogen that at much higher doses also acts as an AR antagonist (Aly W., 2019). It has been used at relatively high doses in transfeminine people to take advantage of its AR antagonism (Aly W., 2019). As a result of the strong progestogenic exposure that occurs with typical doses of CPA, the medication substantially suppresses testosterone levels in addition to its AR antagonism (Aly W., 2019). Relatively low doses of CPA (e.g., 5–10 mg/day) are able to maximally suppress testosterone levels in combination with even low doses of an estrogen (Aly W., 2019). Due to a variety of dose-dependent risks with CPA, doses of the medication have come down substantially in recent years. Lower doses of CPA are likely to be purely progestogenic and have minimal or no significant AR antagonism. However, the AR antagonism of higher doses is unnecessary since the combination of CPA with estradiol results in suppression of testosterone levels well into the female range.
 
 CPA has been reported to produce fatigue and slight weight gain as side effects (Belisle & Love, 1986; Hammerstein, 1990). It may result in sexual dysfunction (Wiki; Aly W., 2019) and have a small risk of depressive mood changes (Wiki; Aly W., 2019). CPA produces pregnancy-like breast changes (Kanhai et al., 2000) and sometimes causes lactation as a side effect in transfeminine people (Gooren, Harmsen-Louman, & van Kessel, 1985; Schlatterer et al., 1998; Bazarra-Castro, 2009). As with other progestogens, the addition of low doses of CPA to estrogen therapy is associated with increased risk of blood clots and breast cancer (Wiki; Wiki; Aly W., 2020). Higher doses of CPA appear to have a greater risk of blood clots than low doses (Wiki). CPA is also associated with high prolactin levels (Wiki) and with certain non-cancerous brain tumors including prolactinomas and meningiomas (Wiki; Aly W., 2020). High doses of CPA are associated with abnormal liver changes and have resulted in rare cases of liver toxicity (Wiki). This probably isn’t an issue at doses of less than 20 mg/day however (Wiki). Monitoring of prolactin levels to detect prolactinomas and monitoring of liver function to detect liver toxicity is advisable during CPA therapy. The side effects and risks of CPA may be minimized by using the lowest effective dosage, which is much lower than what has conventionally been used (Aly W., 2019).
 
 CPA is notably not approved for use in the United States, but is available in most other countries.
-5α-Reductase Inhibitors
+
+#### 5α-Reductase Inhibitors
 
 Testosterone is converted into DHT within certain tissues in the body (Swerdloff et al., 2017). DHT is an androgen metabolite of testosterone with several-fold higher activity than testosterone. The transformation of testosterone into DHT is mediated by the enzyme 5α-reductase. The tissues in which 5α-reductase is present and testosterone is converted into DHT are limited and most importantly include the skin, hair follicles, and prostate gland. Although DHT is more potent than testosterone, it has minimal biological role as a circulating hormone (Horton, 1992; Swerdloff et al., 2017). Instead, testosterone serves as the main circulating androgen, and the role of DHT is from metabolism of testosterone into DHT within tissues.
 
@@ -255,7 +271,8 @@ Table: Available forms and recommended doses of 5α-reductase inhibitors:
 Medication	Route	Form	Dosage
 Dutasteride	Oral	Capsules	0.05–2.5 mg/day
 Finasteride	Oral	Tablets	0.05–5 mg/day
-GnRH Agonists and Antagonists
+
+#### GnRH Agonists and Antagonists
 
 GnRH agonists and antagonists (GnRHa) work by blocking the effects of GnRH in the pituitary gland and thereby suppressing LH and FSH secretion. Due to a physiological quirk, they have the same effects in this part of the body. This is because GnRH is normally secreted in pulses, and when the GnRH receptor is activated continuously, as with GnRH agonists, the GnRH receptor in the pituitary gland is desensitized to the point of becoming inactive. Consequently, both GnRH agonists and GnRH antagonists abolish gonadal sex hormone production. GnRHa are like a reversible gonadectomy, and for this reason, are also referred to as “medical castration”. Provided that an estrogen is taken in combination to prevent sex hormone deficiency, GnRHa have essentially no side effects or risks. For these reasons, GnRHa are the ideal antiandrogens for use in transfeminine people.
 
@@ -296,15 +313,18 @@ Elagolix	Orilissa	Oral	Tablets	150–200 mg 1–2x/dayb
 Relugolix	Relumina	Oral	Tablets	40 mg/day
 
 a First month is 240 mg then 80 mg per month thereafter. b 150 mg 1x/day is less effective than 200 mg 2x/day (which provides full gonadal sex-hormone suppression in cisgender women) (Wiki).
-Additional Notes
+
+#### Additional Notes
 
 There is relatively little variability between individuals with antiandrogens.
 
 After removal of the gonads, antiandrogens can be discontinued. If unwanted androgen-dependent symptoms occur, such as acne, seborrhea, or scalp hair loss, then a lower dose of an AR antagonist, such as 100 to 200 mg/day spironolactone or 12.5 to 25 mg/day bicalutamide, can be continued.
-Androgens and Anabolic Steroids
+
+### Androgens and Anabolic Steroids
 
 In addition to estrogens, progestogens, and antiandrogens, androgens/anabolic steroids (AAS) are sometimes added to transfeminine hormone therapy. This is when testosterone levels are low (e.g., below the female average of 30 ng/dL) and androgen replacement is desired. It has been proposed that adequate levels of testosterone may provide benefits such as increased sexual desire, improved mood and energy, positive effects on skin health and cellulite (Avram, 2004), and increased muscle size and strength (Huang & Basaria, 2017). However, there is insufficient clinical evidence to support such benefits at present (Wiki). In any case, possible options for androgen therapy include testosterone, dehydroepiandrosterone (DHEA; prasterone), and nandrolone decanoate (ND) (Aly W., 2020).
-Monitoring of Therapy
+
+## Monitoring of Therapy
 
 Transfeminine people on hormone therapy should undergo regular laboratory monitoring in the form of blood work. Total estradiol levels and total testosterone levels should be measured to assess the effectiveness of therapy and determine whether medication adjustments may be necessary. Levels of free testosterone, free estradiol, estrone (E1), dihydrotestosterone (DHT), luteinizing hormone (LH), follicle-stimulating hormone (FSH), and sex hormone-binding globulin (SHBG) can be also be measured to provide further information although they’re not absolutely necessary. If progesterone is used, progesterone levels can be measured. However, in the specific case of oral progesterone, progesterone levels should be measured with a mass spectrometry-based test and not with an immunoassay (Aly W., 2018; Wiki). Conversely, either type of assay may be used with non-oral progesterone.
 
