@@ -119,7 +119,7 @@
 
    [66]: https://transfemscience.org/assets/images/transfem-intro-e2-p4-cycle.png
 
-图示: 绝经前妇女整个月经周期的雌二醇和孕酮中位数水平 ([Stricker et al., 2006][67]; [Abbott, 2009][68])。水平虚线是周期的平均水平。其他地方提供的图表显示了个体之间的变化。 ([Wiki-Graph][69]; [Wiki-Graph][70]; [Wiki-Graph][71])
+图示: 绝经前妇女整个月经周期的雌二醇和孕酮中位数水平 ([Stricker et al., 2006][67]; [Abbott, 2009][68])。水平虚线是周期的平均水平。其他地方提供的图表显示了个体之间的变化。 ([维基-图表][69]; [维基-图表][70]; [维基-图表][71])
 
    [67]: https://doi.org/10.1515/CCLM.2006.160
    [68]: https://web.archive.org/web/20200127014925/http://www.ilexmedical.com/files/PDF/Estradiol_ARC.pdf
