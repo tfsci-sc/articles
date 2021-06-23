@@ -51,7 +51,7 @@
    [24]: https://en.wikipedia.org/wiki/Epiphyseal_plate
    [25]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_estradiol#Effects_in_the_body_and_brain
 
-Progestogens have essentially no known role in feminization or [pubertal][26] breast development. Rather than acting as mediators of feminization, progestogens have important effects in the [female reproductive system][27] and are essential hormones during [pregnancy][28] ([Wiki][29]). They also oppose the actions of estrogens in certain parts of the body, such as the [uterus][30], vagina, and breasts ([Wiki][31]). 
+孕激素在女性化或 [青春期][26] 乳房发育中基本上没有已知的作用。孕激素不作为女性化的媒介，但是却在 [女性生殖系统][27] 中具有重要的作用。其是 [怀孕][28] 期间必不可少的激素。 ([维基][29]) 孕激素也阻止雌激素在身体某些部位中的作用，如 [子宫][30]、阴道和乳房。([维基][31]) 
 
    [26]: http://en.wikipedia.org/wiki/Puberty
    [27]: https://en.wikipedia.org/wiki/Female_reproductive_system
@@ -60,7 +60,7 @@ Progestogens have essentially no known role in feminization or [pubertal][26] br
    [30]: https://en.wikipedia.org/wiki/Uterus
    [31]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_progesterone#Antiestrogenic_effects
 
-Androgens cause [masculinization][32]. This includes [growth of the penis][33], [broadening of the shoulders][34], [expansion of the rib cage][35], [muscle growth][36], [voice deepening][37], a [masculine pattern of fat distribution][38] (concentrated in the stomach and waist), and [facial/body hair growth][39] ([Wiki][40]). Androgens also cause a variety of generally undesirable skin and hair effects, including [oily skin][41], [acne][42], [seborrhea][43], [scalp hair loss][44], and [body odor][45]. They additionally oppose breast development mediated by estrogens. 
+雄激素导致 [男性化][32]. 这包括 [阴茎的增长][33]，[肩膀的变宽][34]，[肋骨的扩张][35]，[肌肉的增长][36]，[声音的加深][37]，[脂肪分布的男性化模式][38] （集中在腹部和腰部），以及 [面部、身体毛发的生长][39] ([维基][40]). 雄性激素还导致各种普遍不受欢迎的皮肤和头发影响，如 [油性皮肤][41]、[痤疮][42]、[皮脂溢出][43]、[头皮脱发][44] 和 [体味][45]。此外，雄激素还阻止由雌激素激发的乳房发育。
 
    [32]: https://en.wikipedia.org/wiki/Virilization
    [33]: https://en.wikipedia.org/wiki/Penile_growth
@@ -77,7 +77,7 @@ Androgens cause [masculinization][32]. This includes [growth of the penis][33], 
    [44]: https://en.wikipedia.org/wiki/Pattern_hair_loss
    [45]: https://en.wikipedia.org/wiki/Body_odor
 
-In addition to their effects on the body, sex hormones have actions in the brain. These actions influence cognition, emotions, and behavior. For instance, androgens produce pronounced [sexual desire][46] and [arousal][47] (including [spontaneous erections][48]) in men while estrogens are the major hormones responsible for sexual desire in women ([Cappelletti & Wallen, 2016][49]). Sex hormones also have important effects on health, which can be both positive and negative. For instance, estrogens maintain [bone strength][50] and likely protect against [heart disease][51], but also increase the risk of [breast cancer][52] ([Aly W., 2020][53]). 
+除了对身体的影响外，性激素在大脑中也有作用。这些作用影响认知、情绪和行为。例如，雄激素在男性中产生明显的 [性欲][46] 和 [唤醒][47] （包括 [自发勃起][48]），而雌激素是负责女性性欲的主要激素 ([Cappelletti & Wallen, 2016][49])。性激素对健康也有重要影响，这可以是积极或消极的。例如，雌激素可以保持 [骨骼强度][50]，并可能防止 [心脏疾病][51]，但也会增加 [乳腺癌][52] 的风险 ([Aly W., 2020][53])。
 
    [46]: https://en.wikipedia.org/wiki/Sexual_desire
    [47]: https://en.wikipedia.org/wiki/Sexual_arousal
@@ -88,7 +88,7 @@ In addition to their effects on the body, sex hormones have actions in the brain
    [52]: https://en.wikipedia.org/wiki/Breast_cancer
    [53]: https://transfemscience.org/articles/breast-cancer/
 
-Estrogens, progestogens, and androgens also have [antigonadotropic][54] effects. That is, they inhibit the [gonadotropin-releasing hormone][55] (GnRH)-induced secretion of the [gonadotropins][56], [luteinizing hormone][57] (LH) and [follicle-stimulating hormone][58] (FSH), from the [pituitary gland][59] in the brain. The gonadotropins signal the gonads to make sex hormones and to supply the sperm and egg cells necessary for fertility. Hence, lower levels of the gonadotropins will result in reduced gonadal sex hormone production and diminished fertility. If gonadotropin levels are sufficiently suppressed, the gonads will no longer make sex hormones at all and fertility will cease. The vast majorities of the quantities of estradiol, testosterone, and progesterone in the body are produced by the gonads. Most of the small remaining amounts of these hormones are produced via the [adrenal glands][60] on top of the [kidneys][61]. 
+雌激素、孕激素和雄激素也有 [抗促性腺激素][54] 的作用。。意思是，它们抑制 [促性腺激素释放激素][55] (GnRH) 诱导的 [促性腺激素][56]、[黄体生成素][57] (LH) 和 [卵泡刺激素][58] (FSH) 从大脑垂体中的分泌。促性腺激素向性腺发出信号，使其制造性激素并提供生育所需的精子和卵细胞。因此，促性腺激素水平的降低将导致性腺性激素分泌的减少和生育能力的降低。如果促性腺激素水平被充分抑制，性腺将完全不再制造性激素，生育能力将停止。体内绝大部分的雌二醇、睾酮和孕酮是由性腺产生的。其余少量的这些激素大部分是由 [肾上腺][60] 产生的，其位于 [肾脏][61] 顶部。 
 
    [54]: https://en.wikipedia.org/wiki/Antigonadotropin
    [55]: https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone
@@ -99,27 +99,27 @@ Estrogens, progestogens, and androgens also have [antigonadotropic][54] effects.
    [60]: https://en.wikipedia.org/wiki/Adrenal_gland
    [61]: http://en.wikipedia.org/wiki/Kidney
 
-###  Normal Hormone Levels 
+###  正常激素水平 
 
-Hormone levels vary substantially but in a predictable manner during the normal [menstrual cycle][62] in cisgender women. The menstrual cycle lasts about 28 days and consists of the following parts: 
+尽管不同顺性别女性的激素水平可能变化很大，其变化是可以根据正常的 [月经周期][62] 而预测的。月经周期持续约28天，由以下部分组成：
 
    [62]: https://en.wikipedia.org/wiki/Menstrual_cycle
 
-  1. [Follicular phase][63]—first half of the cycle or days 1–14
-  2. [Mid-cycle][64]—middle of the cycle or days 12–16 or so
-  3. [Luteal phase][65]—latter half of the cycle or days 14–28
+  1. [卵泡期][63]—周期的前半段或第1-14天
+  2. [周期中期][64]—周期中间或第12-16天左右
+  3. [黄体期][65]—周期的后半段或第14-28天
 
    [63]: https://en.wikipedia.org/wiki/Follicular_phase
    [64]: https://en.wikipedia.org/wiki/Menstrual_cycle#Cycles_and_phases
    [65]: https://en.wikipedia.org/wiki/Luteal_phase
 
-Hormone levels during the menstrual cycle are shown in the following graph: 
+月经周期中的激素水平如下图所示：
 
 ![][66]
 
    [66]: https://transfemscience.org/assets/images/transfem-intro-e2-p4-cycle.png
 
-Figure: Median estradiol and progesterone levels throughout the menstrual cycle in premenopausal women ([Stricker et al., 2006][67]; [Abbott, 2009][68]). The horizontal dashed lines are the average levels over the spanned periods. Other graphs available elsewhere show variation between individuals ([Wiki-Graph][69]; [Wiki-Graph][70]; [Wiki-Graph][71]). 
+图示: 绝经前妇女整个月经周期的雌二醇和孕酮中位数水平 ([Stricker et al., 2006][67]; [Abbott, 2009][68])。水平虚线是周期的平均水平。其他地方提供的图表显示了个体之间的变化。 ([Wiki-Graph][69]; [Wiki-Graph][70]; [Wiki-Graph][71])
 
    [67]: https://doi.org/10.1515/CCLM.2006.160
    [68]: https://web.archive.org/web/20200127014925/http://www.ilexmedical.com/files/PDF/Estradiol_ARC.pdf
@@ -127,11 +127,13 @@ Figure: Median estradiol and progesterone levels throughout the menstrual cycle 
    [70]: https://commons.wikimedia.org/wiki/File:Estradiol_levels_across_the_normal_menstrual_cycle_in_women.png
    [71]: https://commons.wikimedia.org/wiki/File:Progesterone_levels_across_the_normal_menstrual_cycle_in_women.png
 
-As can be seen from the graph, estradiol levels are relatively low and progesterone levels are very low during the follicular phase; estradiol but not progesterone levels briefly surge to very high levels and trigger [ovulation][72] during mid-cycle; and estradiol and progesterone levels both undergo a bump and are relatively high during the luteal phase (though estradiol not as high as during the mid-cycle peak). 
+从图中可以看出，在卵泡期，雌二醇水平相对较低，孕酮水平非常低；在周期中期，雌二醇水平短暂激增至非常高的水平并触发 [排卵][72] ，孕酮不变；在黄体期，雌二醇和孕酮水平都经历了一个颠簸，相对较高（尽管雌二醇没有周期中期高峰时那么高）。
 
    [72]: https://en.wikipedia.org/wiki/Ovulation
 
-The table below shows the circulating levels and production rates of estradiol, progesterone, and testosterone in women and men and allows for comparison between them. 
+下表显示了女性和男性的雌二醇、孕酮和睾酮的循环水平和产生率，并可在它们之间进行比较。
+
+* 嗯表炸了。提醒自己回来修（微笑脸
 
 Table: Ranges for circulating levelsa and estimated production ratesb of the major sex hormones: 
 
@@ -220,7 +222,7 @@ a Sources for hormone levels: [Zhang & Stanczyk, 2013][76]; [Nakamoto, 2016][77]
    [88]: https://en.wikipedia.org/wiki/Premenopause
    [89]: https://doi.org/10.1016/B978-0-323-62520-3.00016-6
 
-Mean estradiol levels are about 100 pg/mL in women and 25 pg/mL in men, while mean testosterone levels are about 30 ng/dL in women and 600 ng/dL in men. Based on these values, testosterone levels are on average about 20-fold higher in men than in women. In men who have undergone [gonadectomy][90] (castration), testosterone levels are similar to those in women (<50 ng/dL) ([Nishiyama, 2014][91]; [Itty & Getzenberg, 2020][92]). The average levels of testosterone in women with symptoms of [androgen excess][93] (e.g., excessive facial/body hair growth) due to [polycystic ovary syndrome][94] (PCOS) are about 60 ng/dL ([Steinberger et al., 1998][95]). Hence, even testosterone levels that are marginally elevated relative to normal female levels may produce undesirable androgenic effects. 
+女性的平均雌二醇水平约为 100 pg/mL，男性为 25 pg/mL，而女性的平均睾酮水平约为 30 ng/dL，男性为 600 ng/dL。根据这些数值，男性的睾丸激素水平平均比女性高约20倍。在接受 [性腺切除术][90] （睾丸移除）的男性中，睾酮水平与女性相似 (<50 ng/dL)。([Nishiyama, 2014][91]; [Itty & Getzenberg, 2020][92])在有[雄性激素过剩][93] 症状的女性中（面部/ 身体毛发过度生长），如 [多囊卵巢综合症][94] (PCOS) 患者，其睾酮的平均水平约为 60 ng/dL。([Steinberger et al., 1998][95]) 因此，即使是相对于正常女性水平略微升高的睾丸激素水平也可能产生不良的雄性激素效应。
 
    [90]: https://en.wikipedia.org/wiki/Gonadectomy
    [91]: https://doi.org/10.1016/j.urolonc.2013.03.007
