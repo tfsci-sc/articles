@@ -274,62 +274,24 @@ Estrogens, progestogens, and antiandrogens are available in a variety of differe
 
 Table: Major routes of administration of hormonal medications for transfeminine people: 
 
-RouteAbbr.DescriptionTypical forms
-
-[Oral administration][135]
-PO 
-Swallowed 
-Tablet, capsule 
+| Route | Abbr. | Description | Typical forms |
+| --- | --- | --- | --- |
+| [Oral administration][135] | PO | Swallowed | Tablet, capsule |
+| [Sublingual administration][136] | SL | Held and absorbed under tongue | Tablet |
+| [Buccal administration][137] | BUC | Held and absorbed in cheek or under lips | Tablet |
+| [Transdermal administration][138] | TD | Applied to and absorbed through the skin | Patch, gel, cream |
+| [Rectal administration][139] | REC | Inserted into and absorbed by rectum | Suppository |
+| [Intramuscular injection][140] | IM | Injected into muscle (e.g., buttocks, thigh, arm) | Solution (vial/amp.) |
+| [Subcutaneous injection][141] | SC | Injected into fat under skin | Solution (vial/amp.) |
+| [Subcutaneous implant][142] | SCi | Insertion via surgical incision into fat under skin | Pellet |
 
    [135]: https://en.wikipedia.org/wiki/Oral_administration
-
-[Sublingual administration][136]
-SL 
-Held and absorbed under tongue 
-Tablet 
-
    [136]: https://en.wikipedia.org/wiki/Sublingual_administration
-
-[Buccal administration][137]
-BUC 
-Held and absorbed in cheek or under lips 
-Tablet 
-
    [137]: https://en.wikipedia.org/wiki/Buccal_administration
-
-[Transdermal administration][138]
-TD 
-Applied to and absorbed through the skin 
-Patch, gel, cream 
-
    [138]: https://en.wikipedia.org/wiki/Transdermal
-
-[Rectal administration][139]
-REC 
-Inserted into and absorbed by rectum 
-Suppository 
-
    [139]: https://en.wikipedia.org/wiki/Rectal_administration
-
-[Intramuscular injection][140]
-IM 
-Injected into muscle (e.g., buttocks, thigh, arm) 
-Solution (vial/amp.) 
-
    [140]: https://en.wikipedia.org/wiki/Intramuscular_injection
-
-[Subcutaneous injection][141]
-SC 
-Injected into fat under skin 
-Solution (vial/amp.) 
-
    [141]: https://en.wikipedia.org/wiki/Subcutaneous_injection
-
-[Subcutaneous implant][142]
-SCi 
-Insertion via surgical incision into fat under skin 
-Pellet 
-
    [142]: https://en.wikipedia.org/wiki/Subcutaneous_implant
 
 [Vaginal administration][143] is a major route of administration of hormonal medications in cisgender women. While vaginal administration via a natal vagina is of course not possible in transfeminine people, [neovaginal][144] administration is an option in those who have undergone [vaginoplasty][145]. However, the lining of the neovagina is not the [vaginal epithelium][146] of natal females but rather is usually skin or colon depending on the type of vaginoplasty performed ([penile inversion][147] or [sigmoid colon vaginoplasty][148], respectively). For this reason, neovaginal administration in transfeminine people is likely more similar in its properties to the transdermal and rectal routes (depending on the type of neovagina) than to vaginal administration in cisgender women. In any case, absorption of estradiol via neovagina constructed from [peritoneum][149] (internal abdominal lining) was reported in one study to be similar to that with vaginal administration of estradiol in cisgender women ([Willemsen et al., 1985][150]). 
@@ -423,82 +385,29 @@ Non-oral routes, although less convenient than the oral route, are preferred, be
 
 Table: Available forms and recommended doses of estradiol (for adults/non-adolescents): 
 
-MedicationRouteFormDosage
-
-[Estradiol][198]
-Oral 
-Tablets 
-2–10 mg/day 
+| Medication | Route | Form | Dosage |
+| --- | --- | --- | --- |
+| [Estradiol][198] | Oral | Tablets | 2–10 mg/day |
+| | Sublingual or buccal | Tablets | 0.5–2 mg 1–4x/day |
+| | Transdermal | Patches | 50–300 μg/day |
+| | Transdermal | Gel | 2–6 mg/day |
+| | SC implant | Pellet | 25–150 mg/6 months |
+| [Estradiol valerate][199] | Oral | Tablets | 2–10 mg/day |
+| | Sublingual or buccal | Tablets | 0.5–2 mg 1–4x/day |
+| | IM or SC injection | Oil solution | 2–6 mg/week; or 1.5–4 mg/5 days |
+| [Estradiol cypionate][200] | IM or SC injection | Oil solution | 2–6 mg/week |
+| [Estradiol benzoate][201] | IM or SC injection | Oil solution | 1–3 mg 2x/week |
+| [Estradiol enanthate][202] | IM or SC injection | Oil solution | 4–12 mg/2 weeks |
+| [Polyestradiol phosphate][203] | IM injection | Water solution | 40–160 mg/month<sup>a</sup> |
 
    [198]: https://en.wikipedia.org/wiki/Estradiol_(medication)
-
-  
-Sublingual or buccal 
-Tablets 
-0.5–2 mg 1–4x/day 
-
-  
-Transdermal 
-Patches 
-50–300 μg/day 
-
-  
-Transdermal 
-Gel 
-2–6 mg/day 
-
-  
-SC implant 
-Pellet 
-25–150 mg/6 months 
-
-[Estradiol valerate][199]
-Oral 
-Tablets 
-2–10 mg/day 
-
    [199]: https://en.wikipedia.org/wiki/Estradiol_valerate
-
-  
-Sublingual or buccal 
-Tablets 
-0.5–2 mg 1–4x/day 
-
-  
-IM or SC injection 
-Oil solution 
-2–6 mg/week; or  
-1.5–4 mg/5 days 
-
-[Estradiol cypionate][200]
-IM or SC injection 
-Oil solution 
-2–6 mg/week 
-
    [200]: https://en.wikipedia.org/wiki/Estradiol_cypionate
-
-[Estradiol benzoate][201]
-IM or SC injection 
-Oil solution 
-1–3 mg 2x/week 
-
    [201]: https://en.wikipedia.org/wiki/Estradiol_benzoate
-
-[Estradiol enanthate][202]
-IM or SC injection 
-Oil solution 
-4–12 mg/2 weeks 
-
    [202]: https://en.wikipedia.org/wiki/Estradiol_enanthate
-
-[Polyestradiol phosphate][203]
-IM injection 
-Water solution 
-40–160 mg/montha
-
    [203]: https://en.wikipedia.org/wiki/Polyestradiol_phosphate
 
-a In the case of polyestradiol phosphate, a loading dose of, e.g., 240 to 320 mg, can be employed for the first one or two injections to reach steady state levels of estradiol more quickly.
+<sup>a</sup> In the case of polyestradiol phosphate, a loading dose of, e.g., 240 to 320 mg, can be employed for the first one or two injections to reach steady state levels of estradiol more quickly.
 
 For estrogen levels with different forms, routes, and doses of estradiol, see the tables [here][204] and [here][205] and the graphs [here][206]. 
 
@@ -613,35 +522,16 @@ Progesterone by injection is available in both intramuscular and subcutaneous fo
 
 Table: Available forms and recommended doses of progestogens: 
 
-MedicationRouteFormDosage
+| Medication | Route | Form | Dosage |
+| --- | --- | --- | --- |
+| [Progesterone][270] | Oral | Oil-filled capsules | 100–300 mg 1–2x/day |
+| | Rectal | Suppositories; Oil-filled capsules | 100–200 mg 1–2x/day |
+| | IM injection | Oil solution | 25–75 mg/1–3 days |
+| | SC injection | Water solution | 25 mg/day |
+| [Progestins][271] | Oral; IM or SC injection | Tablets; Oil solution; Water solution | Various |
 
-[Progesterone][270]
-Oral 
-Oil-filled capsules 
-100–300 mg 1–2x/day 
 
    [270]: https://en.wikipedia.org/wiki/Progesterone_(medication)
-
-  
-Rectal 
-Suppositories; Oil-filled capsules 
-100–200 mg 1–2x/day 
-
-  
-IM injection 
-Oil solution 
-25–75 mg/1–3 days 
-
-  
-SC injection 
-Water solution 
-25 mg/day 
-
-[Progestins][271]
-Oral; IM or SC injection 
-Tablets; Oil solution; Water solution 
-Various 
-
    [271]: https://en.wikipedia.org/wiki/Progestin
 
 For progesterone levels with different forms, routes, and doses of progesterone, see the table [here][272] (only LC–MS and IA + CS assays for oral progesterone) and the graphs [here][273]. 
@@ -699,34 +589,17 @@ The AR antagonists spironolactone, bicalutamide, and CPA are all taken orally in
 
 Table: Available forms and recommended doses of antiandrogens: 
 
-MedicationTypeRouteFormDosage
-
-[Spironolactone][295]
-AR antagonist; Weak androgen  
-synthesis inhibitor 
-Oral 
-Tablets 
-100–200 mg 1–2x/daya
+| Medication | Type | Route | Form | Dosage |
+| --- | --- | --- | --- | --- |
+| [Spironolactone][295] | AR antagonist; Weak androgen synthesis inhibitor | Oral | Tablets | 100–200 mg 1–2x/day<sup>a</sup> |
+| [Bicalutamide][296] | AR antagonist | Oral | Tablets | 12.5–50 mg/day<sup>a</sup> |
+| [Cyproterone acetate][297] | Progestogen; AR antagonist | Oral | Tablets | 2.5–12.5 mg/day (total)<sup>b</sup> |
 
    [295]: https://en.wikipedia.org/wiki/Spironolactone
-
-[Bicalutamide][296]
-AR antagonist 
-Oral 
-Tablets 
-12.5–50 mg/daya
-
    [296]: https://en.wikipedia.org/wiki/Bicalutamide
-
-[Cyproterone acetate][297]
-Progestogen; AR antagonist 
-Oral 
-Tablets 
-2.5–12.5 mg/day (total)b
-
    [297]: https://en.wikipedia.org/wiki/Cyproterone_acetate
 
-a For the AR antagonists spironolactone and bicalutamide, it is assumed that testosterone levels are substantially suppressed (≤200 ng/dL). If not, higher doses may be warranted. b For CPA, one-quarter of a 10-mg tablet to one full 10-mg tablet per day (2.5–10 mg/day) _or_ a quarter of a 50-mg tablet every other day or every 2 to 3 days (4.2–12.5 mg/day). A dosage of 5 to 12.5 mg/day is likely to ensure maximal testosterone suppression while lower doses may be less effective.
+<sup>a</sup> For the AR antagonists spironolactone and bicalutamide, it is assumed that testosterone levels are substantially suppressed (≤200 ng/dL). If not, higher doses may be warranted. <sup>b</sup> For CPA, one-quarter of a 10-mg tablet to one full 10-mg tablet per day (2.5–10 mg/day) _or_ a quarter of a 50-mg tablet every other day or every 2 to 3 days (4.2–12.5 mg/day). A dosage of 5 to 12.5 mg/day is likely to ensure maximal testosterone suppression while lower doses may be less effective.
 
 ####  Spironolactone 
 
@@ -862,20 +735,12 @@ Clinical [dose-ranging studies][368] have found that lower doses of finasteride 
 
 Table: Available forms and recommended doses of 5α-reductase inhibitors: 
 
-MedicationRouteFormDosage
-
-[Dutasteride][379]
-Oral 
-Capsules 
-0.05–2.5 mg/day 
+| Medication | Route | Form | Dosage |
+| --- | --- | --- | --- |
+| [Dutasteride][379] | Oral | Capsules | 0.05–2.5 mg/day |
+| [Finasteride][380] | Oral | Tablets | 0.05–5 mg/day |
 
    [379]: https://en.wikipedia.org/wiki/Dutasteride
-
-[Finasteride][380]
-Oral 
-Tablets 
-0.05–5 mg/day 
-
    [380]: https://en.wikipedia.org/wiki/Finasteride
 
 ####  GnRH Agonists and Antagonists 
