@@ -766,117 +766,33 @@ GnRH agonists must be injected subcutaneously or intramuscularly once per day or
 
 Table: Available forms and recommended doses of GnRH agonists: 
 
-MedicationBrand nameRouteFormDosage
-
-[Buserelin][388]
-Suprefact, others 
-SC injection 
-Solution 
-200 μg/daya
+| Medication | Brand name | Route | Form | Dosage |
+| --- | --- | --- | --- | --- |
+| [Buserelin][388] | Suprefact, others | SC injection | Solution | 200 μg/day<sup>a</sup> |
+| | | | Implant | 6.3 mg/2 months |
+| | | | | 9.45 mg/3 months |
+| | Intranasal | Nasal spray | 400 µg 3x/day<sup>b,c</sup> |
+| [Goserelin][389] | Zoladex | SC injection | Implant | 3.6 mg/month |
+| | | | | 10.8 mg/3 months |
+| [Histrelin][390] | Supprelin LA, Vantas | SC implant | Implant | 50 mg/year |
+| [Leuprorelin][391] | Lupron, others | IM injection | Solution | 1 mg/day |
+| | Eligard, Lupron Depot, others | IM/SC injection | Suspension | 3.75–7.5 mg/month |
+| | | | | 11.25–22.5 mg/3 months |
+| | | | | 30 mg/4 months |
+| | | | | 45 mg/6 months |
+| | Viadur | SC implant | Implant | 65 mg/year |
+| [Nafarelin][392] | Synarel | Intranasal | Nasal spray | 400–600 μg 2–3x/day |
+| [Triptorelin][393] | Decapeptyl, Trelstar Depot/LA | IM injection | Suspension | 3.75 mg/month |
+| | | | | 11.25 mg/3 months |
 
    [388]: https://en.wikipedia.org/wiki/Buserelin
-
-  
-  
-  
-Implant 
-6.3 mg/2 months 
-
-  
-  
-  
-  
-9.45 mg/3 months 
-
-  
-  
-Intranasal 
-Nasal spray 
-400 µg 3x/dayb,c
-
-[Goserelin][389]
-Zoladex 
-SC injection 
-Implant 
-3.6 mg/month 
-
    [389]: https://en.wikipedia.org/wiki/Goserelin
-
-  
-  
-  
-  
-10.8 mg/3 months 
-
-[Histrelin][390]
-Supprelin LA, Vantas 
-SC implant 
-Implant 
-50 mg/year 
-
    [390]: https://en.wikipedia.org/wiki/Histrelin
-
-[Leuprorelin][391]
-Lupron, others 
-IM injection 
-Solution 
-1 mg/day 
-
    [391]: https://en.wikipedia.org/wiki/Leuprorelin
-
-  
-Eligard, Lupron Depot, others 
-IM/SC injection 
-Suspension 
-3.75–7.5 mg/month 
-
-  
-  
-  
-  
-11.25–22.5 mg/3 months 
-
-  
-  
-  
-  
-30 mg/4 months 
-
-  
-  
-  
-  
-45 mg/6 months 
-
-  
-Viadur 
-SC implant 
-Implant 
-65 mg/year 
-
-[Nafarelin][392]
-Synarel 
-Intranasal 
-Nasal spray 
-400–600 μg 2–3x/day 
-
    [392]: https://en.wikipedia.org/wiki/Nafarelin
-
-[Triptorelin][393]
-Decapeptyl, Trelstar Depot/LA 
-IM injection 
-Suspension 
-3.75 mg/month 
-
    [393]: https://en.wikipedia.org/wiki/Triptorelin
 
-  
-  
-  
-  
-11.25 mg/3 months 
-
-a 500 μg 3x/day for the first week then 200 μg/day. b 800 μg 3x/day for the first week then 400 μg 3x/day. c 500 μg 2x/day can be used instead of 400 μg 3x/day but is less effective (70% decrease in testosterone levels (to ~180 ng/dL) instead of 90% decrease in testosterone levels (to ~50 ng/dL) per available studies of buserelin for prostate cancer) ([Aly W., 2018][394]; [Wiki][395]).
+<sup>a</sup> 500 μg 3x/day for the first week then 200 μg/day. <sup>b</sup> 800 μg 3x/day for the first week then 400 μg 3x/day. <sup>c</sup> 500 μg 2x/day can be used instead of 400 μg 3x/day but is less effective (70% decrease in testosterone levels (to ~180 ng/dL) instead of 90% decrease in testosterone levels (to ~50 ng/dL) per available studies of buserelin for prostate cancer) ([Aly W., 2018][394]; [Wiki][395]).
 
    [394]: https://transfemscience.org/articles/buserelin-inexpensive/
    [395]: https://en.wikipedia.org/wiki/Buserelin#Pharmacodynamics
@@ -889,41 +805,19 @@ The first GnRH antagonists were developed for use by once-monthly intramuscular 
 
 Table: Available forms and recommended doses of GnRH antagonists: 
 
-MedicationBrand nameRouteFormDosage
-
-[Abarelix][399]
-Plenaxis 
-IM injection 
-Suspension 
-113 mg/month 
+| Medication | Brand name | Route | Form | Dosage |
+| --- | --- | --- | --- | --- |
+| [Abarelix][399] | Plenaxis | IM injection | Suspension | 113 mg/month |
+| [Degarelix][400] | Firmagon | SC injection | Solution | 80 mg/month<sup>a</sup> |
+| [Elagolix][401] | Orilissa | Oral | Tablets | 150–200 mg 1–2x/day<sup>b</sup> |
+| [Relugolix][402] | Relumina | Oral | Tablets | 40 mg/day |
 
    [399]: https://en.wikipedia.org/wiki/Abarelix
-
-[Degarelix][400]
-Firmagon 
-SC injection 
-Solution 
-80 mg/montha
-
    [400]: https://en.wikipedia.org/wiki/Degarelix
-
-[Elagolix][401]
-Orilissa 
-Oral 
-Tablets 
-150–200 mg 1–2x/dayb
-
    [401]: https://en.wikipedia.org/wiki/Elagolix
-
-[Relugolix][402]
-Relumina 
-Oral 
-Tablets 
-40 mg/day 
-
    [402]: https://en.wikipedia.org/wiki/Relugolix
 
-a First month is 240 mg then 80 mg per month thereafter. b 150 mg 1x/day is less effective than 200 mg 2x/day (which provides full gonadal sex-hormone suppression in cisgender women) ([Wiki][403]).
+<sup>a</sup> First month is 240 mg then 80 mg per month thereafter. <sup>b</sup> 150 mg 1x/day is less effective than 200 mg 2x/day (which provides full gonadal sex-hormone suppression in cisgender women) ([Wiki][403]).
 
    [403]: https://en.wikipedia.org/wiki/Elagolix#Pharmacodynamics
 
