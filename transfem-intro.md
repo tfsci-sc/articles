@@ -257,11 +257,11 @@
    [125]: https://en.wikipedia.org/wiki/Waxing
    [126]: https://en.wikipedia.org/wiki/Voice_training
 
-##   Specific Hormonal Medications
+##   具体的荷尔蒙治疗
 
-The medications that are used in transfeminine hormone therapy include estrogens, progestogens, and antiandrogens. Estrogens produce feminization and suppress testosterone levels. Progestogens and antiandrogens can help to further suppress and/or block testosterone. Androgens are sometimes used at low doses in transfeminine people with low testosterone levels. There are many different types of these medications with different benefits and risks. 
+用于女性倾向跨性别者治疗的药物包括雌激素、孕激素和抗雄激素。雌激素产生女性化并抑制睾酮水平，孕激素和抗雄激素可以帮助进一步抑制/ 阻止睾酮。雄激素有时候以低剂量用于睾酮低的跨性别者。这些药物有许多不同类型、好处与风险。
 
-Estrogens, progestogens, and antiandrogens are available in a variety of different [formulations][127] and for use by many different [routes of administration][128] in transfeminine people. The route of administration influences the [absorption][129], [distribution][130], [metabolism][131], and [elimination][132] of the hormone in the body, resulting in significant differences between routes in terms of [bioavailability][133], hormone levels in blood and specific tissues, and patterns of [metabolites][134]. These differences can have therapeutic implications. 
+雌激素、孕激素和抗雄激素有不同的 [配方][127]，并可通过不同的 [给药途径][128] 使用。给药途径影响激素在体内的 [吸收][129]，[分布][130]，[代谢][131]，和 [消除][132]，产生 [生物利用度][133]、血液和特定组织中的激素水平以及 [代谢物][134] 的模式方面的明显差异。这些差异可能影响治疗。
 
    [127]: https://en.wikipedia.org/wiki/Drug_formulation
    [128]: https://en.wikipedia.org/wiki/Route_of_administration
@@ -272,18 +272,18 @@ Estrogens, progestogens, and antiandrogens are available in a variety of differe
    [133]: https://en.wikipedia.org/wiki/Bioavailability
    [134]: https://en.wikipedia.org/wiki/Metabolite
 
-Table: Major routes of administration of hormonal medications for transfeminine people: 
+表格：女性倾向跨性别者激素治疗的主要给药途径
 
-| Route | Abbr. | Description | Typical forms |
+| 途径 | 简称 | 描述 | 典型形式 |
 | --- | --- | --- | --- |
-| [Oral administration][135] | PO | Swallowed | Tablet, capsule |
-| [Sublingual administration][136] | SL | Held and absorbed under tongue | Tablet |
-| [Buccal administration][137] | BUC | Held and absorbed in cheek or under lips | Tablet |
-| [Transdermal administration][138] | TD | Applied to and absorbed through the skin | Patch, gel, cream |
-| [Rectal administration][139] | REC | Inserted into and absorbed by rectum | Suppository |
-| [Intramuscular injection][140] | IM | Injected into muscle (e.g., buttocks, thigh, arm) | Solution (vial/amp.) |
-| [Subcutaneous injection][141] | SC | Injected into fat under skin | Solution (vial/amp.) |
-| [Subcutaneous implant][142] | SCi | Insertion via surgical incision into fat under skin | Pellet |
+| [口服给药][135] | 口服/ PO | 吞服 | 片剂、胶囊 |
+| [舌下给药][136] | 舌下/ SL | 舌下含服并吸收 | 片剂 |
+| [颊部给药][137] | 颊部/ BUC | 在脸颊或嘴唇下方保持并吸收 | 片剂 |
+| [透皮给药][138] | 透皮/ TD | 涂抹在皮肤上并通过皮肤吸收 | 贴剂、凝胶、乳膏 |
+| [直肠给药][139] | 直肠/ REC | 插入并被直肠吸收 | 栓剂 |
+| [肌肉注射][140] | IM | 注射到肌肉中（例如，臀部、大腿、手臂） | 溶液 (vial/amp.) |
+| [皮脂注射][141] | SC | 注射到皮下脂肪中 | 溶液 (vial/amp.) |
+| [皮下植入][142] | 植入/ SCi | 通过手术切口植入皮下脂肪 | 颗粒物 |
 
    [135]: https://en.wikipedia.org/wiki/Oral_administration
    [136]: https://en.wikipedia.org/wiki/Sublingual_administration
