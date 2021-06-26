@@ -352,7 +352,7 @@
 
    [178]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Routes_of_administration
 
-Oral estradiol is available in the form of tablets of estradiol or estradiol valerate. Administration of estradiol by the oral route has issues with bioavailability and often achieves relatively low estradiol levels, which can result in inadequate testosterone suppression depending on the antiandrogen ([Wiki][179]; [Leinung, 2014][180]; [Leinung et al., 2018][181]). Oral estradiol is not a favorable choice in the case of estrogen monotherapy due to the high estradiol levels required. Oral estradiol tablets can notably be taken sublingually instead of orally. Sublingual administration of estradiol tablets has as much as 5-fold higher bioavailability than when taken by the oral route ([Wiki][182]). However, sublingual estradiol has a very short duration ([Wiki][182]) and it may be advisable to take it in divided doses throughout the day to maintain steadier estradiol levels. Oral estradiol valerate tablets can be taken sublingually similarly to estradiol ([Wiki][183]; [Aly W., 2019][184]). Buccal administration of estradiol has similar properties to sublingual administration but is less often used and has not been studied as much ([Wiki][185]). 
+口服雌二醇以雌二醇或戊酸雌二醇片的形式提供。通过口服途径给药的雌二醇存在生物利用度的问题，而且往往只能达到相对较低的雌二醇水平，这可能导致睾酮抑制不足，具体取决于抗雄激素 ([维基][179]; [Leinung, 2014][180]; [Leinung et al., 2018][181])。在雌激素单药治疗的情况下，口服雌二醇不是一个有利的选择，因为需要高的雌二醇水平。值得注意的是，口服雌二醇片可以舌下含服，而不是口服。舌下含服雌二醇片的生物利用度比口服时高5倍之多 ([维基][182])。然而，舌下含服雌二醇的持续时间很短 ([维基][182])，建议全天分次服用，以保持较稳定的雌二醇水平。戊酸雌二醇口服片可以舌下含服，与雌二醇类似 ([维基][183]; [Aly W., 2019][184])。舌下给药的雌二醇具有与舌下给药相似的特性，但较少使用，而且研究也不多 ([维基][185])。
 
    [179]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Oral_administration
    [180]: https://web.archive.org/web/20180304204640/http://press.endocrine.org/doi/abs/10.1210/endo-meetings.2014.RE.2.OR42-1
@@ -362,13 +362,13 @@ Oral estradiol is available in the form of tablets of estradiol or estradiol val
    [184]: https://transfemscience.org/articles/sublingual-ev/
    [185]: https://en.wikipedia.org/wiki/Buccal_administration
 
-Transdermal estradiol is available as patches, gel, emulsions, and sprays ([Wiki][186]). They are usually applied to skin sites such as the arms, abdomen, and buttocks. In the case of estrogen monotherapy, two to four maximum-dose patches or many pumps or packets of gel may be required to achieve estradiol levels sufficient for full testosterone suppression in transfeminine people ([Wiki][186]). Genital application of transdermal estradiol, specifically to the scrotum or neolabia, can result in much higher estradiol levels than application to conventional skin sites in this context ([Aly W., 2019][187]; [Aly W., 2019][188]). 
+透皮雌二醇包含贴片、凝胶、乳剂和喷雾剂 ([维基][186])。它们通常被贴在皮肤部位，如手臂、腹部和臀部。在雌激素单药治疗的情况下，可能需要两到四个最大剂量的贴片或许多泵或包的凝胶，以达到足够抑制睾酮的激素水平 ([维基][186])。在这种情况下，在生殖器部位应用透皮雌二醇，特别是在阴囊或新阴唇上的应用，可使雌二醇水平远高于常规皮肤部位 ([Aly W., 2019][187]; [Aly W., 2019][188])。
 
    [186]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Transdermal_administration
    [187]: https://transfemscience.org/articles/genital-e2-patches/
    [188]: https://transfemscience.org/articles/genital-e2-gel/
 
-Injectable estradiol esters can be administered via either intramuscular or subcutaneous injection. In the case of intramuscular injection, possible injection sites include the [deltoid muscle][189] (upper arm), [vastus lateralis][190] and [rectus femoris muscles][191] (thigh), and [ventrogluteal muscle][192] (buttocks). Subcutaneous injection of estradiol esters, while less commonly used, is easier, less painful, and more convenient than the intramuscular route ([Wiki][193]). However, the maximum volume that can be injected subcutaneously is less than that which can be injected intramuscularly (depending on the site up to 1.5–3 mL and up to 2–5 mL, respectively) ([Hopkins, & Arias, 2013][194]; [Usach et al., 2019][195]). Injections of estradiol esters can easily achieve high levels of estradiol and, depending on the estradiol ester in question, last for days to weeks. An injection of PEP, which in contrast to other estradiol esters should always be administered by intramuscular injection, lasts for months. However, the availability of PEP is very limited, with its use mostly restricted to the Nordic region of Europe ([Wiki][196]). 
+注射用雌二醇酯可以通过肌肉注射或皮下注射给药。在肌肉注射的情况下，可能的注射部位包括 [三角肌][189] (上臂)，[大腿外侧肌][190] 和 [股直肌][191] (大腿)，以及 [文氏肌][192] (臀部)。皮下注射雌二醇酯，虽然不太常用，但比肌肉注射途径更容易，痛苦更少，更方便 ([维基][193])。然而，皮下注射的最大体积小于肌肉注射的体积（根据部位不同，分别可达1.5-3毫升和2-5毫升）([Hopkins, & Arias, 2013][194]; [Usach et al., 2019][195])。注射雌二醇酯可以很容易地达到高水平的雌二醇，根据其不同种类，可以持续几天到几周。注射PEP，与其他雌二醇酯相比，应始终通过肌肉注射来进行，可持续数月。然而，PEP的供应非常有限，其使用主要限于欧洲的北欧地区 ([维基][196]). 
 
    [189]: https://en.wikipedia.org/wiki/Deltoid_muscle
    [190]: https://en.wikipedia.org/wiki/Vastus_lateralis_muscle
@@ -379,26 +379,26 @@ Injectable estradiol esters can be administered via either intramuscular or subc
    [195]: https://doi.org/10.1007/s12325-019-01101-6
    [196]: https://en.wikipedia.org/wiki/Polyestradiol_phosphate#Availability
 
-Non-oral routes, although less convenient than the oral route, are preferred, because oral estradiol results in excessive levels of estradiol in the liver and has a disproportionate impact on estrogen-modulated liver protein synthesis ([Aly W., 2020][197]). Particularly at the high doses of estrogens that may be required to suppress testosterone levels in transfeminine people, this may increase the risk of health issues like blood clots and cardiovascular problems. The health concerns of estradiol are largely allayed if it is taken non-orally at reasonable doses. 
+非口服途径虽然不如口服途径方便，但是推荐的方法，因为口服雌二醇会导致肝脏中的雌二醇水平过高，对雌激素调节的肝脏蛋白质合成产生不成比例的影响 ([Aly W., 2020][197])。特别是在高剂量的雌激素可能需要被用于抑制女性倾向跨性别者的睾酮水平时，血栓和心血管问题等健康风险会随之增加。如果以合理的剂量进行非口服，雌二醇的健康问题在很大程度上可以得到缓解。
 
    [197]: https://transfemscience.org/articles/estrogens-coagulation-blood-clots/
 
-Table: Available forms and recommended doses of estradiol (for adults/non-adolescents): 
+表格：雌二醇的现有形式和推荐剂量（针对成人/非青少年）：
 
-| Medication | Route | Form | Dosage |
+| 药品 | 途径 | 形式 | 剂量 |
 | --- | --- | --- | --- |
-| [Estradiol][198] | Oral | Tablets | 2–10 mg/day |
-| | Sublingual or buccal | Tablets | 0.5–2 mg 1–4x/day |
-| | Transdermal | Patches | 50–300 μg/day |
-| | Transdermal | Gel | 2–6 mg/day |
-| | SC implant | Pellet | 25–150 mg/6 months |
-| [Estradiol valerate][199] | Oral | Tablets | 2–10 mg/day |
-| | Sublingual or buccal | Tablets | 0.5–2 mg 1–4x/day |
-| | IM or SC injection | Oil solution | 2–6 mg/week; or 1.5–4 mg/5 days |
-| [Estradiol cypionate][200] | IM or SC injection | Oil solution | 2–6 mg/week |
-| [Estradiol benzoate][201] | IM or SC injection | Oil solution | 1–3 mg 2x/week |
-| [Estradiol enanthate][202] | IM or SC injection | Oil solution | 4–12 mg/2 weeks |
-| [Polyestradiol phosphate][203] | IM injection | Water solution | 40–160 mg/month<sup>a</sup> |
+| [雌二醇][198] | 口服 | 片剂 | 2–10 mg/天 |
+| | 舌下或颊部含服 | 片剂 | 0.5–2 mg 1–4x/天 |
+| | 透皮 | 贴片 | 50–300 μg/天 |
+| | 透皮 | 凝胶 | 2–6 mg/天 |
+| | 皮下注射 | 颗粒物 | 25–150 mg/6 月 |
+| [戊酸雌二醇][199] | 口服 | 片剂 | 2–10 mg/天 |
+| | 舌下或颊部含服 | 片剂 | 0.5–2 mg 1–4x/天 |
+| | 肌肉或皮下注射 | 油剂溶液 | 2–6 mg/周; or 1.5–4 mg/5 天 |
+| [雌二醇环戊酸酯][200] | 肌肉或皮下注射 | 油剂溶液 | 2–6 mg/周  |
+| [苯甲酸雌二醇][201] | 肌肉或皮下注射 | 油剂溶液 | 1–3 mg 2x/周  |
+| [庚辰酸雌二醇][202] | 肌肉或皮下注射 | 油剂溶液 | 4–12 mg/2 周  |
+| [磷酸聚雌二醇][203] | 肌肉注射 | 水溶液 | 40–160 mg/月<sup>a</sup> |
 
    [198]: https://en.wikipedia.org/wiki/Estradiol_(medication)
    [199]: https://en.wikipedia.org/wiki/Estradiol_valerate
@@ -407,21 +407,21 @@ Table: Available forms and recommended doses of estradiol (for adults/non-adoles
    [202]: https://en.wikipedia.org/wiki/Estradiol_enanthate
    [203]: https://en.wikipedia.org/wiki/Polyestradiol_phosphate
 
-<sup>a</sup> In the case of polyestradiol phosphate, a loading dose of, e.g., 240 to 320 mg, can be employed for the first one or two injections to reach steady state levels of estradiol more quickly.
+<sup>a</sup> 在磷酸聚雌二醇的情况下，可以在头一次或两次注射中采用 240 to 320 mg 的负荷剂量，以便更快地达到雌二醇的稳态水平。
 
-For estrogen levels with different forms, routes, and doses of estradiol, see the tables [here][204] and [here][205] and the graphs [here][206]. 
+关于不同形式、途径和剂量的雌二醇的雌激素水平，见 [这里][204] 和 [这里][205] 的表格以及 [这里][206] 的图表。
 
    [204]: https://transfemscience.org/articles/e2-equivalent-doses/
    [205]: https://en.wikipedia.org/wiki/Template:Plasma_estrogen_levels_after_a_single_dose_of_estradiol_by_different_routes
    [206]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol
 
-There is high variability between individuals in the levels of estradiol achieved during estradiol therapy. That is, estradiol levels during treatment with the same dosage of estradiol can differ widely between individuals. This variability is greatest with the oral and transdermal routes. As such, the doses of estradiol recommended are not absolute and should be individualized in conjunction with blood work on a case-by-case basis. It should also be noted that estradiol levels can vary considerably from one blood test to another, most importantly with the sublingual and injected routes. However, this variation is predictable, and can be minimized with proper timing of blood tests. 
+在雌二醇治疗过程中，个体之间达到的雌二醇水平有很大的差异性。也就是说，使用相同剂量的雌二醇治疗时，个体之间的雌二醇水平可能差别很大。这种差异性在口服和透皮途径中最大。因此，推荐的雌二醇剂量并不是绝对的，应根据具体情况结合血液检查进行个体化处理。还应注意的是，雌二醇水平在不同的血液测试中会有很大的不同，以舌下和注射途径为重。然而，这种变化是可以预测的，并且可以通过适当的验血时间来最小化。
 
-After removal of the gonads, estrogen doses can be lowered or adjusted to approximate normal female physiological exposure. The average production of estradiol in premenopausal women is about 6 mg over the course of a single menstrual cycle (i.e., one month) ([Rosenfield et al., 2008][207]). 
+在切除性腺后，雌激素的剂量可以降低或调整，以接近正常女性的生理暴露。绝经前妇女在一个月经周期（即一个月）内，雌二醇的平均产量约为6毫克。([Rosenfield et al., 2008][207]). 
 
    [207]: https://scholar.google.com/scholar?cluster=9979206541205334235
 
-###  Progestogens 
+###  孕激素 
 
 [Progestogens][208] include [progesterone][209] and [progestins][210]. Progestins are [synthetic][211] progestogens derived from [structural modification][212] of progesterone or testosterone. Examples of some major progestins include [medroxyprogesterone acetate][213] (MPA; Provera, Depo-Provera), [norethisterone][214] (NET; many brand names), [dydrogesterone][215] (Duphaston), and [drospirenone][216] (Slynd, Yasmin) ([Aly W., 2019][217]). There are dozens of different progestins and these progestins can be divided into a variety of different structural classes with varying properties ([Wiki-Table][218]). Progestins were developed because they have a more favorable [disposition in the body][219] than progesterone for use as medications. Only a few clinically used progestins have been used in transfeminine hormone therapy, although almost all progestogens have the same progestogenic actions and theoretically any progestogen could be employed. 
 
