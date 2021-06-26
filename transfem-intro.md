@@ -294,7 +294,7 @@
    [141]: https://en.wikipedia.org/wiki/Subcutaneous_injection
    [142]: https://en.wikipedia.org/wiki/Subcutaneous_implant
 
-[Vaginal administration][143] is a major route of administration of hormonal medications in cisgender women. While vaginal administration via a natal vagina is of course not possible in transfeminine people, [neovaginal][144] administration is an option in those who have undergone [vaginoplasty][145]. However, the lining of the neovagina is not the [vaginal epithelium][146] of natal females but rather is usually skin or colon depending on the type of vaginoplasty performed ([penile inversion][147] or [sigmoid colon vaginoplasty][148], respectively). For this reason, neovaginal administration in transfeminine people is likely more similar in its properties to the transdermal and rectal routes (depending on the type of neovagina) than to vaginal administration in cisgender women. In any case, absorption of estradiol via neovagina constructed from [peritoneum][149] (internal abdominal lining) was reported in one study to be similar to that with vaginal administration of estradiol in cisgender women ([Willemsen et al., 1985][150]). 
+[阴道给药][143] 是顺性别女性使用激素类药物的主要途径。虽然通过天生的阴道给药对于女性倾向跨性别者是不可能的，但是 [新阴道][144] 给药对于完成了 [阴道成形术][145] 的人是一种选择。然而，新阴道的内膜不是天生女性的 [阴道上皮][146] ，而通常是皮肤或结肠，取决于所做的类型 ([阴茎内翻][147] 或 [乙状结肠][148])。因此，女性倾向跨性别者的新阴道给药在性质香可能与透皮或直肠途径（取决于新阴道的类型——相似，而非顺性别女性的阴道给药。根据一项研究，通过由 [腹膜][149]（腹部内膜）构建的新阴道吸收 雌二醇的情况与顺性别妇女阴道给药的情况相似 ([Willemsen et al., 1985][150])。
 
    [143]: https://en.wikipedia.org/wiki/Intravaginal_administration
    [144]: https://en.wiktionary.org/wiki/neovagina
@@ -305,9 +305,9 @@
    [149]: https://en.wikipedia.org/wiki/Peritoneum
    [150]: https://doi.org/10.1016/0028-2243(85)90036-X
 
-###  Estrogens 
+###  雌激素
 
-The estrogens that are used in transfeminine people are [estradiol][151] and [estradiol esters][152]. Examples of estradiol esters include [estradiol valerate][153] (EV; Progynova, Progynon Depot, Delestrogen), [estradiol cypionate][154] (EC; Depo-Estradiol), [estradiol enanthate][155] (EEn), and [estradiol benzoate][156] (EB; Progynon-B). They are [prodrugs][157] of estradiol (i.e., are converted into estradiol in the body) and have identical biological activity to estradiol. However, they have longer [durations][158] when used by injection due to slower [absorption][159] from the injection site. This allows them to be administered less often. [Polyestradiol phosphate][160] (PEP; Estradurin) is an estradiol prodrug in the form of a [polymer][161] (i.e., linked chain of estradiol molecules). It is [metabolized][162] slowly and has a very long duration. 
+[雌二醇][151] 和 [雌二醇酯][152] 是被用于女性倾向跨性别者的雌激素。雌二醇酯的例子包括 [戊酸雌二醇][153] (EV; Progynova (补佳乐), Progynon Depot (日雌), Delestrogen)，[环戊酸雌二醇][154] (EC; Depo-Estradiol)，[庚酸雌二醇][155] (EEn) 和 [苯甲酸雌二醇][156] (EB; Progynon-B)。它们是雌二醇的 [原药][157]（即在体内转化为雌二醇），具有与雌二醇相同的生物活性。然而，它们当被注射使用时具有较长的 [使用时间][158]，因为注射部位的 [吸收][159] 较慢。这使得给药次数可以被减少。[磷酸聚雌二醇][160] (PEP; Estradurin) 是一种 [聚合物][161] 形式的雌二醇原药（即雌二醇分子的链接链）。它的 [代谢][162] 缓慢，持续时间很长。
 
    [151]: https://en.wikipedia.org/wiki/Estradiol_(medication)
    [152]: https://en.wikipedia.org/wiki/Estrogen_ester
@@ -322,7 +322,7 @@ The estrogens that are used in transfeminine people are [estradiol][151] and [es
    [161]: https://en.wikipedia.org/wiki/Polymer
    [162]: https://en.wikipedia.org/wiki/Metabolism
 
-Non-[bioidentical][163] estrogens such as [ethinylestradiol][164] (EE; found in [birth control pills][165]), [conjugated estrogens][166] (CEEs; Premarin; used in [menopausal hormone therapy][167]), and [diethylstilbestrol][168] (DES; no longer used) are resistant to metabolism in the liver when compared to estradiol and have disproportionate effects on estrogen-modulated [liver synthesis][169] ([Aly W., 2020][170]). As a result, they have greater risks of health problems such as [blood clots][171] and associated [cardiovascular problems][172]. For this reason, as well as the fact that relatively high doses of estrogens may be necessary to adequately suppress testosterone levels in gonadally intact transfeminine people, non-bioidentical estrogens should ideally never be used in transfeminine hormone therapy. 
+非 [生物相同的][163] 雌激素，如 [炔雌醇][164] (EE; 常用于 [避孕药][165])，[合成雌激素][166] (CEEs; Premarin (倍美力); 用于 [更年期激素治疗][167]) 与 [己烯雌酚][168] (DES; 已弃用)，与雌二醇相比，在肝脏中的代谢有阻力，对雌激素调节的 [肝脏合成][169] 有不成比例的影响 ([Aly W., 2020][170])。因此，它们有更大的健康风险，如 [血栓][171] 和相关的 [心血管问题][172]。因此，以及因为可能需要相对高剂量的雌激素来充分抑制性腺完整的女性倾向跨性别者的睾丸激素水平，非生物相同的雌激素最好不要用于激素治疗。
 
    [163]: https://en.wiktionary.org/wiki/bioidentical
    [164]: https://en.wikipedia.org/wiki/Ethinylestradiol
@@ -335,20 +335,20 @@ Non-[bioidentical][163] estrogens such as [ethinylestradiol][164] (EE; found in 
    [171]: https://en.wikipedia.org/wiki/Venous_thrombosis
    [172]: https://en.wikipedia.org/wiki/Cardiovascular_disease
 
-Estrogens can be used by themselves at high doses to suppress testosterone levels into the female range. Alternatively, an estrogen can be used at lower doses that result in more [physiological][173] estrogen levels in combination with an antiandrogen or progestogen. This will result in partial suppression of testosterone levels by the estrogen and further suppression or blockade of remaining testosterone via the antiandrogen or progestogen. However, the addition of an antiandrogen or progestogen to estrogen therapy will also include the side effects and risks of these medications. 
+雌激素可以以高剂量单独使用，以抑制睾丸激素水平进入女性范围。或者，可以用较低的剂量使用雌激素，使其与抗雄激素或孕激素结合，达到更多的 [生理性][173] 雌激素水平。这将导致雌激素部分抑制睾酮水平，并通过抗雄激素或孕激素进一步抑制或阻断剩余的睾酮。然而，在雌激素治疗中加入抗雄激素或孕激素，也将包括这些药物的副作用和风险。
 
    [173]: https://en.wiktionary.org/wiki/physiological
 
-The feminizing effects of estrogens are maximal at low levels in the absence of androgens. Higher doses of estrogens, aside from allowing for greater testosterone suppression, don’t result in better feminization. In fact, there is indication that higher doses may actually result in worse breast development. This topic will be covered in a future article on this site. Higher doses of estrogens, including estradiol, also have a greater risk of adverse health effects such as blood clots and cardiovascular problems ([Aly W., 2020][174]). As such, the use of physiological doses of estrogens is optimal. However, high doses of estrogen are useful for testosterone suppression and the absolute risks in the case of [non-oral][175] estradiol are low. They are also confined largely to people with specific [risk factors][176], including older age, physical inactivity, obesity, concomitant progestogen use, smoking, surgery, and [thrombophilic abnormalities][177]. In healthy young individuals without relevant risk factors, high doses of non-oral estradiol—within reason—are likely acceptably safe ([Aly W., 2020][174]). 
+在没有雄性激素的情况下，雌性激素的女性化作用可以在低剂量下最高限度的发挥。更高剂量的雌激素，除了允许更强的睾丸激素抑制之外，并没有导致更好的女性化。事实上，有迹象表明，更高的剂量实际上可能会导致更糟糕的乳房发育。这个话题将在本网站未来的一篇文章中介绍。更高剂量的雌激素，包括雌二醇，也有更大的不良健康影响的风险，如血栓和心血管问题 ([Aly W., 2020][174])。因此，使用生理剂量的雌激素是最佳的。然而，大剂量的雌激素对抑制睾丸激素是有用的，在 [非口服][175] 雌二醇的情况下，绝对风险很低。它们也主要局限于有特定 [风险因素][176] 的人，包括年龄大、不运动、肥胖、同时使用孕激素、吸烟、手术和 [血栓性异常][177]。在没有相关风险因素的健康年轻人中，大剂量的非口服雌二醇 - 在合理范围内 - 的安全系数是可以被接受的 ([Aly W., 2020][174])。
 
    [174]: https://transfemscience.org/articles/estrogens-coagulation-blood-clots/
    [175]: https://en.wikipedia.org/wiki/Parenteral_administration
    [176]: https://en.wikipedia.org/wiki/Risk_factor
    [177]: http://en.wikipedia.org/wiki/Thrombophilia
 
-####  Routes, Doses, and Levels of Estradiol 
+####  雌二醇的途径、剂量和水平  
 
-Estradiol and its esters are usually used in transfeminine people by the oral, sublingual, transdermal, intramuscular, and/or subcutaneous routes ([Wiki][178]). 
+雌二醇及其酯类通常通过口服、舌下含服、透皮、肌肉注射和/或皮下注射等途径用于女性倾向跨性别者 ([维基][178])。
 
    [178]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Routes_of_administration
 
