@@ -423,7 +423,7 @@
 
 ###  孕激素 
 
-[孕激素][208] 包含 [孕酮][209] 和 [合成孕酮][210]。合成孕酮是 [合成的][211] 孕激素，由孕酮或睾酮的 [结构修饰][212] 而来。一些主要孕激素的例子包括 [醋酸甲羟孕酮][213] (MPA; Provera ( 安宫黄体酮), Depo-Provera (得普乐)), [炔诺酮][214] (NET; 许多品牌名称), [去甲孕酮][215] (Duphaston (达芙通)) 与 [屈螺酮][216] (Slynd, Yasmin (优思明)) ([Aly W., 2019][217])。有几十种不同的孕激素，这些孕激素可以分为各种不同的结构类别，具有不同的特性 ([Wiki-Table][218])。合成孕酮被开发的原因是因为它们作为药物使用时在 [体内的处置方式][219] 比孕酮更有利。虽然几乎所有的孕激素都有相同的孕激素作用，而且理论上任何孕激素都可以被采用，但只有少数临床使用的孕激素被用于女性化激素治疗。
+[孕激素][208] 包含 [孕酮][209] 和 [合成孕酮][210]。合成孕酮是 [合成的][211] 孕激素，由孕酮或睾酮的 [结构修饰][212] 而来。一些主要孕激素的例子包括 [醋酸甲羟孕酮][213] (MPA; Provera ( 安宫黄体酮), Depo-Provera (得普乐)), [炔诺酮][214] (NET; 许多品牌名称), [去甲孕酮][215] (Duphaston (达芙通)) 与 [屈螺酮][216] (Slynd, Yasmin (优思明)) ([Aly W., 2019][217])。有几十种不同的孕激素，这些孕激素可以分为各种不同的结构类别，具有不同的特性 ([维基-图表][218])。合成孕酮被开发的原因是因为它们作为药物使用时在 [体内的处置方式][219] 比孕酮更有利。虽然几乎所有的孕激素都有相同的孕激素作用，而且理论上任何孕激素都可以被采用，但只有少数临床使用的孕激素被用于女性化激素治疗。
 
    [208]: https://en.wikipedia.org/wiki/Progestogen_(medication)
    [209]: https://en.wikipedia.org/wiki/Progesterone_(medication)
@@ -438,7 +438,7 @@
    [218]: https://en.wikipedia.org/wiki/Template:Progestogens_marketed_for_clinical_or_veterinary_use
    [219]: http://en.wikipedia.org/wiki/Pharmacokinetics
 
-Most progestogens also have [off-target activities][220] that may be desirable or undesirable depending on the action in question ([Kuhl, 2005][221]; [Stanczyk et al., 2013][222]; [Wiki][223]; [Wiki-Table][224]). Progesterone has [neurosteroid][225] activities that can result in a variety of brain effects not shared by progestins. MPA as well as NET and its derivatives have weak androgenic activity—which is unfavorable in the context of transfeminine hormone therapy. NET and certain related progestins produce EE as a [metabolite][226] at high doses and hence can produce EE-like estrogenic effects—including risk of blood clots and cardiovascular problems. Other off-target activities of progestogens include antiandrogenic, [glucocorticoid][227], and [antimineralocorticoid][228] activities. These actions can produce changes in therapeutic effectiveness (e.g., androgen suppression or blockade), side effects, and health risks. 
+大多数孕激素也有 [脱靶活动][220]，这些活动可能是可取的，也可能是不可取的，这取决于有关的作用 ([Kuhl, 2005][221]; [Stanczyk et al., 2013][222]; [维基][223]; [维基-图表][224])。孕酮具有 [神经类固醇活性][225]，可导致合成孕酮所不具备的各种大脑效应。MPA、NET及其衍生物具有弱雄性激素活性 - 这在女性化激素治疗中是不利的。NET和某些相关的孕激素在高剂量时产生EE的 [代谢物][226] ，因此可以产生类似EE的雌激素作用--包括血栓和心血管问题的风险。孕激素的其他非目标活动包括抗雄激素、[糖皮质激素][227] 与 [抗矿物质皮质激素][228] 活动。这些作用可以产生治疗效果（如雄性激素抑制或阻断）、副作用和健康风险的变化。
 
    [220]: https://en.wikipedia.org/wiki/Off-target_activity
    [221]: https://doi.org/10.1080/13697130500148875
@@ -450,7 +450,7 @@ Most progestogens also have [off-target activities][220] that may be desirable o
    [227]: https://en.wikipedia.org/wiki/Glucocorticoid
    [228]: https://en.wikipedia.org/wiki/Antimineralocorticoid
 
-The addition of progestogens to estrogen therapy has been associated with a number of unfavorable health effects. These include increased risk of blood clots ([Wiki][229]; [Aly W., 2020][230]), [coronary heart disease][231] ([Wiki][232]), and breast cancer ([Wiki][233]; [Aly W., 2020][234]). High doses of progestogens are also associated with increased risk of certain non-cancerous brain tumors including [meningiomas][235] and [prolactinomas][236] ([Wiki][237]; [Aly W., 2020][238]). The coronary heart disease risk may be due to changes in [blood lipids][239] caused by the weak androgenic activity of specific progestogens, but the rest of the aforementioned risks are probably due to their progestogenic activity (Stanczyk et al., 2013; [Jiang & Tian, 2017][240]). Aside from health risks, progestogens have also been associated with adverse mood changes ([Wiki][241]; [Wiki][242]). However, these effects are controversial and are not well-supported by evidence ([Wiki][241]; [Wiki][242]). Progestogens are otherwise generally well-tolerated and produce few to no side effects. 
+雌激素治疗中加入孕激素与一些不利的健康影响有关。其中包括血栓 ([维基][229]; [Aly W., 2020][230])，[冠心病][231] ([维基][232])，和乳腺癌 ([维基][233]; [Aly W., 2020][234])。高剂量的孕激素也与某些非癌性脑瘤的风险增加有关，包括 [脑膜瘤][235] 和 [催乳素瘤][236] ([维基][237]; [Aly W., 2020][238])。冠心病风险可能是由于特定孕激素的弱雄激素活性引起的 [血脂][239] 变化，但上述其余风险可能是由于其孕激素活性引起的 (Stanczyk et al., 2013; [Jiang & Tian, 2017][240])。除了健康风险外，孕激素还与不良情绪变化有关 ([维基][241]; [维基][242])。然而，这些影响是有争议的，没有充分的证据支持 ([维基][241]; [维基][242])。除此之外，孕激素通常耐受性良好，几乎不产生任何副作用。
 
    [229]: https://en.wikipedia.org/wiki/Progestogen_(medication)#Blood_clots
    [230]: https://transfemscience.org/articles/estrogens-coagulation-blood-clots/
