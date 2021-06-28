@@ -423,7 +423,7 @@
 
 ###  孕激素 
 
-[Progestogens][208] include [progesterone][209] and [progestins][210]. Progestins are [synthetic][211] progestogens derived from [structural modification][212] of progesterone or testosterone. Examples of some major progestins include [medroxyprogesterone acetate][213] (MPA; Provera, Depo-Provera), [norethisterone][214] (NET; many brand names), [dydrogesterone][215] (Duphaston), and [drospirenone][216] (Slynd, Yasmin) ([Aly W., 2019][217]). There are dozens of different progestins and these progestins can be divided into a variety of different structural classes with varying properties ([Wiki-Table][218]). Progestins were developed because they have a more favorable [disposition in the body][219] than progesterone for use as medications. Only a few clinically used progestins have been used in transfeminine hormone therapy, although almost all progestogens have the same progestogenic actions and theoretically any progestogen could be employed. 
+[孕激素][208] 包含 [孕酮][209] 和 [合成孕酮][210]。合成孕酮是 [合成的][211] 孕激素，由孕酮或睾酮的 [结构修饰][212] 而来。一些主要孕激素的例子包括 [醋酸甲羟孕酮][213] (MPA; Provera ( 安宫黄体酮), Depo-Provera (得普乐)), [炔诺酮][214] (NET; 许多品牌名称), [去甲孕酮][215] (Duphaston (达芙通)) 与 [屈螺酮][216] (Slynd, Yasmin (优思明)) ([Aly W., 2019][217])。有几十种不同的孕激素，这些孕激素可以分为各种不同的结构类别，具有不同的特性 ([Wiki-Table][218])。合成孕酮被开发的原因是因为它们作为药物使用时在 [体内的处置方式][219] 比孕酮更有利。虽然几乎所有的孕激素都有相同的孕激素作用，而且理论上任何孕激素都可以被采用，但只有少数临床使用的孕激素被用于女性化激素治疗。
 
    [208]: https://en.wikipedia.org/wiki/Progestogen_(medication)
    [209]: https://en.wikipedia.org/wiki/Progesterone_(medication)
