@@ -10,7 +10,7 @@
 
 ##  前言
 
-###  提要 / 一句话简介
+###  提要
 
 性激素，如雌激素、睾酮和孕酮，由性腺产生。性激素影响第二性征的发展。睾酮导致男性化，而雌二醇导致女性化和乳房发育。男性有大量的睾酮，而女性有低量的睾酮和大量的雌二醇。这些激素差异造成了男女间身体上的不同。女性倾向跨性别者使用性激素和其他激素类药物，将激素状况从男性典型转变成女性典型。这导致了女性化，并能够缓解性别焦虑。女性化激素治疗引起的变化发生在几个月到几年的时间里。有许多不同类型的激素药物，其可以通过不同的途径进行给药。例如，口服的丸/片剂，外用的贴片和凝胶，及注射剂等。不同的激素药物、途径和剂量有不同的疗效、副作用和风险。激素治疗应定期通过血液检查进行监测，以确保疗效和安全，并在需要时调整。
 
@@ -512,36 +512,36 @@
 
    [267]: https://en.wikipedia.org/wiki/Progesterone_(medication)#Availability
 
-Progesterone can be used rectally in the form of suppositories. Oral micronized progesterone capsules can be taken rectally and this can allow for much higher progesterone levels than would be achieved orally ([Aly W., 2018][268]). While certainly inconvenient, rectal use is probably the best route of administration for progesterone for transfeminine people. 
+孕酮可以以栓剂的形式直肠使用。口服微粉化孕酮胶囊可以用于直肠，这可以使孕酮水平比口服高得多 ([Aly W., 2018][268])。虽然肯定不方便，但直肠使用可能是女性倾向跨性别者使用孕酮的最佳途径。
 
    [268]: https://transfemscience.org/articles/oral-p4-rectally/
 
-Progesterone by injection is available in both intramuscular and subcutaneous forms. However, injectable progesterone has a relatively short duration and must be given once every one to three days. This makes it too inconvenient to use for most people. Unlike with estradiol, [progesterone esters][269] with longer durations than progesterone itself by injection are not chemically possible. Injectable progestins, on the other hand, have durations ranging from weeks to months. 
+注射用孕酮有肌肉注射和皮下注射两种形式。然而，注射式孕酮的持续时间相对较短，必须每1至3天注射一次。这使得它对大多数人来说使用起来太不方便了。与雌二醇不同，注射用 [孕酮酯][269] 在化学上是不可能拥有比孕酮本身更长的持续时间的。另一方面，注射式合成孕酮的持续时间从几周到几个月不等。
 
    [269]: https://en.wikipedia.org/wiki/Progestogen_ester
 
-Table: Available forms and recommended doses of progestogens: 
+表格：孕激素的可用形式和推荐剂量： 
 
-| Medication | Route | Form | Dosage |
+| 药品 | 途径 | 形式 | 剂量 |
 | --- | --- | --- | --- |
-| [Progesterone][270] | Oral | Oil-filled capsules | 100–300 mg 1–2x/day |
-| | Rectal | Suppositories; Oil-filled capsules | 100–200 mg 1–2x/day |
-| | IM injection | Oil solution | 25–75 mg/1–3 days |
-| | SC injection | Water solution | 25 mg/day |
-| [Progestins][271] | Oral; IM or SC injection | Tablets; Oil solution; Water solution | Various |
+| [孕酮][270] | 口服 | 充油胶囊 | 100–300 mg 1–2x/天 |
+| | 直肠 | 栓剂; 油剂胶囊 | 100–200 mg 1–2x/天 |
+| | 肌肉注射 | 油剂溶液 | 25–75 mg/1–3 天 |
+| | 皮下注射 | 水溶液 | 25 mg/天 |
+| [Progestins][271] | 口服; 肌肉或皮下注射 | 片剂; 油剂溶液; 水溶液 | 繁多 |
 
 
    [270]: https://en.wikipedia.org/wiki/Progesterone_(medication)
    [271]: https://en.wikipedia.org/wiki/Progestin
 
-For progesterone levels with different forms, routes, and doses of progesterone, see the table [here][272] (only LC–MS and IA + CS assays for oral progesterone) and the graphs [here][273]. 
+关于不同形式、途径和剂量的孕酮水平，请看 [这里][272] 的表格 (只有 LC-MS 和 IA + CS 检测的口服孕酮) 和 [这里][273] 的图表。
 
    [272]: https://en.wikipedia.org/wiki/Template:Plasma_progesterone_levels_after_a_single_dose_of_progesterone_by_different_routes
    [273]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone
 
-As with estradiol, there is high variability between individuals in progesterone levels. Conversely, there is relatively little variability between individuals in the case of progestins. 
+与雌二醇一样，孕酮水平在个体间有很高的变异性。相反，就合成孕酮而言，个体之间的差异性相对较小。
 
-After removal of the gonads, progestogen doses can be lowered or adjusted to approximate normal female physiological exposure or they can be discontinued entirely. 
+在切除性腺后，孕激素的剂量可以被降低或调整，以接近正常女性的生理暴露，或者也可以被完全停止使用。
 
 ###  Antiandrogens 
 
