@@ -492,12 +492,12 @@
 
 ####  孕酮与合成孕酮的途径、剂量和水平 
 
-Progesterone can be used in transfeminine people by the oral route, by the [rectal][257] route, or by intramuscular or subcutaneous injection ([Wiki][258]). Progestins are usually used by the oral route but certain progestins are also available in injectable formulations. 
+孕酮可通过口服途径、 [直肠][257] 途径、肌肉注射或皮下注射用于女性倾向跨性别者 ([维基][258])。合成孕酮通常通过口服途径被使用，但某些合成孕酮也有注射剂型。
 
    [257]: https://en.wikipedia.org/wiki/Rectal_administration
    [258]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#Routes_of_administration
 
-Levels of progesterone with the oral route have been found using state-of-the-art assays (LC–MS) to be very low (<2 ng/dL at 100 mg/day) and inadequate for satisfactory progestogenic effects ([Wiki][259]; [Aly W., 2018][260]). In accordance, even high doses of oral progesterone showed no antigonadotropic effect in cisgender men ([Wiki][261]). This is in major contrast to non-oral progesterone and to progestins. Additionally, oral progesterone is excessively converted into potent neurosteroid metabolites like allopregnanolone and [pregnanolone][262], and this can result in undesirable [alcohol][263]-like side effects such as sedation, cognitive/memory impairment, and mood changes ([Wiki][264]; [Wiki][265]). As such, while inconvenient, non-oral routes are preferable in the case of progesterone similarly to estradiol. Conversely, progestins have high oral bioavailability and are resistant to metabolism in the liver. In contrast to the ERs, PRs are expressed minimally or not at all in the liver ([Lax, 1987][266]). For these reasons, there are no apparent problems with the oral route in the case of progestins. 
+使用最先进的检测方法 (LC–MS) 发现，口服途径的孕酮水平非常低 (100 mg/天 时 <2 ng/dL)，不足以产生令人满意的孕激素效果 ([维基][259]; [Aly W., 2018][260])。相应的，即使是高剂量的口服孕酮也没有显示出对顺性别男性的抗性腺作用 ([维基][261])。这与非口服的孕酮和对于合成孕酮形成了重大对比。此外，口服孕酮会过度转化为强效的神经类固醇代谢物，如四氢孕酮 和 [孕烷醇酮][262]，这可能导致类似 [酒精][263] 的不良副作用，如镇静、认知/ 记忆障碍，和情绪变化 ([维基][264]; [维基][265])。因此，虽然不方便，但在孕酮的情况下，类似于雌二醇，非口服的途径是更被推荐的。相反，合成孕酮具有较高的口服生物利用度，并能抵抗肝脏的代谢。与ER相反，PR在肝脏中表达得很少或根本不表达 ([Lax, 1987][266])。由于这些原因，在合成孕酮的情况下，口服途径没有明显问题。
 
    [259]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#Oral_administration
    [260]: https://transfemscience.org/articles/oral-p4-low-levels/
@@ -508,7 +508,7 @@ Levels of progesterone with the oral route have been found using state-of-the-ar
    [265]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#First-pass_effect_and_neurosteroids
    [266]: https://doi.org/10.1016/0022-4731(87)90198-1
 
-Sublingual progesterone tablets exist but are only available in a couple of Eastern European countries ([Wiki][267]). In contrast to estradiol, oral progesterone is formulated as oil-filled capsules. This makes them difficult and unpleasant to use by the sublingual route. 
+舌下含服孕酮片存在，但只在几个东欧国家有售 ([维基][267])。与雌二醇相反，口服孕酮被配制成充油的胶囊。这使得它们难以通过舌下途径使用，而且令人不快。
 
    [267]: https://en.wikipedia.org/wiki/Progesterone_(medication)#Availability
 
