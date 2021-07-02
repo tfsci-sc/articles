@@ -467,7 +467,7 @@
    [241]: https://en.wikipedia.org/wiki/Progestogen_(medication)#Mood_changes
    [242]: https://en.wikipedia.org/wiki/Medroxyprogesterone_acetate#Mood_changes
 
-In contrast to progestins, progesterone has no unfavorable off-target activities. Moreover, the addition of oral progesterone to estrogen therapy has not been associated with increased risk of blood clots ([Wiki][243]). In addition, oral progesterone seems to have less risk of breast cancer than progestins with short-term therapy although notably not with longer-term exposure ([Wiki][244]; [Aly W., 2020][245]). As such, it has been suggested that progesterone, for reasons that have yet to be fully elucidated, may be a safer progestogen than progestins and that it should be preferred for progestogen therapy. However, the seemingly better safety of progesterone may simply be an artifact of the very low progesterone levels that occur with [oral][246] progesterone and hence of dosage ([Aly W., 2018][247]; [Wiki][248]). [Non-oral][249] progesterone at doses resulting in full progestogenic strength has never been properly evaluated in terms of health outcomes and may have the same risks as progestins ([Aly W., 2018][247]; [Wiki][248]). 
+不同于合成孕酮，孕酮没有不利的脱靶活动 ([维基][243])。此外，口服孕酮，相较于合成孕酮，在短期治疗中有更低的乳腺癌风险，但是在长期治疗中却没有 ([维基][244]; [Aly W., 2020][245])。因此，有学者认为，由于尚未阐明的原因，孕酮可能比合成孕酮更为安全，并且其应作为孕激素治疗的首选。然而，孕酮看起来更好的安全性可能只是 [口服][246] 孕酮低孕激素水平出现的剂量假象 ([Aly W., 2018][247]; [维基][248])。[非口服][249] 孕酮在导致完整孕激素强度的剂量下，从未在健康结果方面进行过适当的评估，因此也可能具有和合成孕酮一样的风险 ([Aly W., 2018][247]; [维基][248])。
 
    [243]: https://en.wikipedia.org/wiki/Progesterone_(medication)#Blood_clots
    [244]: https://en.wikipedia.org/wiki/Progesterone_(medication)#Breast_cancer
@@ -477,7 +477,7 @@ In contrast to progestins, progesterone has no unfavorable off-target activities
    [248]: https://en.wikipedia.org/wiki/Pharmacokinetics_of_progesterone#Clinical_progestogenic_potency_and_effects
    [249]: https://en.wikipedia.org/wiki/Parenteral_administration
 
-Progestogens are of no clear or known benefit for feminization or breast development in transfeminine people aside from helping with testosterone suppression. While some transfeminine people [anecdotally][250] claim to experience improved breast development with progestogens, an involvement of these agents in breast size or shape is controversial and not supported by theory or evidence at present ([Wiki][251]; [Aly W., 2020][252]; [Aly W., 2020][253]). It’s possible that premature introduction of progestogens may actually have an unfavorable influence on breast development ([Aly W., 2019][254]). Many transfeminine people have also anecdotally claimed that progestogens have a beneficial effect on their sexual desire. However, a review of the literature showed that neither progesterone nor progestins positively influence sexual desire ([Aly W., 2020][255]). Instead, the available evidence indicates the opposite—an inhibitory influence of progestogens on sexual desire—although this may be specific to high doses ([Aly W., 2020][255]). 
+孕激素，除了有助于抗雄外，对女性倾向跨性别者的女性化或乳房发育没有明确或已知的好处。虽然一些女性倾向跨性别者 [据称][250] 使用孕激素后乳房发育得到改善，但其对于乳房大小或形状的作用是有争议的，目前尚无理论或证据支持 ([维基][251]; [Aly W., 2020][252]; [Aly W., 2020][253])。实际上，有可能过早引入孕激素会对乳房发育产生不利影响 ([Aly W., 2019][254])。许多女性倾向跨性别者也曾据称孕激素对其性欲有正面影响。然而，文献表明孕酮和合成孕酮都不会有对性欲的正面影响 ([Aly W., 2020][255])。相反，现有的证据表明，孕激素对性欲有相反的抑制作用，尽管这可能只针对于高剂量 ([Aly W., 2020][255])。
 
    [250]: https://en.wikipedia.org/wiki/Anecdotal_evidence
    [251]: https://en.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)#Progestogens
@@ -486,11 +486,11 @@ Progestogens are of no clear or known benefit for feminization or breast develop
    [254]: https://transfemscience.org/articles/progestogens-suboptimal-breast-dev-excerpts/
    [255]: https://transfemscience.org/articles/progestogens-sexual-desire/
 
-Due to their lack of influence on feminization and breast development and their adverse effects and health risks, progestogens are not routinely used in transfeminine hormone therapy at present. There is however a major exception to this in the form of [cyproterone acetate][256] (CPA; Androcur), an antiandrogen which is widely used in transfeminine hormone therapy and also happens to be a powerful progestogen at typical therapeutic doses. CPA will be described in the section below on antiandrogens. Although progestogens have various health risks, cisgender women of course have progesterone and the absolute risks of progestogens are very low in healthy young people. Risks like breast cancer also take many years to develop. And the testosterone suppression provided by progestogens can be very useful in transfeminine people. A limited duration of progestogen therapy, for instance a few years to help suppress testosterone levels before gonadectomy, may be quite acceptable in transfeminine people. 
+由于孕激素对女性化和乳房发育缺乏影响，以及它们的不良影响和健康风险，目前在女性化激素治疗中其没有被常规使用。然而，有一个重要的例外，那就是 [醋酸环丙孕酮][256] (CPA; 色谱龙)，一种被广泛用于女性化治疗的抗雄激素，并在典型治疗剂量下也是一种强大的孕激素。CPA将会在下面关于抗雄激素的部分进行描述。虽然孕激素有各种健康风险，但顺性别妇女也有孕激素，而且孕激素的绝对风险在健康的年轻人中非常低。像乳腺癌这样的风险也需要很多年才能形成。而且孕激素提供的睾丸激素抑制对女性倾向跨性别者来说是非常有用的。有限的孕激素治疗时长，例如在性腺切除术前用几年时间来帮助抑制睾丸激素水平，对女性倾向跨性别者来说可能是很可被接受的。
 
    [256]: https://en.wikipedia.org/wiki/Cyproterone_acetate
 
-####  Routes, Doses, and Levels of Progesterone and Progestins 
+####  孕酮与合成孕酮的途径、剂量和水平 
 
 Progesterone can be used in transfeminine people by the oral route, by the [rectal][257] route, or by intramuscular or subcutaneous injection ([Wiki][258]). Progestins are usually used by the oral route but certain progestins are also available in injectable formulations. 
 
