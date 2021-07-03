@@ -543,15 +543,15 @@
 
 在切除性腺后，孕激素的剂量可以被降低或调整，以接近正常女性的生理暴露，或者也可以被完全停止使用。
 
-###  Antiandrogens 
+###  抗雄激素 
 
-Aside from estrogens and progestogens, there is another class of hormonal medications used in transfeminine hormone therapy known as antiandrogens (AAs). These medications nullify the effects of androgens in the body. They work by a variety of different mechanisms of action and include AR [antagonists][274], [antigonadotropins][275], and [androgen synthesis inhibitors][276]. 
+除了雌激素和孕激素外，还有一类用于女性化激素治疗的荷尔蒙药物，称为抗雄激素 (AA)。这些药物可使体内雄激素的作用失效。它们通过各种不同的作用机制发挥作用，包括 AR [拮抗剂][274],[抗促性腺激素][275]，与 [雄性激素合成抑制剂][276]。
 
    [274]: https://en.wikipedia.org/wiki/Receptor_antagonist
    [275]: https://en.wikipedia.org/wiki/Antigonadotropin
    [276]: https://en.wikipedia.org/wiki/Antiandrogen#Androgen_synthesis_inhibitors
 
-AR antagonists work by directly blocking the effects of androgens. They bind to the AR without activating it, thereby displacing androgens from the receptor. AR antagonists include [steroidal antiandrogens][277] (SAAs) like [spironolactone][278] (Aldactone) and [cyproterone acetate][279] (CPA; Androcur) and [nonsteroidal antiandrogens][280] (NSAAs) like [bicalutamide][281] (Casodex). 
+AR拮抗剂通过直接阻断雄性激素的作用而发挥作用。它们与AR结合而不激活它，从而将雄性激素从受体上移开。AR拮抗剂包括 [类固醇抗雄激素][277] (SAA)，如 [螺内酯][278] (Aldactone) 和 [醋酸环丙孕酮][279] (CPA; Androcur (色谱龙))，以及 [非类固醇抗雄激素][280] (NSAA)，如 [比卡鲁胺][281] (Casodex). 
 
    [277]: https://en.wikipedia.org/wiki/Steroidal_antiandrogen
    [278]: https://en.wikipedia.org/wiki/Spironolactone
@@ -559,7 +559,7 @@ AR antagonists work by directly blocking the effects of androgens. They bind to 
    [280]: https://en.wikipedia.org/wiki/Nonsteroidal_antiandrogen
    [281]: https://en.wikipedia.org/wiki/Bicalutamide
 
-Antigonadotropins suppress the gonadal production of androgens by inhibiting the GnRH-mediated secretion of gonadotropins from the pituitary gland. They include estrogens and progestogens. In addition, [GnRH agonists][282] such as [leuprorelin][283] (Lupron) and [GnRH antagonists][284] such as [elagolix][285] (Orilissa) act similarly and could be regarded as antigonadotropins. 
+抗促性腺激素通过抑制垂体中GnRH介导的促性腺激素的分泌来抑制雄性激素的性腺分泌。它们包括雌激素和孕激素。此外，[GnRH 激动剂][282] 如 [亮丙瑞林][283] (Lupron) 和 [GnRH 拮抗剂][284] 如 [恶拉戈利钠][285] (Orilissa) 的作用类似，可被视为抗性腺素。
 
    [282]: https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone_agonist
    [283]: https://en.wikipedia.org/wiki/Leuprorelin
