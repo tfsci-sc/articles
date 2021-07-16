@@ -647,7 +647,7 @@ CPA是一种孕激素，在更高的剂量下也作为AR拮抗剂 ([Aly W., 2019
 
    [319]: https://transfemscience.org/articles/cpa-dosage/
 
-CPA has been reported to produce fatigue and slight weight gain as side effects ([Belisle & Love, 1986][320]; [Hammerstein, 1990][321]). It may result in sexual dysfunction ([Wiki][322]; [Aly W., 2019][323]) and have a small risk of depressive mood changes ([Wiki][324]; [Aly W., 2019][325]). CPA produces pregnancy-like breast changes ([Kanhai et al., 2000][326]) and sometimes causes [lactation][327] as a side effect in transfeminine people ([Gooren, Harmsen-Louman, & van Kessel, 1985][328]; [Schlatterer et al., 1998][329]; [Bazarra-Castro, 2009][330]). As with other progestogens, the addition of low doses of CPA to estrogen therapy is associated with increased risk of blood clots and breast cancer ([Wiki][331]; [Wiki][332]; [Aly W., 2020][333]). Higher doses of CPA appear to have a greater risk of blood clots than low doses ([Wiki][331]). CPA is also associated with [high prolactin levels][334] ([Wiki][322]) and with certain non-cancerous brain tumors including prolactinomas and meningiomas ([Wiki][335]; [Aly W., 2020][336]). High doses of CPA are associated with [abnormal liver changes][337] and have resulted in rare cases of liver toxicity ([Wiki][338]). This probably isn’t an issue at doses of less than 20 mg/day however ([Wiki][338]). Monitoring of [prolactin][339] levels to detect prolactinomas and monitoring of liver function to detect liver toxicity is advisable during CPA therapy. The side effects and risks of CPA may be minimized by using the lowest effective dosage, which is much lower than what has conventionally been used ([Aly W., 2019][340]). 
+有报告指出，CPA会产生疲劳和轻微体重增加的副作用 ([Belisle & Love, 1986][320]; [Hammerstein, 1990][321])。它可能导致性功能障碍 ([维基][322]; [Aly W., 2019][323]) ，并有小的抑郁情绪变化的风险 ([维基][324]; [Aly W., 2019][325])。CPA会产生类似怀孕的乳房变化 ([Kanhai et al., 2000][326]) ，有时会在女性倾向跨性别者中引起 [泌乳][327] 的副作用 ([Gooren, Harmsen-Louman, & van Kessel, 1985][328]; [Schlatterer et al., 1998][329]; [Bazarra-Castro, 2009][330])。与其他孕激素一样，在雌激素治疗中加入低剂量的CPA与血栓和乳腺癌的风险增加有关 ([维基][331]; [维基][332]; [Aly W., 2020][333])。高剂量的CPA似乎比低剂量的血栓风险更大 ([维基][331])。CPA还与 [高催乳素水平][334] 有关 ([维基][322]) ，并与某些非癌性脑瘤有关，包括催乳素瘤和脑膜瘤 ([维基][335]; [Aly W., 2020][336])。高剂量的CPA与 [肝脏的异常变化][337] 有关，并导致罕见的肝脏毒性病例 ([维基][338])。然而，在剂量低于20mg/天时，这可能不是一个问题 ([维基][338])。在CPA治疗期间，监测 [催乳素][339] 水平以发现催乳素瘤，监测肝功能以发现肝脏毒性是被建议的。通过使用最低的有效剂量，CPA的副作用和风险可能会降到最低，这比传统使用的剂量低得多 ([Aly W., 2019][340])。
 
    [320]: https://doi.org/10.1016/S0015-0282(16)49873-0
    [321]: https://doi.org/10.1007/978-3-642-74612-3_35
@@ -671,9 +671,9 @@ CPA has been reported to produce fatigue and slight weight gain as side effects 
    [339]: http://en.wikipedia.org/wiki/Prolactin
    [340]: https://transfemscience.org/articles/cpa-dosage/
 
-CPA is notably not approved for use in the United States, but is available in most other countries. 
+值得注意的是，CPA没有被批准在美国使用，但在大多数其他国家可以使用。
 
-####  5α-Reductase Inhibitors 
+####  5α-还原酶抑制剂 
 
 Testosterone is converted into DHT within certain tissues in the body ([Swerdloff et al., 2017][341]). DHT is an androgen metabolite of testosterone with several-fold higher activity than testosterone. The transformation of testosterone into DHT is mediated by the enzyme [5α-reductase][342]. The tissues in which 5α-reductase is present and testosterone is converted into DHT are limited and most importantly include the skin, hair follicles, and prostate gland. Although DHT is more potent than testosterone, it has minimal biological role as a circulating hormone ([Horton, 1992][343]; Swerdloff et al., 2017). Instead, testosterone serves as the main circulating androgen, and the role of DHT is from metabolism of testosterone into DHT within tissues. 
 
