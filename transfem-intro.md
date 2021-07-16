@@ -566,7 +566,7 @@ AR拮抗剂通过直接阻断雄性激素的作用而发挥作用。它们与AR�
    [284]: https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone_antagonist
    [285]: https://en.wikipedia.org/wiki/Elagolix
 
-Androgen synthesis inhibitors inhibit the enzyme-mediated synthesis of androgens. They include [5α-reductase inhibitors][286] (5α-RIs) like [finasteride][287] (Propecia) and [dutasteride][288] (Avodart). There are also other types of androgen synthesis inhibitors, for instance potent [17α-hydroxylase/17,20-lyase inhibitors][289] like [ketoconazole][290] (Nizoral) and [abiraterone acetate][291] (Zytiga). However, these other agents have limitations (e.g., [toxicity][292], cost, lack of experience) and are not used in transfeminine hormone therapy. 
+雄性激素合成抑制剂可抑制雄性激素的酶介导的合成。它们包括 [5α-还原酶抑制剂][286] (5α-RI)，如 [非那雄胺][287] (保法止) 和 [度他雄胺][288] (适尿通)。还有其他类型的雄激素合成抑制剂，例如强效的 [17α-羟化酶/17,20-还原酶抑制剂][289]，如 [酮康唑][290] (仁山利舒) 和 [醋酸阿比特龙][291] (Zytiga)。然而，这些其他药物有其局限性 (如，[毒性][292], 成本, 未经大量测试)，因而不被用于女性化激素治疗。
 
    [286]: https://en.wikipedia.org/wiki/5%CE%B1-Reductase_inhibitor
    [287]: https://en.wikipedia.org/wiki/Finasteride
@@ -576,30 +576,30 @@ Androgen synthesis inhibitors inhibit the enzyme-mediated synthesis of androgens
    [291]: https://en.wikipedia.org/wiki/Abiraterone_acetate
    [292]: https://en.wikipedia.org/wiki/Toxicity
 
-Although antigonadotropins and androgen synthesis inhibitors certainly have antiandrogenic effects secondary to decreased androgen levels, they are not usually referred to as “antiandrogens”. Instead, the term “antiandrogen” is most commonly reserved to describe AR antagonists. 
+尽管抗促性腺激素和雄性激素合成抑制剂肯定具有继发于雄性激素水平下降的抗雄性激素作用，但它们通常不被称为"抗雄激素"。相反，"抗雄激素"这一术语最常被用来描述AR拮抗剂。
 
-####  Androgen Receptor Antagonists 
+####  雄性激素受体 (AR) 拮抗剂 
 
-AR antagonists act by directly blocking the effects of androgens. Unlike antigonadotropins and androgen synthesis inhibitors, they do not work by suppressing androgen levels. However, some AR antagonists also have additional actions that result in decreased androgen levels. Due to the nature of their mechanism of action as competitive blockers of androgens, the antiandrogenic efficacy of AR antagonists is both highly dose-dependent and fundamentally dependent on testosterone levels. AR antagonists tend to have relatively low [affinity][293] for the AR, and relatively high doses by weight may be required for satisfactory prevention of the effects of testosterone—especially in the context of male-range testosterone levels ([Aly W., 2019][294]). In any case, AR antagonists can be very useful when testosterone levels are incompletely but markedly suppressed (e.g., <200 ng/dL). Because AR antagonists do not work by lowering testosterone levels, blood work is less informative for them compared to antiandrogens that suppress testosterone levels. 
+AR拮抗剂通过直接阻断雄性激素的作用而发挥作用。与抗促性腺激素和雄性激素合成抑制剂不同，其不通过抑制雄性激素水平而发挥作用，尽管一些AR拮抗剂也有可以导致雄性激素水平下降的额外作用。由于其作为雄性激素竞争性阻断剂的作用机制的性质，AR拮抗剂的抗雄性激素疗效既高度依赖剂量，又从根本上取决于睾酮水平。AR拮抗剂对AR的 [亲和力][293] 往往相对较低，要想令人满意地预防睾酮的影响，可能需要根据重量计算的相对较高的剂量，特别是在男性范围的睾酮水平方面 ([Aly W., 2019][294])。在任何情况下，当睾酮水平不完全但明显受到抑制时 (如 <200 ng/dL)，AR拮抗剂可以非常有用。由于AR拮抗剂不是通过降低睾酮水平来发挥作用，因此与抑制睾酮水平的抗雄激素相比，血液检查更不能体现其信息。
 
    [293]: https://en.wikipedia.org/wiki/Affinity_(pharmacology)
    [294]: https://transfemscience.org/articles/bica-dosage/
 
-The AR antagonists spironolactone, bicalutamide, and CPA are all taken orally in the form of tablets. 
+AR拮抗剂螺内酯、比卡鲁胺和CPA都是以片剂形式口服的。
 
-Table: Available forms and recommended doses of antiandrogens: 
+表格: 抗雄激素的现有形式和推荐剂量: 
 
-| Medication | Type | Route | Form | Dosage |
+| 药品 | 种类 | 途径 | 形式 | 剂量 |
 | --- | --- | --- | --- | --- |
-| [Spironolactone][295] | AR antagonist; Weak androgen synthesis inhibitor | Oral | Tablets | 100–200 mg 1–2x/day<sup>a</sup> |
-| [Bicalutamide][296] | AR antagonist | Oral | Tablets | 12.5–50 mg/day<sup>a</sup> |
-| [Cyproterone acetate][297] | Progestogen; AR antagonist | Oral | Tablets | 2.5–12.5 mg/day (total)<sup>b</sup> |
+| [螺内酯][295] | AR 拮抗剂; 弱雄激素合成抑制剂 | 口服 | 片剂 | 100–200 mg 1–2x/天<sup>a</sup> |
+| [比卡鲁胺][296] | AR 拮抗剂 | 口服 | 片剂 | 12.5–50 mg/天<sup>a</sup> |
+| [醋酸环丙孕酮][297] | 孕酮; AR 拮抗剂 | 口服 | 片剂 | 2.5–12.5 mg/天 (共)<sup>b</sup> |
 
    [295]: https://en.wikipedia.org/wiki/Spironolactone
    [296]: https://en.wikipedia.org/wiki/Bicalutamide
    [297]: https://en.wikipedia.org/wiki/Cyproterone_acetate
 
-<sup>a</sup> For the AR antagonists spironolactone and bicalutamide, it is assumed that testosterone levels are substantially suppressed (≤200 ng/dL). If not, higher doses may be warranted. <sup>b</sup> For CPA, one-quarter of a 10-mg tablet to one full 10-mg tablet per day (2.5–10 mg/day) _or_ a quarter of a 50-mg tablet every other day or every 2 to 3 days (4.2–12.5 mg/day). A dosage of 5 to 12.5 mg/day is likely to ensure maximal testosterone suppression while lower doses may be less effective.
+<sup>a</sup> 对于AR拮抗剂螺内酯和比卡鲁胺，假定睾丸激素水平被大幅抑制 (≤200 ng/dL)。如果不是，可能需要更高的剂量。 <sup>b</sup> 对于CPA来说，每天服用四分之一的10mg片剂到一整片10mg片剂。 (2.5–10 mg/天) _或_ 每隔一天或每2至3天吃四分之一片50mg的药片 (4.2–12.5 mg/天)。5至12.5mg/天的剂量可能确保最大限度地抑制睾丸激素，而较低的剂量可能效果较差。
 
 ####  Spironolactone 
 
