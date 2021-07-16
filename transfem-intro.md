@@ -675,13 +675,13 @@ CPA是一种孕激素，在更高的剂量下也作为AR拮抗剂 ([Aly W., 2019
 
 ####  5α-还原酶抑制剂 
 
-Testosterone is converted into DHT within certain tissues in the body ([Swerdloff et al., 2017][341]). DHT is an androgen metabolite of testosterone with several-fold higher activity than testosterone. The transformation of testosterone into DHT is mediated by the enzyme [5α-reductase][342]. The tissues in which 5α-reductase is present and testosterone is converted into DHT are limited and most importantly include the skin, hair follicles, and prostate gland. Although DHT is more potent than testosterone, it has minimal biological role as a circulating hormone ([Horton, 1992][343]; Swerdloff et al., 2017). Instead, testosterone serves as the main circulating androgen, and the role of DHT is from metabolism of testosterone into DHT within tissues. 
+睾酮在身体的某些组织内转化为DHT ([Swerdloff et al., 2017][341])。DHT是睾酮的一种雄性激素代谢物，其活性比睾酮高几倍。睾酮转化为DHT是由 [5α-还原酶][342] 介导的。存在5α-还原酶并将睾酮转化为DHT的组织是有限的，主要包括皮肤、毛囊和前列腺。虽然DHT比睾酮更有效，但它作为循环激素的生物作用很小 ([Horton, 1992][343]; Swerdloff et al., 2017)。相反，睾酮作为主要的循环雄性激素，而DHT的作用是来自睾酮在组织内代谢成DHT。
 
    [341]: https://doi.org/10.1210/er.2016-1067
    [342]: https://en.wikipedia.org/wiki/5%CE%B1-Reductase
    [343]: https://doi.org/10.1002/j.1939-4640.1992.tb01621.x
 
-5α-RIs inhibit 5α-reductase and thereby block the conversion of testosterone into DHT. This results in marked decreases in circulating and within-tissue levels of DHT. Due to DHT’s role as a mediator in tissues rather than circulating hormone, the antiandrogenic efficacy of 5α-RIs is limited. This is exemplified by the fact that they are well-tolerated in cisgender men and don’t cause notable demasculinization in them ([Hirshburg, 2016][344]). The medical use of 5α-RIs is mainly restricted to the treatment of scalp hair loss in men and women, hirsutism (excessive facial/body hair) in women, and [prostate enlargement][345] in men. They might also be useful for acne in women, but evidence of this is very limited ([Wiki][346]). Due to their specificity, 5α-RIs are inappropriate as general antiandrogens in transfeminine people. Moreover, DHT levels decrease in tandem with testosterone levels with suppression of testosterone production in transfeminine hormone therapy, and routine use of 5α-RIs in transfeminine people with testosterone levels within the female range can be considered unnecessary ([Irwig, 2020][347]). In any case, 5α-RIs may be useful in transfeminine people on hormone therapy who have persistent body hair growth or scalp hair loss—as they have been shown to be in cisgender women ([Barrionuevo et al., 2018][348]). However, it is notable that evidence is better for AR antagonists for such indications ([van Zuuren et al., 2015][349]). This is intuitive as AR antagonists block both testosterone and DHT whereas 5α-RIs only prevent conversion of testosterone into DHT. 
+5α-RI抑制5α-还原酶，从而阻止睾酮转化为DHT。这导致DHT在循环和组织内的水平明显下降。由于DHT在组织内的作用是一种媒介，而不是循环激素，因此5α-RI的抗雄激素功效是有限的。这体现在它们在顺性别男性中的耐受性很好，并且不会导致他们明显的去男性化 ([Hirshburg, 2016][344])。5α-RI的医学用途主要限于治疗男性和女性的头皮脱发、女性的多毛 (面部/身体毛发过多) 和男性的 [前列腺肥大][345]。它们对妇女的痤疮也可能有用，但这方面的证据非常有限 ([维基][346])。由于其特质，5α-RI作为一般的抗雄激素对女性倾向跨性别者是不合适的。此外，DHT水平与睾丸激素水平同步下降，在女性化激素治疗中抑制睾丸激素的产生，在睾丸激素水平在女性范围内的女性倾向跨性别者中常规使用5α-RIs可以说是不必要的 ([Irwig, 2020][347])。在任何情况下，5α-RI对接受激素治疗、有持续体毛生长或头皮脱发的女性倾向跨性别者可能是有用的--因为它们已被证明在顺性别女性中是有用的 ([Barrionuevo et al., 2018][348])。然而，值得注意的是，AR拮抗剂用于此类适应症的证据更好 ([van Zuuren et al., 2015][349])。这是直观的，因为AR拮抗剂同时阻断睾酮和DHT，而5α-RI只阻止睾酮转化为DHT。
 
    [344]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5023004/
    [345]: https://en.wikipedia.org/wiki/Benign_prostatic_hyperplasia
@@ -690,13 +690,13 @@ Testosterone is converted into DHT within certain tissues in the body ([Swerdlof
    [348]: https://doi.org/10.1210/jc.2017-02052
    [349]: https://doi.org/10.1002/14651858.CD010334.pub2
 
-There are three subtypes of 5α-reductase. Dutasteride inhibits all three subtypes of 5α-reductase whereas finasteride only inhibits two of the subtypes. As a result of this, dutasteride is a more complete 5α-RI than finasteride. Dutasteride decreases DHT levels in the blood by up to 98% while finasteride can only decrease them by around 65 to 70%. As nearly all circulating DHT originates from peripheral tissues, these decreases indicate parallel decreases in tissue DHT production (Horton, 1992). In accordance with these findings, dutasteride has been found to be more effective than finasteride in the treatment of scalp hair loss in men ([Zhou et al., 2018][350]; [Dhurat et al., 2020][351]; [Wiki][352]). For these reasons, although both finasteride and dutasteride are effective 5α-RIs, dutasteride may be the preferable choice if a 5α-RI is used (Zhou et al., 2018; Dhurat et al., 2020). 
+5α-还原酶有三种亚型。度他雄胺可抑制5α-还原酶的所有三种亚型，而非那雄胺只抑制其中的两种亚型。因此，度他雄胺是一种比非那雄胺更全面的5α-还原酶。度他雄胺可使血液中的DHT水平降低98%，而非那雄胺只能降低约65%至70%。由于几乎所有循环中的DHT都来自外周组织，这些下降表明组织中DHT的产生也在减少 (Horton, 1992)。根据这些发现，在治疗男性头皮脱发方面，已经发现度他雄胺比非那雄胺更有效 ([Zhou et al., 2018][350]; [Dhurat et al., 2020][351]; [维基][352]). 由于这些原因，尽管非那雄胺和度他雄胺都是有效的5α-RI，但如果使用5α-RI，度他雄胺可能是更好的选择 (Zhou et al., 2018; Dhurat et al., 2020)。
 
    [350]: https://doi.org/10.2147/CIA.S192435
    [351]: https://doi.org/10.1111/dth.13379
    [352]: https://en.wikipedia.org/wiki/Dutasteride#Scalp_hair_loss
 
-A potentially undesirable effect of 5α-RIs in transfeminine people is that they may increase testosterone levels to a certain degree in those whose testosterone production isn’t fully suppressed (Leinung et al., 2018; [Aly W., 2019][353]; [Traish et al., 2019][354]; Irwig, 2020). It appears that DHT adds significantly to negative feedback on gonadotropin secretion in the pituitary gland in people with testes who have low testosterone levels relative to the normal male range (Traish et al., 2019). The therapeutic implications of this for transfeminine people, if any, are uncertain. 
+5α-RI在女性倾向跨性别者中的一个潜在的不良影响是，它们可能会在一定程度上增加那些睾丸激素分泌没有被完全抑制的人的睾丸激素水平 (Leinung et al., 2018; [Aly W., 2019][353]; [Traish et al., 2019][354]; Irwig, 2020)。相对于正常男性范围，睾丸激素水平低的睾丸患者，DHT似乎大大增加了对垂体促性腺激素分泌的负反馈 (Traish et al., 2019)。这对女性倾向跨性别者的治疗意义，如果有的话，是不确定的。
 
    [353]: https://transfemscience.org/articles/oral-e2-leinung-2018/
    [354]: https://doi.org/10.1016/j.sxmr.2018.06.002
