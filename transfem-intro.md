@@ -191,7 +191,7 @@
    [102]: https://en.wikipedia.org/wiki/Progestogen_(medication)
    [103]: https://en.wikipedia.org/wiki/Antiandrogen
 
-女性化激素治疗的目的是使雌二醇和睾酮水平达到正常女性范围。文献中普遍推荐的范围是雌二醇水平为 100 至 200 pg/mL，睾酮水平低于 50 ng/dL ([Wiki-Table][104])。然而，较高的 200 pg/mL 以上的雌二醇水平在女性化激素治疗中可以帮助抑制睾丸激素水平。血液中的性激素水平可以通过 [血检][105] 测量。这在女性化激素治疗是很有用的，可以确保激素状况已经按照治疗目标进行了令人满意的改变，特别是激素水平在女性范围内。
+女性化激素治疗的目的是使雌二醇和睾酮水平达到正常女性范围。文献中普遍推荐的范围是雌二醇水平为 100 至 200 pg/mL，睾酮水平低于 50 ng/dL ([维基-图表][104])。然而，较高的 200 pg/mL 以上的雌二醇水平在女性化激素治疗中可以帮助抑制睾丸激素水平。血液中的性激素水平可以通过 [血检][105] 测量。这在女性化激素治疗是很有用的，可以确保激素状况已经按照治疗目标进行了令人满意的改变，特别是激素水平在女性范围内。
 
    [104]: https://en.wikipedia.org/wiki/Template:Target_ranges_for_hormone_levels_in_hormone_therapy_for_transgender_women
    [105]: https://en.wikipedia.org/wiki/Blood_test
