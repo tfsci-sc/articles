@@ -701,7 +701,7 @@ CPA是一种孕激素，在更高的剂量下也作为AR拮抗剂 ([Aly W., 2019
    [353]: https://transfemscience.org/articles/oral-e2-leinung-2018/
    [354]: https://doi.org/10.1016/j.sxmr.2018.06.002
 
-Another potentially undesirable action of 5α-RIs is that they inhibit not only the production of DHT but also of certain [neurosteroids][355]. Neurosteroids are steroids that act on the [nervous system][356]—most notably the brain. Examples of neurosteroids that 5α-RIs inhibit the synthesis of include [allopregnanolone][357], which is formed from progesterone, and [3α-androstanediol][358], which is derived from testosterone and DHT. Research suggests that these neurosteroids have significant biological modulatory roles in mood, anxiety, stress, and other cognitive/emotional processes ([King, 2013][359]). Possibly in relation to this, 5α-RIs have been associated with a small risk of depression ([Welk et al., 2018][360]; [Deng et al., 2020][361]; [Dyson, Cantrell, & Lund, 2020][362]; [Nguyen et al., 2020][363]; [Wiki][364]). Claims of other, more significant and persistent side effects with 5α-RIs exist ([Traish, 2020][365]). However, they are based on low-quality reports and are controversial ([Fertig et al., 2016][366]; [Rezende, Dias, & Trüeb, 2018][367]). 
+5α-RI的另一个潜在的不良作用是，它们不仅抑制DHT的产生，而且还抑制某些 [神经类固醇][355]。神经类固醇是作用于 [神经系统][356] 的类固醇—特别是大脑。5α-RI抑制合成的神经类固醇的例子包括 [异孕酮][357]，其由孕酮形成，与 [3α-雄甾二醇][358]，其由由睾酮和DHT产生。研究表明，这些神经类固醇在情绪、焦虑、压力和其他认知/情感过程中具有重要的生物调控作用 ([King, 2013][359])。可能与此有关，5α-RI与抑郁症的轻微风险有关 ([Welk et al., 2018][360]; [Deng et al., 2020][361]; [Dyson, Cantrell, & Lund, 2020][362]; [Nguyen et al., 2020][363]; [维基][364])。存在关于5α-RI的其他更显著和持续的副作用的说法 ([Traish, 2020][365])。然而，它们是基于低质量的报告，并且是有争议的 ([Fertig et al., 2016][366]; [Rezende, Dias, & Trüeb, 2018][367])。
 
    [355]: https://en.wikipedia.org/wiki/Neurosteroid
    [356]: https://en.wikipedia.org/wiki/Nervous_system
@@ -717,7 +717,7 @@ Another potentially undesirable action of 5α-RIs is that they inhibit not only 
    [366]: https://doi.org/10.1159/000450617
    [367]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6369643/
 
-Clinical [dose-ranging studies][368] have found that lower doses of finasteride and dutasteride than are typically used still provide substantial or near-maximal 5α-reductase inhibition ([Gormley et al., 1990][369]; [Vermeulen et al., 1991][370]; [Sudduth & Koronkowski, 1993][371]; [Drake et al., 1999][372]; [Roberts et al., 1999][373]; [Clark et al., 2004][374]; [Frye, 2006][375]; [Olsen et al., 2006][376]; [Harcha et al., 2014][377]; [Kuhl & Wiegratz, 2017][378]). In one study with finasteride for instance, DHT levels decreased by 49.5% at 0.05 mg/day, 68.6% at 0.2 mg/day, 71.4% at 1 mg/day, and 72.2% at 5 mg/day (Drake et al., 1999). Parallel reductions in DHT levels were seen locally in the scalp (Drake et al., 1999). In a study with dutasteride, DHT levels were decreased by 52.9% at 0.05 mg/day, 94.7% at 0.5 mg/day, 97.7% at 2.5 mg/day, and 98.4% at 5 mg/day (Clark et al., 2004). Based on these findings, 5α-RIs can potentially be taken at lower doses to help reduce medication costs if needed. 
+临床 [剂量范围研究][368] 发现，比通常使用的剂量更低的非那雄胺和度他雄胺仍能提供大量或接近最大的5α-还原酶抑制作用 ([Gormley et al., 1990][369]; [Vermeulen et al., 1991][370]; [Sudduth & Koronkowski, 1993][371]; [Drake et al., 1999][372]; [Roberts et al., 1999][373]; [Clark et al., 2004][374]; [Frye, 2006][375]; [Olsen et al., 2006][376]; [Harcha et al., 2014][377]; [Kuhl & Wiegratz, 2017][378])。例如，在一项使用非那雄胺的研究中，DHT水平在0.05mg/天时下降49.5%，0.2mg/天时下降68.6%，1mg/天时下降71.4%，5mg/天时下降72.2% (Drake et al., 1999)。DHT水平的同步降低可以在头皮部分被局部展现 (Drake et al., 1999)。 在一项使用度他雄胺的研究中，DHT水平在0.05mg/天时下降52.9%，0.5mg/天时下降94.7%，2.5mg/天时下降97.7%，5mg/天时下降98.4% (Clark et al., 2004)。基于这些发现，如果需要，5α-RIs有可能可以被以较低的剂量服用，以帮助减少药物费用。
 
    [368]: https://en.wikipedia.org/wiki/Dose-ranging_study
    [369]: https://doi.org/10.1210/jcem-70-4-1136
@@ -731,14 +731,14 @@ Clinical [dose-ranging studies][368] have found that lower doses of finasteride 
    [377]: https://doi.org/10.1016/j.jaad.2013.10.049
    [378]: https://doi.org/10.1007/s10304-017-0126-2
 
-5α-Reductase inhibitors are taken orally in the form of tablets and capsules. 
+5α-还原酶抑制剂是以片剂和胶囊的形式口服。
 
-Table: Available forms and recommended doses of 5α-reductase inhibitors: 
+表格: 5α-还原酶抑制剂的可用形式和推荐剂量: 
 
-| Medication | Route | Form | Dosage |
+| 药片 | 途径 | 形式 | 剂量 |
 | --- | --- | --- | --- |
-| [Dutasteride][379] | Oral | Capsules | 0.05–2.5 mg/day |
-| [Finasteride][380] | Oral | Tablets | 0.05–5 mg/day |
+| [度那雄胺][379] | 口服 | 胶囊 | 0.05–2.5 mg/天 |
+| [非那雄胺][380] | 口服 | 片剂 | 0.05–5 mg/天 |
 
    [379]: https://en.wikipedia.org/wiki/Dutasteride
    [380]: https://en.wikipedia.org/wiki/Finasteride
