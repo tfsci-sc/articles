@@ -566,7 +566,7 @@ AR拮抗剂通过直接阻断雄性激素的作用而发挥作用。它们与AR�
    [284]: https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone_antagonist
    [285]: https://en.wikipedia.org/wiki/Elagolix
 
-雄性激素合成抑制剂可抑制雄性激素的酶介导的合成。它们包括 [5α-还原酶抑制剂][286] (5α-RI)，如 [非那雄胺][287] (保法止) 和 [度他雄胺][288] (适尿通)。还有其他类型的雄激素合成抑制剂，例如强效的 [17α-羟化酶/17,20-还原酶抑制剂][289]，如 [酮康唑][290] (仁山利舒) 和 [醋酸阿比特龙][291] (Zytiga)。然而，这些其他药物有其局限性 (如，[毒性][292], 成本, 未经大量测试)，因而不被用于女性化激素治疗。
+雄性激素合成抑制剂可抑制雄性激素的酶介导的合成。它们包括 [5α-还原酶抑制剂][286] (5α-RI)，如 [非那雄胺][287] (保法止) 和 [度他雄胺][288] (适尿通)。还有其他类型的雄激素合成抑制剂，例如强效的 [17α-羟化酶/17,20-还原酶抑制剂][289]，如 [酮康唑][290] (仁山利舒 (Nizoral)) 和 [醋酸阿比特龙][291] (Zytiga)。然而，这些其他药物有其局限性 (如，[毒性][292], 成本, 未经大量测试)，因而不被用于女性化激素治疗。
 
    [286]: https://en.wikipedia.org/wiki/5%CE%B1-Reductase_inhibitor
    [287]: https://en.wikipedia.org/wiki/Finasteride
@@ -601,24 +601,24 @@ AR拮抗剂螺内酯、比卡鲁胺和CPA都是以片剂形式口服的。
 
 <sup>a</sup> 对于AR拮抗剂螺内酯和比卡鲁胺，假定睾丸激素水平被大幅抑制 (≤200 ng/dL)。如果不是，可能需要更高的剂量。 <sup>b</sup> 对于CPA来说，每天服用四分之一的10mg片剂到一整片10mg片剂。 (2.5–10 mg/天) _或_ 每隔一天或每2至3天吃四分之一片50mg的药片 (4.2–12.5 mg/天)。5至12.5mg/天的剂量可能确保最大限度地抑制睾丸激素，而较低的剂量可能效果较差。
 
-####  Spironolactone 
+####  螺内酯 
 
-Spironolactone is a relatively weak AR antagonist ([Wiki][298]). It is also a weak androgen synthesis inhibitor in addition to AR antagonist—specifically via 17α-hydroxylase/17,20-lyase inhibition ([Wiki][298]). However, it shows limited and highly inconsistent effects on testosterone levels and its primary mechanism of action appears to be via AR blockade ([Aly W., 2018][299]; [Aly W., 2020][300]). Due to its relatively weak AR antagonism, spironolactone is best-suited for blocking female-range or somewhat higher testosterone levels. 
+螺内酯是一种相对较弱的AR拮抗剂 ([维基][298])。除了AR拮抗剂外，它还是一种弱的雄性激素合成抑制剂，特别是通过17α-羟化酶/17,20-酶的抑制作用 ([维基][298])。然而，它对睾丸激素水平的影响有限且极不一致，其主要作用机制似乎是通过AR阻断 ([Aly W., 2018][299]; [Aly W., 2020][300])。由于其相对较弱的AR拮抗作用，螺内酯最适合于阻断女性范围或稍高的睾酮水平。
 
    [298]: https://en.wikipedia.org/wiki/Spironolactone#Pharmacodynamics
    [299]: https://transfemscience.org/articles/spiro-hormone-levels-men-transfem/
    [300]: https://transfemscience.org/articles/spiro-hormone-levels-women/
 
-Spironolactone has [antimineralocorticoid][301] side effects and has a risk of rare but potentially life-threatening [hyperkalemia][302] (high potassium levels) in those with specific risk factors ([Wiki][303]). Monitoring of blood potassium levels during spironolactone therapy is advisable in those with risk factors for high potassium levels, but appears to not be necessary in people without such risk factors ([Plovanich et al., 2015][304]). Risk factors for high potassium levels include old age, kidney disease, concomitant use of other potassium-elevating drugs, and intake of potassium supplements. 
+螺内酯具有 [抗矿物质皮质激素][301] 的副作用，对于有特定风险因素的人来说，有罕见但可能威胁生命的 [高钾血症][302] (高钾水平) ([维基][303])。在螺内酯治疗期间，建议有高血钾风险因素的人监测血钾水平，但对于没有此类风险因素的人似乎没有必要 ([Plovanich et al., 2015][304])。高血钾的风险因素包括老年、肾脏疾病、同时使用其他升钾药物和摄入钾制剂。
 
    [301]: https://en.wikipedia.org/wiki/Antimineralocorticoid
    [302]: https://en.wikipedia.org/wiki/Hyperkalemia
    [303]: https://en.wikipedia.org/wiki/Spironolactone#High_potassium_levels
    [304]: https://www.doi.org/10.1001/jamadermatol.2015.34
 
-####  Bicalutamide 
+####  比卡鲁胺 
 
-Bicalutamide is a potent and highly selective AR antagonist ([Wiki][305]). Due to its relatively high potency, bicalutamide is able at higher doses to substantially block male-range testosterone levels ([Aly W., 2019][306]). Owing to its selectivity for the AR, bicalutamide has no off-target hormonal activity and has almost no side effects in women ([Erem, 2013][307]; [Moretti et al., 2018][308]). As a selective AR antagonist, bicalutamide does not decrease testosterone levels ([Wiki][309]). 
+比卡鲁胺是一种强效和高选择性的AR拮抗剂 ([维基][305])。由于其相对较高的效力，比卡鲁胺能够在较高的剂量下大幅阻断男性范围内的睾酮水平 ([Aly W., 2019][306])。由于其对AR的选择性，比卡鲁胺没有脱靶激素活性，对女性几乎没有副作用 ([Erem, 2013][307]; [Moretti et al., 2018][308])。作为一种选择性的AR拮抗剂，比卡鲁胺不会降低睾丸激素水平 ([维基][309]). 
 
    [305]: https://en.wikipedia.org/wiki/Bicalutamide#Pharmacodynamics
    [306]: https://transfemscience.org/articles/bica-dosage/
@@ -626,12 +626,12 @@ Bicalutamide is a potent and highly selective AR antagonist ([Wiki][305]). Due t
    [308]: https://doi.org/10.1210/jc.2017-01186
    [309]: https://en.wikipedia.org/wiki/Pharmacology_of_bicalutamide#Influences_on_hormone_levels
 
-Bicalutamide has mostly been used to treat men with prostate cancer, but has also been used to treat other androgen-dependent conditions such as excessive facial and/or body hair in women and is becoming increasingly adopted for use in transfeminine people ([Aly W., 2020][310]; [Wiki][311]). 
+比卡鲁胺主要用于治疗男性前列腺癌，但也被用于治疗其他雄性激素依赖性疾病，如女性面部和/或身体毛发过多，并越来越多地被采用于女性倾向跨性别者 ([Aly W., 2020][310]; [维基][311])。
 
    [310]: https://transfemscience.org/articles/bica-adoption/
    [311]: https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide#Transgender_hormone_therapy
 
-Bicalutamide has a small risk of [liver toxicity][312] ([Wiki][313]; [Aly W., 2020][314]) and [lung toxicity][315] ([Wiki][316]). Liver monitoring is advisable during bicalutamide therapy. Older AR antagonists related to bicalutamide like [flutamide][317] (Eulexin) and [nilutamide][318] (Anandron, Nilandron) have much greater health risks in comparison and should not be used in transfeminine hormone therapy. 
+比卡鲁胺有很小的 [肝脏毒性][312] 风险 ([维基][313]; [Aly W., 2020][314]) 和 [肺部毒性][315] ([维基][316])。在比卡鲁胺治疗期间，建议进行肝脏监测。与比卡鲁胺有关的较老的AR拮抗剂，如 [氟他胺][317] (Eulexin) 和 [尼鲁米特][318] (安得乐 (Anandron), Nilandron) ，相比之下，健康风险要大得多，且不应用于女性化激素治疗。 
 
    [312]: http://en.wikipedia.org/wiki/Liver_toxicity
    [313]: https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide#Liver_toxicity
@@ -641,9 +641,9 @@ Bicalutamide has a small risk of [liver toxicity][312] ([Wiki][313]; [Aly W., 20
    [317]: https://en.wikipedia.org/wiki/Flutamide
    [318]: https://en.wikipedia.org/wiki/Nilutamide
 
-####  Cyproterone Acetate 
+####  醋酸环丙孕酮 (CPA) 
 
-CPA is a progestogen that at much higher doses also acts as an AR antagonist ([Aly W., 2019][319]). It has been used at relatively high doses in transfeminine people to take advantage of its AR antagonism ([Aly W., 2019][319]). As a result of the strong progestogenic exposure that occurs with typical doses of CPA, the medication substantially suppresses testosterone levels in addition to its AR antagonism ([Aly W., 2019][319]). Relatively low doses of CPA (e.g., 5–10 mg/day) are able to maximally suppress testosterone levels in combination with even low doses of an estrogen ([Aly W., 2019][319]). Due to a variety of dose-dependent risks with CPA, doses of the medication have come down substantially in recent years. Lower doses of CPA are likely to be purely progestogenic and have minimal or no significant AR antagonism. However, the AR antagonism of higher doses is unnecessary since the combination of CPA with estradiol results in suppression of testosterone levels well into the female range. 
+CPA是一种孕激素，在更高的剂量下也作为AR拮抗剂 ([Aly W., 2019][319])。它已经以相对较高的剂量用于女性倾向跨性别者，以利用其AR拮抗作用 ([Aly W., 2019][319])。作为典型剂量的CPA所带来的强孕激素暴露的结果，除了其AR拮抗作用外，该药物还大幅抑制了睾酮水平 ([Aly W., 2019][319])。相对低剂量的CPA (如 5–10 mg/天) 能够最大限度地抑制睾酮水平，甚至在与低剂量的雌激素结合使用的情况下 ([Aly W., 2019][319])。由于CPA存在各种剂量依赖性风险，近年来，该药物的给药剂量已大幅下降。较低剂量的CPA可能会只成为纯孕激素，仅有很小或不明显的AR拮抗作用。然而，较高剂量的AR拮抗作用是不必要的，因为CPA在与雌二醇结合后可以导致睾酮水平被抑制到女性范围。
 
    [319]: https://transfemscience.org/articles/cpa-dosage/
 
