@@ -735,7 +735,7 @@ CPA是一种孕激素，在更高的剂量下也作为AR拮抗剂 ([Aly W., 2019
 
 表格: 5α-还原酶抑制剂的可用形式和推荐剂量: 
 
-| 药片 | 途径 | 形式 | 剂量 |
+| 药品 | 途径 | 形式 | 剂量 |
 | --- | --- | --- | --- |
 | [度那雄胺][379] | 口服 | 胶囊 | 0.05–2.5 mg/天 |
 | [非那雄胺][380] | 口服 | 片剂 | 0.05–5 mg/天 |
@@ -743,47 +743,47 @@ CPA是一种孕激素，在更高的剂量下也作为AR拮抗剂 ([Aly W., 2019
    [379]: https://en.wikipedia.org/wiki/Dutasteride
    [380]: https://en.wikipedia.org/wiki/Finasteride
 
-####  GnRH Agonists and Antagonists 
+####  GnRH 激动剂和拮抗剂 
 
-GnRH agonists and antagonists (GnRHa) work by blocking the effects of GnRH in the pituitary gland and thereby suppressing LH and FSH secretion. Due to a physiological quirk, they have the same effects in this part of the body. This is because GnRH is normally secreted in pulses, and when the GnRH receptor is activated continuously, as with GnRH agonists, the GnRH receptor in the pituitary gland is desensitized to the point of becoming inactive. Consequently, both GnRH agonists and GnRH antagonists abolish gonadal sex hormone production. GnRHa are like a reversible gonadectomy, and for this reason, are also referred to as “medical castration”. Provided that an estrogen is taken in combination to prevent [sex hormone deficiency][381], GnRHa have essentially no side effects or risks. For these reasons, GnRHa are the ideal antiandrogens for use in transfeminine people. 
+GnRH激动剂和拮抗剂 (GnRHa) 的作用是阻断GnRH在垂体的作用，从而抑制LH和FSH的分泌。一个生理上的特性导致它们在身体的这一部分有相同的效果。这是因为GnRH通常是脉冲式分泌的，而当GnRH受体被持续激活时，如GnRH激动剂，垂体中的GnRH受体就会脱敏而变得不活跃。因此，GnRH激动剂和GnRH拮抗剂都会取消性腺性激素的分泌。GnRHa就像是一种可逆的性腺切除术，因此也被称为 "医学绝育"。只要同时服用雌激素以防止性激素缺乏，GnRHa基本上没有副作用或风险。只要同时服用雌激素以防止 [性激素缺乏][381]，GnRHa基本上没有副作用或风险。由于这些原因，GnRHa是理想的适合女性倾向跨性别者的抗雄激素药物。
 
    [381]: https://en.wikipedia.org/wiki/Hypogonadism
 
-GnRHa are widely used to suppess puberty in adolescent transgender individuals. Unfortunately however, they are very expensive (e.g., ~US$10,000 per year) and medical insurance does not usually cover them for adult transgender people. Consequently, GnRHa are not commonly used in adult transfeminine people at this time. An exception is in the United Kingdom, where GnRH agonists are covered for all adult transgender people by the [National Health Service][382] (NHS). Another exception is [buserelin][383] (Suprefact), which has become available very inexpensively in its nasal spray form from certain Eastern European online pharmacies in recent years ([Aly W., 2018][384]). 
+GnRHa被广泛用于抑制青少年跨性别者的青春期。但不幸的是，这些药物非常昂贵 (例如， 每年约 $10,000 美元) 而且医疗保险通常不包括成年跨性别者。因此，GnRHa目前并不常用于成年女性倾向跨性别者。一个例外是英国，其 [国家卫生服务系统][382] (NHS) 保障所有成年跨性别者的GnRH激动剂。另一个例外是 [布舍瑞林][383] (Suprefact)，近年来某些东欧网上药店已经可以买到非常便宜的鼻腔喷雾剂 ([Aly W., 2018][384]). 
 
    [382]: https://en.wikipedia.org/wiki/National_Health_Service
    [383]: https://en.wikipedia.org/wiki/Buserelin
    [384]: https://transfemscience.org/articles/buserelin-inexpensive/
 
-GnRH agonists cause a brief flare in testosterone levels at the start of therapy ([Wiki][385]). Testosterone levels increase by up to about 1.5- to 2-fold for about 1 week and then decrease thereafter ([Wiki][385]). Castrate levels are reached within 2 to 4 weeks ([Wiki][385]). In contrast, because GnRH antagonists work by blocking the GnRH receptor without initially activating it, there is no testosterone flare with these agents and testosterone levels decrease immediately ([Wiki][385]). Antigonadotropins, for instance estrogens and progestogens, and potent androgen receptor antagonists like bicalutamide, can be used to prevent or blunt the effects of the testosterone flare at the initiation of GnRH agonist therapy if desired ([Wiki][385]). 
+GnRH激动剂在治疗开始时引起睾酮水平的短暂爆发 ([维基][385])。睾酮水平在大约1周内增加1.5-2倍，此后下降 ([维基][385])。绝育水平在2至4周内达到 ([维基][385])。相比之下，由于GnRH拮抗剂是通过阻断GnRH受体而不是最初激活它来发挥作用的，因此使用这些药物不会出现睾酮的爆发，其水平在用药后立即下降 ([维基][385])。如果需要，抗促性腺激素，如雌激素和孕激素，以及强效的雄激素受体拮抗剂，如比卡鲁胺，可用于预防或削弱GnRH激动剂治疗开始时的睾酮爆发的影响 ([维基][385])。
 
    [385]: https://en.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)#GnRH_modulators
 
-GnRH agonists must be injected subcutaneously or intramuscularly once per day or once every one to six months (depending on the formulation). Alternatively, they can be [surgically implanted][386] once a year or used as a [nasal spray][387] two to three times per day. 
+GnRH激动剂必须每天皮下或肌肉注射一次，或每1至6个月注射一次（取决于配方）。另外，也可以每年通过 [手术植入][386] 一次，或作为 [鼻腔喷雾][387] 每天使用两到三次。
 
    [386]: https://en.wikipedia.org/wiki/Subcutaneous_implant
    [387]: https://en.wikipedia.org/wiki/Nasal_spray
 
-Table: Available forms and recommended doses of GnRH agonists: 
+表格: GnRH激动剂的可用形式和推荐剂量: 
 
-| Medication | Brand name | Route | Form | Dosage |
+| 药品 | 品牌 | 途径 | 形式 | 剂量 |
 | --- | --- | --- | --- | --- |
-| [Buserelin][388] | Suprefact, others | SC injection | Solution | 200 μg/day<sup>a</sup> |
-| | | | Implant | 6.3 mg/2 months |
-| | | | | 9.45 mg/3 months |
-| | Intranasal | Nasal spray | 400 µg 3x/day<sup>b,c</sup> |
-| [Goserelin][389] | Zoladex | SC injection | Implant | 3.6 mg/month |
-| | | | | 10.8 mg/3 months |
-| [Histrelin][390] | Supprelin LA, Vantas | SC implant | Implant | 50 mg/year |
-| [Leuprorelin][391] | Lupron, others | IM injection | Solution | 1 mg/day |
-| | Eligard, Lupron Depot, others | IM/SC injection | Suspension | 3.75–7.5 mg/month |
-| | | | | 11.25–22.5 mg/3 months |
-| | | | | 30 mg/4 months |
-| | | | | 45 mg/6 months |
-| | Viadur | SC implant | Implant | 65 mg/year |
-| [Nafarelin][392] | Synarel | Intranasal | Nasal spray | 400–600 μg 2–3x/day |
-| [Triptorelin][393] | Decapeptyl, Trelstar Depot/LA | IM injection | Suspension | 3.75 mg/month |
-| | | | | 11.25 mg/3 months |
+| [布舍瑞林][388] | Suprefact, 及其它 | 皮下注射 | 溶剂 | 200 μg/天<sup>a</sup> |
+| | | | 植入 | 6.3 mg/2 月 |
+| | | | | 9.45 mg/3 月 |
+| | 鼻腔 | 喷雾 | 400 µg 3x/天<sup>b,c</sup> |
+| [戈舍瑞林][389] | 唑拉地尔 (Zoladex) | 皮下注射 | 植入 | 3.6 mg/月 |
+| | | | | 10.8 mg/3 月 |
+| [组氨酸][390] | Supprelin LA, 梵塔斯 (Vantas) | 皮下植入 | 植入 | 50 mg/年 |
+| [亮丙瑞林][391] | Lupron, 及其它 | 肌肉注射 | 溶液 | 1 mg/天 |
+| | Eligard, Lupron Depot, 及其它 | 肌肉或皮下注射 | 悬浮液 | 3.75–7.5 mg/月 |
+| | | | | 11.25–22.5 mg/3 月 |
+| | | | | 30 mg/4 月 |
+| | | | | 45 mg/6 月 |
+| | 维阿杜尔 (Viadur) | 皮下植入 | 植入 | 65 mg/年 |
+| [那法瑞林][392] | 西纳雷尔 (Synarel) | 鼻腔 | 喷雾 | 400–600 μg 2–3x/天 |
+| [特普瑞林][393] | 癸吡胺 (Decapeptyl), Trelstar Depot/LA | 肌肉注射 | 悬浮液 | 3.75 mg/月 |
+| | | | | 11.25 mg/3 月 |
 
    [388]: https://en.wikipedia.org/wiki/Buserelin
    [389]: https://en.wikipedia.org/wiki/Goserelin
@@ -792,7 +792,7 @@ Table: Available forms and recommended doses of GnRH agonists:
    [392]: https://en.wikipedia.org/wiki/Nafarelin
    [393]: https://en.wikipedia.org/wiki/Triptorelin
 
-<sup>a</sup> 500 μg 3x/day for the first week then 200 μg/day. <sup>b</sup> 800 μg 3x/day for the first week then 400 μg 3x/day. <sup>c</sup> 500 μg 2x/day can be used instead of 400 μg 3x/day but is less effective (70% decrease in testosterone levels (to ~180 ng/dL) instead of 90% decrease in testosterone levels (to ~50 ng/dL) per available studies of buserelin for prostate cancer) ([Aly W., 2018][394]; [Wiki][395]).
+<sup>a</sup> 第一周 500 μg 3x/天，之后 200 μg/天。 <sup>b</sup> 第一周 800 μg 3x/天，之后 400 μg 3x/天。 <sup>c</sup> 500 μg 2x/天 可替代 400 μg 3x/天 使用，但会更不有效 (70% 睾酮水平减少 (至 ~180 ng/dL) 而不是 90% 睾酮水平减少 (至 ~50 ng/dL)，根据布舍瑞林治疗前列腺癌的现有研究结果) ([Aly W., 2018][394]; [维基][395]).
 
    [394]: https://transfemscience.org/articles/buserelin-inexpensive/
    [395]: https://en.wikipedia.org/wiki/Buserelin#Pharmacodynamics
