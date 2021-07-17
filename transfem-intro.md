@@ -792,44 +792,44 @@ GnRH激动剂必须每天皮下或肌肉注射一次，或每1至6个月注射�
    [392]: https://en.wikipedia.org/wiki/Nafarelin
    [393]: https://en.wikipedia.org/wiki/Triptorelin
 
-<sup>a</sup> 第一周 500 μg 3x/天，之后 200 μg/天。 <sup>b</sup> 第一周 800 μg 3x/天，之后 400 μg 3x/天。 <sup>c</sup> 500 μg 2x/天 可替代 400 μg 3x/天 使用，但会更不有效 (70% 睾酮水平减少 (至 ~180 ng/dL) 而不是 90% 睾酮水平减少 (至 ~50 ng/dL)，根据布舍瑞林治疗前列腺癌的现有研究结果) ([Aly W., 2018][394]; [维基][395]).
+<sup>a</sup> 第一周 500 μg 3x/天，之后 200 μg/天。 <sup>b</sup> 第一周 800 μg 3x/天，之后 400 μg 3x/天。 <sup>c</sup> 500 μg 2x/天 可替代 400 μg 3x/天 使用，但会更不有效 (70% 睾酮水平减少 (至 ~180 ng/dL) 而不是 90% 睾酮水平减少 (至 ~50 ng/dL)，根据布舍瑞林治疗前列腺癌的现有研究结果) ([Aly W., 2018][394]; [维基][395])。
 
    [394]: https://transfemscience.org/articles/buserelin-inexpensive/
    [395]: https://en.wikipedia.org/wiki/Buserelin#Pharmacodynamics
 
-The first GnRH antagonists were developed for use by once-monthly intramuscular or subcutaneous injection. More recently, orally administered GnRH antagonists such as elagolix and [relugolix][396] have been introduced for medical use ([Aly W., 2018][397]; [Aly W., 2019][398]). They are taken once or twice daily. 
+第一批GnRH拮抗剂是为每月一次的肌肉注射或皮下注射使用而开发的。最近，口服GnRH拮抗剂，如 elagolix 和 [relugolix][396] 已被引入医疗用途 ([Aly W., 2018][397]; [Aly W., 2019][398])。它们可被每天服用一次或两次。
 
    [396]: https://en.wikipedia.org/wiki/Relugolix
    [397]: https://transfemscience.org/articles/elagolix-approval/
    [398]: https://transfemscience.org/articles/relugolix-approval/
 
-Table: Available forms and recommended doses of GnRH antagonists: 
+表格: GnRH拮抗剂的可用形式和推荐剂量: 
 
-| Medication | Brand name | Route | Form | Dosage |
+| 药品 | 品牌 | 途径 | 形式 | 剂量 |
 | --- | --- | --- | --- | --- |
-| [Abarelix][399] | Plenaxis | IM injection | Suspension | 113 mg/month |
-| [Degarelix][400] | Firmagon | SC injection | Solution | 80 mg/month<sup>a</sup> |
-| [Elagolix][401] | Orilissa | Oral | Tablets | 150–200 mg 1–2x/day<sup>b</sup> |
-| [Relugolix][402] | Relumina | Oral | Tablets | 40 mg/day |
+| [阿巴瑞克 (Abarelix)][399] | Plenaxis | 肌肉注射 | 悬浮液 | 113 mg/月 |
+| [地加瑞克 (Degarelix)][400] | Firmagon | 皮下注射 | 溶液 | 80 mg/月<sup>a</sup> |
+| [Elagolix][401] | Orilissa | 口服 | 片剂 | 150–200 mg 1–2x/天<sup>b</sup> |
+| [Relugolix][402] | Relumina | 口服 | 片剂 | 40 mg/天 |
 
    [399]: https://en.wikipedia.org/wiki/Abarelix
    [400]: https://en.wikipedia.org/wiki/Degarelix
    [401]: https://en.wikipedia.org/wiki/Elagolix
    [402]: https://en.wikipedia.org/wiki/Relugolix
 
-<sup>a</sup> First month is 240 mg then 80 mg per month thereafter. <sup>b</sup> 150 mg 1x/day is less effective than 200 mg 2x/day (which provides full gonadal sex-hormone suppression in cisgender women) ([Wiki][403]).
+<sup>a</sup> 第一个月是 240 mg 然后才是 80 mg 每月。<sup>b</sup> 150 mg 1x/天 比 200 mg 2x/天 更不有效 (其仅对顺性别女性的性腺激素进行全面抑制) ([Wiki][403])。
 
    [403]: https://en.wikipedia.org/wiki/Elagolix#Pharmacodynamics
 
-####  Additional Notes 
+####  附记
 
-There is relatively little variability between individuals with antiandrogens. 
+使用抗雄激素的个体之间的差异性相对较小。 
 
-After removal of the gonads, antiandrogens can be discontinued. If unwanted androgen-dependent symptoms occur, such as acne, seborrhea, or scalp hair loss, then a lower dose of an AR antagonist, such as 100 to 200 mg/day spironolactone or 12.5 to 25 mg/day bicalutamide, can be continued. 
+在切除性腺后，可以停止使用抗雄激素。如果出现不必要的雄激素依赖性症状，如痤疮、皮脂溢出或头皮脱发，那么可以继续使用较低剂量的AR拮抗剂，如 100 至 200 mg/天 的螺内酯或 12.5 至 25 mg/天 的比卡鲁胺。 
 
-###  Androgens and Anabolic Steroids 
+###  雄性激素和同化类固醇 
 
-In addition to estrogens, progestogens, and antiandrogens, [androgens/anabolic steroids][404] (AAS) are sometimes added to transfeminine hormone therapy. This is when testosterone levels are low (e.g., below the female average of 30 ng/dL) and androgen replacement is desired. It has been proposed that adequate levels of testosterone may provide benefits such as increased sexual desire, improved mood and energy, positive effects on skin health and [cellulite][405] ([Avram, 2004][406]), and increased muscle size and strength ([Huang & Basaria, 2017][407]). However, there is insufficient clinical evidence to support such benefits at present ([Wiki][408]). In any case, possible options for androgen therapy include [testosterone][409], [dehydroepiandrosterone][410] (DHEA; prasterone), and [nandrolone decanoate][411] (ND) ([Aly W., 2020][412]). 
+除了雌激素、孕激素和抗雄激素外，[雄激素/合成代谢类固醇][404] (AAS) 有时也被用于女性化激素治疗中。这是当睾丸激素水平低时 (如，低于女性平均水平 30 ng/dL)，需要雄性激素替代。有人提出，足够水平的睾丸激素可能会带来一些好处，如增加性欲、改善情绪和能量、对皮肤健康和 [皮下脂肪团][405] 产生积极影响 ([Avram, 2004][406])，以及增加肌肉大小和力量 ([Huang & Basaria, 2017][407])。然而，目前没有足够的临床证据来支持这种好处 ([维基][408])。在任何情况下，雄性激素治疗的可能选择包括 [睾酮][409]，[脱氢表雄酮][410] (DHEA; prasterone) 和 [癸酸诺龙][411] (ND) ([Aly W., 2020][412])。
 
    [404]: https://en.wikipedia.org/wiki/Anabolic_steroid
    [405]: https://en.wikipedia.org/wiki/Cellulite
@@ -841,7 +841,7 @@ In addition to estrogens, progestogens, and antiandrogens, [androgens/anabolic s
    [411]: https://en.wikipedia.org/wiki/Nandrolone_decanoate
    [412]: https://transfemscience.org/articles/nandrolone/
 
-##  Monitoring of Therapy 
+##  治疗的监测 
 
 Transfeminine people on hormone therapy should undergo regular laboratory [monitoring][413] in the form of [blood work][414]. Total estradiol levels and total testosterone levels should be measured to assess the effectiveness of therapy and determine whether medication adjustments may be necessary. Levels of free testosterone, free estradiol, [estrone][415] (E1), dihydrotestosterone (DHT), luteinizing hormone (LH), follicle-stimulating hormone (FSH), and [sex hormone-binding globulin][416] (SHBG) can be also be measured to provide further information although they’re not absolutely necessary. If progesterone is used, progesterone levels can be measured. However, in the specific case of oral progesterone, progesterone levels should be measured with a [mass spectrometry][417]-based test and not with an [immunoassay][418] ([Aly W., 2018][419]; [Wiki][420]). Conversely, either type of assay may be used with non-oral progesterone. 
 
