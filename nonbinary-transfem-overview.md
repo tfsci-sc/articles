@@ -21,7 +21,7 @@
    [8]: https://en.wikipedia.org/wiki/Masculinization
    [9]: https://en.wikipedia.org/wiki/Feminization_(biology)
 
-There are also individuals who seek hormonal feminization and/or [demasculinization][10] but do not actually identify as transgender. These cisgender-identified individuals often refer to themselves as “[femboys][11]”. Communities of these individuals exist on social media sites like [Reddit][12] (e.g., [r/FemboyTransition][13]). Feminization-inclined cisgender people who pursue hormonal transition often have similar preferences as transfeminine non-binary people—one of the most common of which is feminization without [breast development][14]. Sometimes these initially cisgender-identified hormonally transitioning individuals end up progressing to a transgender identity with time. 
+也有一些人寻求荷尔蒙的女性化和/或 [去男性化][10]，但却并不认同自己是跨性别。这些顺性别认同的人们常常称自己为 “[伪娘][11]”。这些人的社区在 [Reddit][12] 等社交媒体网站上存在 (如，[r/FemboyTransition][13])。倾向于女性化的顺性别者在追求激素过渡的时候，常常与女性倾向非二元者有着相似的偏好—其中最常见的是没有 [乳房发育][14] 的女性化。有时，这些起初顺性别认同并接受激素治疗的人们，会随着时间的推移最终发展成跨性别身份。
 
    [10]: https://en.wikipedia.org/wiki/Demasculinization
    [11]: https://www.urbandictionary.com/define.php?term=femboy
@@ -29,7 +29,7 @@ There are also individuals who seek hormonal feminization and/or [demasculinizat
    [13]: https://www.reddit.com/r/femboytransition/
    [14]: https://en.wikipedia.org/wiki/Breast_development
 
-Partial approaches to hormonal transition and even widespread identification as non-binary are fairly recent developments. There is very little written on non-conventional approaches to hormone therapy of this sort in the published literature. Moreover, there are no available [standards or guidelines][15] for such therapy at this time. A number of recent reviews have started to discuss possibilities for non-binary hormone therapy however ([Richards et al., 2016][16]; [Seal, 2017][17]; [Bass et al., 2018][18]; [Cocchetti et al., 2020][19]). There is currently a discordance between the number of people who desire non-conventional hormonal transition and the clinical establishment of such therapy. Consequently, an exploration of the possibilities from a theoretical standpoint would be of value and is the aim of this review. 
+激素过渡的部分方法，甚至对于非二元的广泛认同，都是相当新的发展。在已发表的文献中，关于这种非传统的激素治疗的描写非常少。此外，目前还没有关于这种治疗的可用 [标准或指南][15]。然而，最近的一些综述已经开始讨论非二元激素治疗的可能性 ([Richards et al., 2016][16]; [Seal, 2017][17]; [Bass et al., 2018][18]; [Cocchetti et al., 2020][19])。目前在渴望非传统激素过渡的人数与这种疗法的临床建立之间存在不协调。因此，从理论角度对各种可能性进行探索将是有价值的，也是本综述的目的。
 
    [15]: https://en.wikipedia.org/wiki/Medical_guideline
    [16]: https://doi.org/10.3109/09540261.2015.1106446
@@ -37,11 +37,11 @@ Partial approaches to hormonal transition and even widespread identification as 
    [18]: https://doi.org/10.2146/ajhp180236
    [19]: https://doi.org/10.3390/jcm9061609
 
-As a disclaimer, the ideas in this article are experimental and preliminary. No studies with the goal of partial hormonal transition in transgender people have been conducted as of present and there is no data or evidence in non-binary people to inform the use of such approaches. Instead, we can only extrapolate from theory and research in other groups of people at this time. Examples of these other groups in the case of transfeminine non-binary hormone therapy include cisgender men undergoing hormone therapy for prostate cancer, cisgender men going through treatment for [gynecomastia][20] (male breast development), and transgender women undergoing hormone therapy. For these reasons, the present discussion is exploratory and should not be taken as therapeutic recommendations. 
+作为免责声明，本文中的观点是实验性的和初步的。截至目前，还没有在跨性别人群中进行的以部分激素过渡为目标的研究，也没有在非二元者中的数据或证据证实该种方法的使用。因此，我们目前只能从其他群体的理论和研究中推断。在跨性别非二元激素治疗的情况下，这些其他群体的例子包括接受前列腺癌治疗的顺性别男性、正在接受 [雌性样乳腺发育][20] (男性乳房发育) 治疗的顺性别男性，和接受激素治疗的跨性别女性。由于这些原因，本讨论是探索性的，不应作为治疗建议。
 
    [20]: https://en.wikipedia.org/wiki/Gynecomastia
 
-##  Conventional Transfeminine Hormone Therapy 
+##  传统的女性化激素治疗
 
 The goal of therapy in conventional hormone therapy for transgender women is to produce the maximum degrees of demasculinization and feminization—including breast development—that are possible. This is achieved by suppressing [testosterone][21] levels and increasing [estradiol][22] levels such that they are both within normal adult female ranges. Alternatively, the actions of testosterone can be blocked instead of full suppression of testosterone levels. The relevant hormonal changes are accomplished through the administration of [hormonal medications][23] including [estrogens][24], [progestogens][25], and/or [antiandrogens][26]. Estrogens produce feminization, including breast development, while testosterone suppression causes demasculinization—as well as disinhibits feminization. Estrogens, progestogens, and antiandrogens can all contribute to testosterone suppression. 
 
