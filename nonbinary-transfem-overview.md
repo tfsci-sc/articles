@@ -29,7 +29,7 @@
    [13]: https://www.reddit.com/r/femboytransition/
    [14]: https://en.wikipedia.org/wiki/Breast_development
 
-激素过渡的部分方法，甚至对于非二元的广泛认同，都是相当新的发展。在已发表的文献中，关于这种非传统的激素治疗的描写非常少。此外，目前还没有关于这种治疗的可用 [标准或指南][15]。然而，最近的一些综述已经开始讨论非二元激素治疗的可能性 ([Richards et al., 2016][16]; [Seal, 2017][17]; [Bass et al., 2018][18]; [Cocchetti et al., 2020][19])。目前在渴望非传统激素过渡的人数与这种疗法的临床建立之间存在不协调。因此，从理论角度对各种可能性进行探索将是有价值的，也是本综述的目的。
+激素过渡的部分方法，甚至对于非二元的广泛认同，都是相当新的发展。在已发表的文献中，关于这种非常规的激素治疗的描写非常少。此外，目前还没有关于这种治疗的可用 [标准或指南][15]。然而，最近的一些综述已经开始讨论非二元激素治疗的可能性 ([Richards et al., 2016][16]; [Seal, 2017][17]; [Bass et al., 2018][18]; [Cocchetti et al., 2020][19])。目前在渴望非常规激素过渡的人数与这种疗法的临床建立之间存在不协调。因此，从理论角度对各种可能性进行探索将是有价值的，也是本综述的目的。
 
    [15]: https://en.wikipedia.org/wiki/Medical_guideline
    [16]: https://doi.org/10.3109/09540261.2015.1106446
@@ -41,9 +41,9 @@
 
    [20]: https://en.wikipedia.org/wiki/Gynecomastia
 
-##  传统的女性化激素治疗
+##  常规的女性化激素治疗
 
-The goal of therapy in conventional hormone therapy for transgender women is to produce the maximum degrees of demasculinization and feminization—including breast development—that are possible. This is achieved by suppressing [testosterone][21] levels and increasing [estradiol][22] levels such that they are both within normal adult female ranges. Alternatively, the actions of testosterone can be blocked instead of full suppression of testosterone levels. The relevant hormonal changes are accomplished through the administration of [hormonal medications][23] including [estrogens][24], [progestogens][25], and/or [antiandrogens][26]. Estrogens produce feminization, including breast development, while testosterone suppression causes demasculinization—as well as disinhibits feminization. Estrogens, progestogens, and antiandrogens can all contribute to testosterone suppression. 
+对跨性别女性进行常规激素治疗的目的是产生可能的最大限度的去男性化与女性化——包括乳房发育。这是通过抑制 [睾酮][21] 水平和提高 [雌激素][22] 水平来实现的，使它们都处于正常的成年女性范围内。除了完全抑制睾酮水平，另一种方法是阻断睾酮的作用。相关的激素变化是通过服用 [激素药物][23] 完成的，包括 [雌激素][24]，[孕酮][25]，和/或 [抗雄激素][26]。雌激素产生女性化，包括乳房发育，而睾酮抑制产生去男性化——以及防止抑制女性化。雌激素、孕激素和抗雄激素都可以促进睾酮的抑制。
 
    [21]: https://en.wikipedia.org/wiki/Testosterone
    [22]: https://en.wikipedia.org/wiki/Estradiol
@@ -52,7 +52,7 @@ The goal of therapy in conventional hormone therapy for transgender women is to 
    [25]: https://en.wikipedia.org/wiki/Progestogen_(medication)
    [26]: https://en.wikipedia.org/wiki/Antiandrogen
 
-The specific medications used in conventional [transfeminine hormone therapy][27] include [estradiol][28] and [estradiol esters][29] such as [estradiol valerate][30]; antiandrogens like [spironolactone][31], [bicalutamide][32], and [gonadotropin-releasing hormone (GnRH) agonists][33] and [antagonists][34]; and progestogens such as [progesterone][35] and [cyproterone acetate][36] (CPA). [Androgen synthesis inhibitors][37] such as the [5α-reductase inhibitors][38] (5α-RIs) are also used. 5α-RIs inhibit the metabolism of testosterone into the more potent [dihydrotestosterone][39] (DHT), a conversion which only occurs in certain tissues. They have limited tissue-selective antiandrogenic effects, for instance in skin and hair follicles. 
+常规的 [女性化激素治疗][27] 中使用的具体药物包括 [雌二醇][28] 和 [雌二醇酯][29]，如 [戊酸雌二醇][30]；抗雄激素如 [螺内酯][31]，[比卡鲁胺][32] 和 [促性腺激素释放激素 (GnRH) 激动剂][33] and [拮抗剂][34]；以及孕激素如 [孕酮][35] 和 [醋酸环丙孕酮][36] (CPA)。[雄激素合成抑制剂][37]，如 [5α-还原酶抑制剂][38] (5α-RIs) 也被使用。5α-RI抑制睾酮代谢为更有效的 [双氢睾酮][39] (DHT)，这种转化只发生在某些组织中。它们具有有限的组织选择性抗雄激素作用，体现在在皮肤和毛囊上。
 
    [27]: https://en.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)
    [28]: https://en.wikipedia.org/wiki/Estradiol_(medication)
@@ -68,15 +68,15 @@ The specific medications used in conventional [transfeminine hormone therapy][27
    [38]: https://en.wikipedia.org/wiki/5%CE%B1-Reductase_inhibitor
    [39]: https://en.wikipedia.org/wiki/Dihydrotestosterone
 
-The therapeutic goals of a subset of non-binary transfeminine people are equivalent to those of transgender women and hence are compatible with the effects of conventional transfeminine hormone therapy. That is, the maximum possible feminization, including breast development, and demasculinization are the aims of therapy. Non-binary transfeminine people with these preferences can simply use conventional transfeminine hormone therapy for their hormonal transition as opposed to more experimental and non-conventional partial approaches. 
+一部分非二元女性倾向跨性别者的治疗目标等同于跨性别女性的治疗目标，因此与常规的女性化激素治疗的效果相一致。也就是说，治疗的目的是最大可能的女性化（包括乳房发育）和去男性化。有这些偏好的非二元跨性别者可以简单地使用常规的女性化激素疗法来进行激素过渡，而不是采用更多的实验性和非常规的部分方法。
 
-For a comprehensive introduction to conventional transfeminine hormone therapy, see this article: 
+关于常规的女性化激素治疗的全面介绍，请参见这篇文章：
 
-  * [An Introduction to Hormone Therapy for Transfeminine People][40] (Aly W., 2018)
+  * [女性倾向跨性别者的激素治疗简介 (中译)][40] (Aly W., 2018)
 
-   [40]: https://transfemscience.org/articles/transfem-intro/
+   [40]: https://github.com/tfsci-sc/articles/blob/main/transfem-intro.md
 
-The above article is intended to provide everything one needs to know to achieve a basic understanding of the subject. If you are new to the topic of transgender hormone therapy, it is highly recommended reading prior to continuing in the current article. The introduction covers the sex hormones, their effects, specific hormonal medications used, routes, and dosages for this type of hormone therapy. Much of this information is also applicable to non-conventional transfeminine hormone therapy. 
+上述文章旨在提供人们对跨性别用药实现基本了解所需要的一切内容。如果你刚刚了解跨性别激素治疗这一主题，强烈建议在继续阅读当前文章之前阅读上述文章。该篇文章的介绍涵盖了性激素、它们的影响、使用的具体激素药物、途径和这种激素疗法的剂量。这些信息大部分也适用于非常规的女性化激素治疗。
 
 ##  Partial Transfeminine Hormone Therapy 
 
