@@ -78,16 +78,16 @@
 
 上述文章旨在提供人们对跨性别用药实现基本了解所需要的一切内容。如果你刚刚了解跨性别激素治疗这一主题，强烈建议在继续阅读当前文章之前阅读上述文章。该篇文章的介绍涵盖了性激素、它们的影响、使用的具体激素药物、途径和这种激素疗法的剂量。这些信息大部分也适用于非常规的女性化激素治疗。
 
-##  Partial Transfeminine Hormone Therapy 
+##  部分的女性化激素治疗 
 
-Some non-binary transfeminine people (as well as cisgender-identified individuals seeking hormonal feminization) desire only partial feminization and/or demasculinization. Depending on the specific aims, this can be more complicated and require more thought than conventional transfeminine hormone therapy. The following goals of partial transfeminine hormone therapy may be encountered: 
+一些非二元女性倾向跨性别者 (以及寻求激素女性化的顺性别认同者) 只希望部分女性化和/或去男性化。根据不同的具体目的，这可能比常规的激素治疗更复杂，并需要更多的考量。以下女性化激素治疗的目的可能会被遇到：
 
-  * An intermediate physical and hormonal state between male and female
-  * A more sexually neutral or androgynous appearance
-  * Substantial or maximal feminization and demasculinization with little or no breast development
-  * Substantial or maximal feminization and demasculinization with minimal or no loss of sexual desire, sexual function (i.e., erectile and orgasmic capacity), and/or fertility
+  * 介于男性和女性之间的一种身体和激素状态
+  * 更加中性或雌雄同体的外观
+  * 较多或最大程度上的女性化和去男性化，但较少或没有的乳房发育。
+  * 较多或最大程度上的女性化和去男性化，但较少或没有的性欲与性能力减少 (如，勃起和性高潮能力) 和/或 生育能力
 
-The first option is fairly straightforward in that it can entail what is essentially conventional transfeminine hormone therapy using lower medication doses. This will result in partial testosterone suppression and a mixture of both androgens and estrogens as major active sex hormones. The second option involves deprivation of both androgens and estrogens. While possible, this can have negative consequences as sex hormones are important for maintaining certain aspects of health and well-being. There are ways to avoid or mitigate such consequences however. The third and fourth options are also possible but are more difficult to achieve and require specialized and potentially complex hormonal approaches. 
+第一种选项是相当直接的，因为它仅需常规女性化激素治疗的较低剂量即可完成，这将导致部分睾酮被抑制，雄激素和雌激素混合作为主要的活性性激素。第二种选项涵盖对于雄激素和雌激素两者的去除。虽然这是可能的，但是其也许会产生负面影响，因为性激素对维持健康和良好的某些方面很重要。然而，有一些方法可以避免或减轻这种后果。第三和第四种选择也是可能的，但是更难实现，并需要专门的、可能是复杂的激素疗法。
 
 ##  Suppression and Blockade of Testosterone 
 
