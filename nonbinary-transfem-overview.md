@@ -95,7 +95,7 @@
 
 ###  大剂量孕激素对雄激素的抑制作用 
 
-Androgen deprivation can be achieved with high doses of progestogens, which suppress testosterone levels by up to 50 to 70% ([Aly W., 2019][41]). This is a substantial decrease in testosterone levels, but isn’t quite into the female range. Androgen receptor antagonists can additionally be included to block the remaining testosterone that isn’t suppressed if desired. For these purposes, low-dose cyproterone acetate (e.g., 5.0–12.5 mg/day) ([Aly W., 2019][41]) plus bicalutamide (e.g., 12.5–50 mg/day) or spironolactone (e.g., 200–400 mg/day) is likely to be an effective regimen. As an alternative to cyproterone acetate, high doses of other progestogens, such as just about any other progestin, or alternatively rectal progesterone ([Aly W., 2018][42]), can be used instead. 
+雄激素的去除可以通过大剂量的孕激素来实现，这能够抑制睾酮水平高达50%至70% ([Aly W., 2019][41])。这是一个大幅下降的睾酮水平，但是还没有完全进入女性范围。如果需要，还可以加入雄激素受体拮抗剂，从而阻断未被抑制的剩余睾酮。出于这些目的，低剂量的醋酸环丙孕酮 (如，5.0–12.5 mg/天) ([Aly W., 2019][41]) 以及比卡鲁胺 (如，12.5–50 mg/天) 或螺内酯 (如，200–400 mg/天) 可能是一种有效的治疗方案。作为醋酸环丙孕酮的替代品，可以使用大剂量的其他孕激素，如几乎所有的人工孕酮，或者通过直肠给药的孕酮 ([Aly W., 2018][42])。
 
    [41]: https://transfemscience.org/articles/cpa-dosage/
    [42]: https://transfemscience.org/articles/oral-p4-rectally/
