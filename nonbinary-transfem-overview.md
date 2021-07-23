@@ -89,18 +89,18 @@
 
 第一种选项是相当直接的，因为它仅需常规女性化激素治疗的较低剂量即可完成，这将导致部分睾酮被抑制，雄激素和雌激素混合作为主要的活性性激素。第二种选项涵盖对于雄激素和雌激素两者的去除。虽然这是可能的，但是其也许会产生负面影响，因为性激素对维持健康和良好的某些方面很重要。然而，有一些方法可以避免或减轻这种后果。第三和第四种选择也是可能的，但是更难实现，并需要专门的、可能是复杂的激素疗法。
 
-##  Suppression and Blockade of Testosterone 
+##  睾酮的抑制和阻断
 
-If the goal of non-binary transfeminine hormone therapy is simply to achieve an androgynous appearance with minimal or no feminization, this can be achieved via deprivation of testosterone without concomitant administration of an estrogen. There are multiple ways to achieve androgen deprivation or testosterone suppression in people assigned male at birth. These include high-dose progestogen therapy, medical and surgical castration with GnRH agonists/antagonists or gonadectomy, high-dose androgen receptor antagonist therapy, and a few other other possibilities. In this section, I’ll discuss androgen deprivation largely from the standpoint of efficacy. There are problems with androgen deprivation alone in terms of tolerability and safety due to the co-consequence of estrogen deficiency however, which I’ll discuss in the subsequent section. 
+如果非二元女性化激素治疗的目标仅仅是为了实现中性化的外观，并且尽量减少或不出现女性化的迹象，这可以通过去除睾酮并且不同时给予雌激素来完成。在出生时被指定为男性的人中，有多种方法可以实现雄激素的去除或睾酮的压制。这些方法包括大剂量的孕激素治疗、使用GnRH激动剂/拮抗剂或性腺切除术进行药物和手术去性腺、大剂量雄激素受体拮抗剂治疗，以及其他一些可能性。在本节中，作者将主要从疗效的角度来讨论雄激素去除疗法。然而，由于雌激素缺乏的共同后果，单纯的去除雄激素在耐受性和安全性方面存在问题，这将会被在下一节中讨论。
 
-###  Testosterone Suppression with High Doses of Progestogens 
+###  大剂量孕激素对雄激素的抑制作用 
 
 Androgen deprivation can be achieved with high doses of progestogens, which suppress testosterone levels by up to 50 to 70% ([Aly W., 2019][41]). This is a substantial decrease in testosterone levels, but isn’t quite into the female range. Androgen receptor antagonists can additionally be included to block the remaining testosterone that isn’t suppressed if desired. For these purposes, low-dose cyproterone acetate (e.g., 5.0–12.5 mg/day) ([Aly W., 2019][41]) plus bicalutamide (e.g., 12.5–50 mg/day) or spironolactone (e.g., 200–400 mg/day) is likely to be an effective regimen. As an alternative to cyproterone acetate, high doses of other progestogens, such as just about any other progestin, or alternatively rectal progesterone ([Aly W., 2018][42]), can be used instead. 
 
    [41]: https://transfemscience.org/articles/cpa-dosage/
    [42]: https://transfemscience.org/articles/oral-p4-rectally/
 
-###  Testosterone Suppression with Medical or Surgical Castration 
+###  药物或手术性腺切除对雄激素的抑制作用 
 
 GnRH agonists and antagonists are another option for testosterone suppression. These medications suppress testosterone levels by about 95%, or into the normal female range or male castrate range (<50 ng/dL). However, GnRH agonists and antagonists are very expensive, although there may be some viable options for obtaining them more cheaply (e.g., purchasing from certain online pharmacies/vendors) ([Aly W., 2019][43]). 
 
@@ -110,7 +110,7 @@ Gonadectomy, or surgical removal of the gonads, can be performed as a more perma
 
    [44]: https://en.wikipedia.org/wiki/Real-life_experience_(transgender)
 
-###  Testosterone Blockade with Antiandrogens 
+###  抗雄激素对雄激素的阻断作用 
 
 Androgen receptor antagonists like bicalutamide and spironolactone act by directly binding to the androgen receptor and displacing androgens like testosterone and DHT from the recetor, thereby preventing its activation by these androgens. This is in contrast to therapies that act by suppressing androgen production and levels. 
 
@@ -125,7 +125,7 @@ High-dose bicalutamide is expensive and potentially cost-prohibitive. High-dose 
 
 Some potentially major advantages of high-dose bicalutamide monotherapy are that in contrast to marked or full suppression of testosterone levels, bicalutamide monotherapy largely preserves sexual desire and erectile function and likely does not result in infertility. 
 
-###  Other Options for Testosterone Suppression 
+###  抑制雄激素的其他选项 
 
 Another option is only partial demasculinization, which can be achieved essentially by using lower dosages of the medications discussed above (e.g., cyproterone acetate, bicalutamide). If desired, 5α-reductase inhibitors can be added in this context to more substantially decrease scalp hair loss and body hair growth. Note that if testosterone is more fully suppressed or blocked however, there is likely to be little or no benefit with 5α-reductase inhibitors. 
 
