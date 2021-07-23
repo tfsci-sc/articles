@@ -127,9 +127,9 @@ GnRH激动剂和拮抗剂是抑制睾酮的另外一种选择。这些药物可�
 
 ###  抑制雄激素的其他选项 
 
-Another option is only partial demasculinization, which can be achieved essentially by using lower dosages of the medications discussed above (e.g., cyproterone acetate, bicalutamide). If desired, 5α-reductase inhibitors can be added in this context to more substantially decrease scalp hair loss and body hair growth. Note that if testosterone is more fully suppressed or blocked however, there is likely to be little or no benefit with 5α-reductase inhibitors. 
+另一种选择是仅进行部分去男性化，这基本上可以通过使用较低剂量的上述药物 (如，醋酸环丙孕酮、比卡鲁胺) 来实现。如果需要，在这种情况下可以加入5α-还原酶抑制剂，以更大幅度地减少头皮脱发和体毛生长。需要注意的是，如果睾酮被很充分的抑制或阻断，那么使用5α-还原酶抑制剂的好处可能会很少或完全没有。
 
-Yet another possibility could be to incorporate low-dose [nandrolone decanoate][48], an androgen receptor agonist and anabolic–androgenic steroid (AAS) with much less masculinizing/androgenic effect in skin and hair follicles ([Aly W., 2020][49]). This AAS will help to suppress and replace testosterone levels. Nandrolone decanoate might also have the benefit of helping to maintain sexual desire and function. However, nandrolone decanoate was recently discontinued in the United States. [Oxandrolone][50] is another, similar AAS, but has been associated with liver toxicity. 
+另一种可能性是加入低剂量的 [癸酸诺龙][48]，一种雄性激素受体激动剂和合成代谢雄性激素 (AAS)，对皮肤和毛囊的男性化/雄性激素作用要小的多 ([Aly W., 2020][49])。这种AAS可以帮助抑制和替代睾酮水平。 癸酸诺龙也可能有帮助维持性欲和功能的好处。然而，癸酸诺龙最近在美国已经停产了。[奥沙隆][50] 是另一种类似的AAS，但与肝脏毒性有关。
 
    [48]: https://en.wikipedia.org/wiki/Nandrolone_decanoate
    [49]: https://transfemscience.org/articles/nandrolone/
