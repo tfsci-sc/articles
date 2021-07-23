@@ -102,28 +102,28 @@
 
 ###  药物或手术性腺切除对雄激素的抑制作用 
 
-GnRH agonists and antagonists are another option for testosterone suppression. These medications suppress testosterone levels by about 95%, or into the normal female range or male castrate range (<50 ng/dL). However, GnRH agonists and antagonists are very expensive, although there may be some viable options for obtaining them more cheaply (e.g., purchasing from certain online pharmacies/vendors) ([Aly W., 2019][43]). 
+GnRH激动剂和拮抗剂是抑制睾酮的另外一种选择。这些药物可以将睾酮水平抑制约95%，即进入正常女性范围或性腺去除的男性范围 (<50 ng/dL)。然而，GnRH激动剂和拮抗剂非常昂贵，尽管可能有一些可行的选择可以更便宜地活的它们 (如，从某些网上药店/供应商处购买) ([Aly W., 2019][43])。 
 
    [43]: https://transfemscience.org/articles/buserelin-inexpensive/
 
-Gonadectomy, or surgical removal of the gonads, can be performed as a more permanent alternative to GnRH agonists and antagonists. However, this procedure is expensive (a few thousand dollars USD), requires minor surgery, and can be more difficult to obtain. Most surgeons require letters from gender therapists and [real-life experience][44]; informed-consent surgeons do exist however. Gonadectomy is also irreversible, notably resulting in permanent loss of testes and sterility. In any case, gonadectomy is far less expensive and more convenient than GnRH agonists and antagonists in the long run. 
+性腺切除术，或手术切除性腺，可以作为GnRH激动剂和拮抗剂的一个更永久的替代方法。然而，这种过程很昂贵 (几千美元)，需要做一个小手术，并且可能更难获取。大多数外科医生需要性别治疗师的信件和真实的生活体验 (RLE)；但确实存在知情同意即可的外科医生。性腺切除术也是不可逆的，特别是会造成睾丸的永久性丧失和不育。在任何情况下，从长远来看，性腺切除术比GnRH激动剂和拮抗剂要便宜的多，也更方便。
 
    [44]: https://en.wikipedia.org/wiki/Real-life_experience_(transgender)
 
 ###  抗雄激素对雄激素的阻断作用 
 
-Androgen receptor antagonists like bicalutamide and spironolactone act by directly binding to the androgen receptor and displacing androgens like testosterone and DHT from the recetor, thereby preventing its activation by these androgens. This is in contrast to therapies that act by suppressing androgen production and levels. 
+雄激素受体拮抗剂如比卡鲁胺和螺内酯的作用是直接与雄激素受体结合，将睾酮和双氢睾酮等雄激素从受体中置换出来，从而阻止这些雄激素对其的激活。这与通过抑制雄激素的产生和水平而发挥作用的疗法不同。
 
-High-dose bicalutamide monotherapy (e.g., 150–300 mg/day) is an option for androgen deprivation therapy ([Aly W., 2019][45]). However, bicalutamide monotherapy increases testosterone and hence estradiol levels. The testosterone will be blocked by bicalutamide and will not have effects, but estradiol is increased to a concentration range that allows for marked or full feminization, including breast development. In addition, bicalutamide alone, even at very high doses, might not be enough to completely block male-range testosterone ([Aly W., 2019][45]). With these considerations, if the goal is full demasculinization with no feminization or breast development, bicalutamide monotherapy is not something that, at least alone, can achieve this. 
+高剂量的比卡鲁胺单药治疗 (如，150–300 mg/天) 是雄性激素去除治疗的一种选择 ([Aly W., 2019][45])Ho。然而，比卡鲁胺单药治疗会增加睾酮，从而增加雌二醇水平。睾酮会被比卡鲁胺阻断，不会产生影响，但雌二醇会被增加到允许明显或完全女性化的浓度范围，这包括乳房发育。此外，仅使用比卡鲁胺，即使是非常高的剂量，也可能不足以完全阻断男性范围的睾酮 ([Aly W., 2019][45])。基于这些考量，如果目标是没有女性化或乳房发育的完全去男性化，比卡鲁胺单药治疗本身并不可以实现。
 
    [45]: https://transfemscience.org/articles/bica-dosage/
 
-High-dose bicalutamide is expensive and potentially cost-prohibitive. High-dose spironolactone monotherapy is not a good option for this route as it is a relatively weak antiandrogen and likely falls far short of being able to handle male-range levels of testosterone (at least 200 mg/day appears to be required to fully block female testosterone levels; [Aly W., 2018][46]; [Wiki][47]). Concomitant partial suppression of testosterone and estrogen levels via additional use of a progestogen (e.g., cyproterone acetate) may be a more feasible option than an androgen receptor antagonist alone. 
+高剂量的比卡鲁胺是昂贵的，这可能令人难以承受。高剂量的螺内酯单药治疗不是这种途径的好选择，因为它是一种相对较弱的抗雄激素，可能远远不能处理男性范围内的睾酮水平 (似乎需要至少 200 mg/天 才能完全阻止女性睾酮水平; [Aly W., 2018][46]; [维基][47])。通过额外使用孕激素 (如，醋酸环丙孕酮) 同时部分抑制睾酮和雌激素水平可能是比单独使用雄激素受体拮抗剂更可行的选择。
 
    [46]: https://transfemscience.org/articles/spiro-hormone-levels-men-transfem/
    [47]: https://en.wikipedia.org/wiki/Pharmacodynamics_of_spironolactone#Antiandrogenic_activity
 
-Some potentially major advantages of high-dose bicalutamide monotherapy are that in contrast to marked or full suppression of testosterone levels, bicalutamide monotherapy largely preserves sexual desire and erectile function and likely does not result in infertility. 
+高剂量比卡鲁胺单药治疗的一些潜在主要优势是，与明显或完全抑制睾酮水平相比，比卡鲁胺单药治疗在很大程度上保留了性欲和勃起功能，并且可能不会导致不孕。
 
 ###  抑制雄激素的其他选项 
 
