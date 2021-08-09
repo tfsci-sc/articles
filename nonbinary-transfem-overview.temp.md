@@ -12,9 +12,9 @@ Notice: This page was [originally posted as a thread in r/MtFHRT on Reddit and h
 
    [2]: https://transfemscience.org/articles/announcement/
 
-##  Introduction 
+##  介绍 
 
-“[Non-binary][3]” is a term that refers to transgender people who do not identify within the [gender binary][4]. Despite the fact that they do not identify as either male or female, many non-binary [transmasculine][5] and [transfeminine][6] people pursue hormone therapy just like transgender men and women. While some non-binary individuals opt for a full hormonal transition similarly to most binary-identified transgender people, many non-binary people would prefer only a partial hormonal transition. This could be to achieve an intermediate area between [masculine and feminine characteristics][7], to achieve a more [sexually neutral appearance][8], or to induce some but not all aspects of [masculinization][9] or [feminization][10]. 
+“[非二元][3]” 指的是不认同自身属于 [性别二元][4] 范畴内的跨性别人群。尽管ta们不认同于男性或女性，许多非二元 [男性倾向跨性别者][5] 和 [女性倾向跨性别者][6] 仍希望接受激素治疗，就像跨性别男性和女性一样。虽然有些非二元者选择了像多数认同二元性别的跨性别者一样的完整激素过渡，许多非二元者更倾向于仅实现部分激素过渡。这可能是为了实现在 [男性与女性特征][7] 之间的一个中间区域，从而实现更 [性别中立的外观][8]，或诱导一部分但不是全部方面的 [男性化][9] 或 [女性化][10]。
 
    [3]: https://en.wikipedia.org/wiki/Non-binary_gender
    [4]: https://en.wikipedia.org/wiki/Gender_binary
