@@ -1,16 +1,14 @@
 #  对非二元女性倾向跨性别者的激素治疗可能性的探索
 
-## 这个版本的翻译基于原作者的**过时**版本，并将停止维护
-
-## 原作者在2021年8月重写了该篇文章。新版的翻译请[戳我](https://github.com/tfsci-sc/articles/blob/main/nonbinary-transfem-overview.md)
-
-| 作者 [Aly W.][1] | 首次出版于 二零一九年六月十三日 | 最后修改于 二零二一年六月二十二日 |
+| 作者 [Aly W.][1] | 首次出版于 二零一九年六月十三日 | 最后修改于 二零二一年八月六日 |
 | --- | --- | --- |
 
    [1]: https://transfemscience.org/about/#aly-w
    
 | 译者 yucandy | 翻译于 二零二一年七月二十一日 |
 | --- | --- |
+
+Notice: This page was [originally posted as a thread in r/MtFHRT on Reddit and has not yet been properly or fully revised][https://transfemscience.org/articles/announcement/] since being moved to Transfeminine Science. 
 
 ##  介绍
 
@@ -377,10 +375,18 @@ Ada S. Cheung of [Trans Health Research][167] in Australia is a co-author on the
 
    [167]: https://www.transresearch.org.au/
 
+A handful of additional but more limited mentions as well as use instances of SERMs for non-binary transfeminine and transmasculine people have also occurred previously in the literature ([Carswell & Roberts, 2017][168]; [Moser & Devereux, 2019][169]; [Pang et al., 2020][170]; [Naroji et al., 2021][171]). 
+
+   [168]: https://doi.org/10.1089/trgh.2017.0021
+   [169]: https://doi.org/10.1007/s11930-019-00221-y
+   [170]: https://doi.org/10.1542/peds.2019-1606
+   [171]: https://doi.org/10.1016/j.jpag.2021.02.063
+
 ##  Supplementary Material 
 
-An interesting anecdotal report of hormone therapy with bicalutamide 50 mg/day + cyproterone acetate 12.5 mg/day + raloxifene 60 mg/day in a formerly self-identified femboy can be found [here][168] ([PDF][169]). 
+An interesting anecdotal report of hormone therapy with bicalutamide 50 mg/day + cyproterone acetate 12.5 mg/day + raloxifene 60 mg/day in a formerly self-identified femboy can be found [here][172] ([PDF][173]). 
 
-   [168]: https://docs.google.com/document/d/1PYWaZaHazpbyOtGEWIq4krsVmqLxENIhFqJW4fBuXv8/view
-   [169]: https://docdro.id/4iy0Lkj
+   [172]: https://docs.google.com/document/d/1PYWaZaHazpbyOtGEWIq4krsVmqLxENIhFqJW4fBuXv8/view
+   [173]: https://docdro.id/4iy0Lkj
+
 
