@@ -8,7 +8,7 @@
 | 译者 yucandy | 翻译于 二零二一年七月二十一日 |
 | --- | --- |
 
-注意: 本页 [最初是作为 Reddit 上 r/MtFHRT 的一个主题发布的](https://transfemscience.org/articles/announcement/)，自从被转移到Transfeminine Science后，尚未进行适当或全面的修订。
+注意: 本页 [最初是作为 Reddit 上 r/MtFHRT 的一个主题发布的](https://transfemscience.org/articles/announcement/)，自从被转移到 Transfeminine Science 后，尚未进行适当或全面的修订。
 
 ##  介绍
 
