@@ -8,7 +8,7 @@
 | 译者 yucandy | 翻译于 二零二一年七月二十一日 |
 | --- | --- |
 
-主义: 本页 [最初是作为 Reddit 上 r/MtFHRT 的一个主题发布的](https://transfemscience.org/articles/announcement/)，自从被转移到Transfeminine Science后，尚未进行适当或全面的修订。
+注意: 本页 [最初是作为 Reddit 上 r/MtFHRT 的一个主题发布的](https://transfemscience.org/articles/announcement/)，自从被转移到Transfeminine Science后，尚未进行适当或全面的修订。
 
 ##  介绍
 
@@ -137,7 +137,7 @@ GnRH激动剂和拮抗剂是抑制睾酮的另外一种选择。这些药物可�
    [49]: https://transfemscience.org/articles/nandrolone/
    [50]: https://en.wikipedia.org/wiki/Oxandrolone
 
-##  Estrogen Deficiency and Replacement 
+##  雌激素的缺乏和替代
 
 While androgen deprivation therapy is effective for achieving the desired changes—specifically demasculinization without feminization—it is not recommended by itself. This is because estradiol is produced from testosterone and hence androgen deprivation results in estrogen deficiency as well. Estrogens are essential for maintaining [bone density][51] in both men and women, and without them, a person will quickly lose bone mass, eventually develop [osteoporosis][52], and be at a high risk for bone fractures. Skeletal and postural disfigurement may also eventually occur ([Figure][53]; [Figure][54]). In addition, the person is likely to experience other [menopause][55]-like symptoms, such as [hot flashes][56], mood and sleep problems, sexual dysfunction (e.g., low sexual desire, erectile dysfunction), and accelerated aging of the skin ([Wiki][57]). An increased risk of weight gain, type 2 diabetes, cardiovascular disease, and dementia may be associated with sex hormone deficiency as well. As such, extended deprivation of both androgens and estrogens with no estrogenic supplementation is not advisable. 
 
