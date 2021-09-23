@@ -206,9 +206,9 @@ SERM 对维持骨密度是有效的。然而，不幸的是，它们在骨中只
    [92]: https://en.wikipedia.org/wiki/Template:Hormone_levels_in_gonadally_intact_adolescent_and_adult_females_with_complete_androgen_insensitivity_syndrome
    [93]: https://doi.org/10.1016/S1470-2045(05)70464-2
 
-###  Other Therapies for Bone Maintenance 
+###  维护骨骼的其他疗法 
 
-In addition to SERMs and estrogens, other measures to maintain bone mineral density are effective and could be included for further benefit to bone health. Examples include [calcium supplementation][94], [vitamin D supplementation][95], and [bisphosphonates][96] like [alendronic acid][97] (Fosamax) and [zoledronic acid][98] (Zometa) ([Chen, Ko, & Chen, 2019][99]; [Rizzoli, 2018][100]). Bisphosphonates have adverse effects and risks however. [Weight-bearing][101] [exercise][102] is also beneficial for bone density (Rizzoli, 2018). 
+除 SERMs 和雌激素外，其他保持骨矿物质密度的措施也很有效，可以纳入其中，以进一步有利于骨骼健康。例如，[补充钙质][94]，[补充维生素D][95] 和 [双磷酸盐][96]，如 [阿仑膦酸][97] (Fosamax) 和 [唑来膦酸][98] (Zometa) ([Chen, Ko, & Chen, 2019][99]; [Rizzoli, 2018][100])。然而，双膦酸盐有不良反应和风险。[负重][101][运动][102] 也对骨密度有益 (Rizzoli, 2018)。
 
    [94]: https://en.wikipedia.org/wiki/Calcium_supplement
    [95]: https://en.wikipedia.org/wiki/Vitamin_D#Use_of_supplements
@@ -220,7 +220,7 @@ In addition to SERMs and estrogens, other measures to maintain bone mineral dens
    [101]: https://en.wikipedia.org/wiki/Weight-bearing
    [102]: https://en.wikipedia.org/wiki/Exercise
 
-Interestingly, spironolactone was found at 100 mg/day to fully prevent GnRH agonist-induced bone density loss in women in a small randomized controlled trial ([Moghetti et al., 1999][103]). The authors hypothesized that this was due to its [antimineralocorticoid][104] activity, as [aldosterone][105] is negatively correlated with bone density (Moghetti et al., 1999). However, in another study, 100 mg/day spironolactone did not prevent bone density loss caused by high-dose progestogen therapy in the form of 5 mg/day [lynestrenol][106] in women ([Preželj & Kocijančič, 1994][107]; [Preželj & Kocijančič, 1999][108]). Hence, spironolactone shouldn’t be relied upon for preservation of bone density. 
+有趣的是，在一项小型随机对照试验中发现，100 mg/天 的螺内酯可以完全防止 GnRH 激动剂引起的妇女骨密度下降 ([Moghetti et al., 1999][103])。作者推测这是由于其 [抗矿物质皮质激素][104] 的活性，因为 [醛固酮][105] 与骨密度呈负相关 (Moghetti et al., 1999)。然而，在另一项研究中，100 mg/天 的螺内酯并不能防止妇女因以 5 mg/天 的 [炔诺酮][106] 大剂量孕激素治疗所引起的骨密度下降 ([Preželj & Kocijančič, 1994][107]; [Preželj & Kocijančič, 1999][108])。因此，不应该依靠螺内酯来保护骨密度。 
 
    [103]: https://doi.org/10.1210/jcem.84.4.5606
    [104]: https://en.wikipedia.org/wiki/Antimineralocorticoid
@@ -229,9 +229,9 @@ Interestingly, spironolactone was found at 100 mg/day to fully prevent GnRH agon
    [107]: https://doi.org/10.1055/s-2007-1000771
    [108]: https://doi.org/10.1210/jcem.84.12.4747a
 
-###  Onset and Reversibility of Bone Loss 
+###  骨质疏松的开始和可逆性 
 
-Certain medications used in premenopausal women suppress gonadal sex hormone production and are associated with decreased bone density. These therapies can provide insight on the risk of bone density loss that may occur in non-binary transfeminine people deprived of sex hormones. Examples of such medications include progestogen-only birth control, which partially suppresses estradiol levels (to around 20–50 pg/mL) (Hadji, Colli, & Regidor, 2019), and GnRH agonists/antagonists, which partially to fully suppress estradiol levels depending on the medication and dose. Minimal or no bone density loss occurs with estradiol levels of 30 to 50 pg/mL, whereas significant bone density loss occurs with estradiol levels of 20 to 30 pg/mL (Hadji, Colli, & Regidor, 2019). Reassuringly however, bone density has been found to substantially or fully recover within a few years following discontinuation of progestogen-only birth control in young premenopausal women ([Nelson, 2010][109]). Along similar lines, therapy with the GnRH antagonist [elagolix][110] is considered to be acceptably safe in premenopausal women for up to 2 years at a dose that results in partial suppression of estradiol levels (to about 40 pg/mL) and for up to 6 months at a dose that results in maximal suppression of estradiol levels (to about 10 pg/mL) ([Wiki][111]). As such, a limited period of sex hormone deprivation—for instance as a trial of non-binary transfeminine hormone therapy—may be reasonably safe in terms of bone health. Long-term therapy should include adequate measures to avoid bone density loss however. 
+某些用于绝经前妇女的药物抑制了性腺性激素的分泌，并与骨密度下降有关。这些疗法可以为非二元女性倾向跨性别者者剥夺性激素厚的骨密度下降风险提供启示。这些药物包括纯孕激素避孕药，其部分抑制雌二醇水平 (至大约 20–50 pg/mL) (Hadji, Colli, & Regidor, 2019)，以及 GnRH 激动剂/拮抗剂，其部分到完全抑制雌二醇水平，取决于药物和剂量。雌二醇水平为 30 至 50 pg/mL时，骨密度损失微弱或没有，而当雌二醇水平为 20 至 30 pg/mL 时，骨密度损失明显 (Hadji, Colli, & Regidor, 2019)。然而，令人欣慰的是，在绝经前的年轻妇女中，在停止使用纯孕激素避孕药后的几年内，骨密度已被发现大幅或完全恢复 ([Nelson, 2010][109])。相似的，GnRH 拮抗剂 [elagolix][110] 的治疗被认为对绝经前妇女在两年期内是相对安全的，其剂量可导致部分抑制雌二醇水平 (至约 40 pg/mL)，以及在最多六月内最大限度的限制雌二醇 (至约 10 pg/mL) ([维基][111])。因此，有限的性激素剥夺 -- 例如，作为非二元女性倾向跨性别者的试验期 -- 可能在骨骼健康方面是比较安全的。然而，长期的治疗应包括合适的措施，以避免骨密度的损失。
 
    [109]: https://doi.org/10.1586/eog.10.60
    [110]: https://en.wikipedia.org/wiki/Elagolix
