@@ -189,16 +189,16 @@ SERM 对维持骨密度是有效的。然而，不幸的是，它们在骨中只
    [83]: https://doi.org/10.1359/jbmr.2001.16.11.2118
    [84]: https://doi.org/10.1080/13625187.2020.1743828
 
-###  Low-Dose Estrogen Supplementation 
+###  低剂量雌激素补充 
 
-An alternative to SERMs for avoiding estrogen deficiency is low-dose estrogen therapy. A dosage of oral estradiol of about 1 to 2 mg/day or estradiol levels of about 30 to 50 pg/mL (via another route, for instance transdermal patches) is all that is needed for complete or near-complete prevention of bone density loss ([Barbieri, 1992][85]; [Roux, 1997][86]; [Hadji, Colli, & Regidor, 2019][87]). Moreover, estradiol has a better tolerability and safety profile than SERMs, with a much lower risk of blood clots ([Aly W., 2020][88]). 
+为避免雌激素缺乏，SERM的一个替代方法是低剂量雌激素疗法。完全或接近完全地预防骨密度下降可以通过 1至2 mg/天 的口服雌二醇或 30至50 pg/mL (通过其他途径，如透皮贴片) 实现 ([Barbieri, 1992][85]; [Roux, 1997][86]; [Hadji, Colli, & Regidor, 2019][87])。此外，雌二醇比 SERMs 具有更好的耐受性和安全性，血栓的风险要低得多 ([Aly W., 2020][88])。
 
    [85]: https://doi.org/10.1016/0002-9378(92)91706-G
    [86]: https://pubmed.ncbi.nlm.nih.gov/9513613/
    [87]: https://doi.org/10.1007/s00198-019-05103-6
    [88]: https://transfemscience.org/articles/estrogens-coagulation-blood-clots/
 
-A problem with estrogen therapy however is that in the absence of androgens, estrogens even at low levels will induce substantial feminization and breast development. Estradiol levels in normal cisgender girls gradually increase from around 5 to 10 pg/mL at the start of puberty to 50 or 60 pg/mL by late puberty, and these low levels produce full developent of the female secondary sex characteristics ([Aly W., 2020][89]). Similarly, cisgender females with [complete androgen insensitivity syndrome][90] (CAIS) have estradiol levels of only about 35 pg/mL on average yet have complete feminization and excellent breast development ([Aly W., 2020][91]; [Wiki-Table][92]). Hence, the addition of low-dose estradiol to androgen deprivation would likely be a full transition. Very low doses of estradiol, for instance 0.5 mg/day oral estradiol or a 14 μg/day estradiol patch, achieving estradiol levels of only maybe 20 pg/mL, may be feasible and may result in less feminization. But, while effective for improving bone density (Dane et al., 2007; Birzniece et al., 2012), such doses/levels would not fully protect against bone density loss and other menopause-like symptoms and would likely still produce at least partial feminization. It’s notable that even GnRH agonists/antagonists and gonadectomy alone—which reduce estradiol levels to around 10 pg/mL—have a rate of mild gynecomastia of as high as 15% ([Di Lorenzo et al., 2005][93]). 
+然而，雌激素治疗的一个问题是，在没有雄性激素的情况下，雌激素即使在低水平也会诱发显著的女性化和乳房发育。正常顺性别女孩的雌二醇水平从青春期开始时的 5 至 10 pg/mL 逐渐增加到青春期后期的 50 或 60 pg/mL，这些低水平的雌二醇会产生女性第二性征的全面发展 ([Aly W., 2020][89])。相似的，患有 [完全雄性激素不敏感综合征][90] (CAIS) 的顺性别女性的雌二醇水平平均只有 35 pg/mL 左右，但却有完全的女性化和出色的乳房发育 ([Aly W., 2020][91]; [维基-图表][92])。因此，在剥夺雄性激素的基础上加入低剂量的雌二醇，很可能导致完全的过渡。非常低剂量的雌二醇，例如 0.5 mg/天 的口服雌二醇或 14 μg/天 的雌二醇贴片，达到的雌二醇水平也许只有 20 pg/mL，可能是可行的，并可能导致较少的女性化。但是，虽然对改善骨密度有效 (Dane et al., 2007; Birzniece et al., 2012)，但这种剂量/水平不能完全防止骨密度损失和其他类似更年期的症状，并可能仍然产生至少部分女性化。值得注意的是，即便仅是在完成性腺切除后使用 GnRH 激动剂/拮抗剂 -- 将雌二醇水平降低到 10 pg/mL 左右 -- 也有约 15% 的轻度乳房发育概率 ([Di Lorenzo et al., 2005][93])。
 
    [89]: https://transfemscience.org/articles/hormone-levels-female-puberty/
    [90]: https://en.wikipedia.org/wiki/Complete_androgen_insensitivity_syndrome
