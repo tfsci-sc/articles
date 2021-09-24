@@ -237,20 +237,20 @@ SERM 对维持骨密度是有效的。然而，不幸的是，它们在骨中只
    [110]: https://en.wikipedia.org/wiki/Elagolix
    [111]: https://en.wikipedia.org/wiki/Elagolix#Medical_uses
 
-##  Prevention of Breast Development 
+##  乳房发育的预防 
 
-###  Estrogen Blockade and Suppression 
+###  雌激素阻断和抑制 
 
-If the goal is to produce full demasculinization and some or full feminization with the sole exception of breast development, there are a number of ways to possibly achieve this. Androgen deprivation without estrogen supplementation will achieve demasculinization without any feminization or breast development (except for bicalutamide monotherapy of course). However, it’s not recommended for reasons described above and wouldn’t provide feminization. SERMs are an option; in addition to their capacity to treat osteoporosis, they are used to treat gynecomastia in men, and are capable of fully blocking gynecomastia induced by estrogens when used at sufficient doses ([Fentiman, 2018][112]). However, SERMs may allow for only partial feminization rather than full. [Aromatase inhibitors][113], in contrast to SERMs, have no apparent place in this form of hormone therapy, as they are, surprisingly, poorly effective for prevention of gynecomastia ([Fagerlund et al., 2015][114]; [Bedognetti et al., 2010][115]). 
+如果用药的目标是没有乳房发育的完全去男性化和一些或完全女性化，有许多方法可以实现这一目标。剥夺雄性激素而不补充雌性激素将实现没有任何女性化或乳房发育的乳房发育 (当然比卡鲁胺单疗除外)。然而，由于上文讲到的原因，不推荐使用这种方法，这种方法也不会提供女性化。SERM 是一种选择；除了治疗骨质疏松症的能力外，它们还用于治疗男性的乳房发育，当使用足够的剂量时，能够完全阻断雌激素诱发的乳房发育 ([Fentiman, 2018][112])。然而，SERM 可能只允许部分女性化，而不是完全女性化。[芳香化酶抑制剂][113]，与 SERM 相反，在这种形式的激素治疗中没有什么用处，因为它们反倒对预防乳房发育的效果很差 ([Fagerlund et al., 2015][114]; [Bedognetti et al., 2010][115])。
 
    [112]: https://doi.org/10.5152/ejbh.2017.3841
    [113]: https://en.wikipedia.org/wiki/Aromatase_inhibitor
    [114]: https://doi.org/10.1371/journal.pone.0136094
    [115]: https://doi.org/10.1515/JPEM.2010.23.1-2.205
 
-###  Increased Testosterone Levels as a Problem with SERMs 
+###  SERM 导致的睾酮水平升高问题
 
-A problem with the use of SERMs to prevent breast development is that when they are used in a person assigned male at birth in whom the gonads are intact and testosterone levels are not suppressed, they will induce a substantial increase in gonadal testosterone production and hence circulating testosterone levels. In men with hypogonadism (low testosterone levels), the SERMs [clomifene][116] (20–50 mg/day) and [enclomifene][117] (12.5–25 mg/day) increase testosterone levels from about 200–300 ng/dL to about 450–600 ng/dL on average (a change of about 2.0- to 2.5-fold, with an absolute increase of 250–400 ng/dL in this patient population) ([Bach, Najari, & Kashanian, 2016][118]; [Trost & Khera, 2014][119]). Because they are so effective at increasing testosterone levels, SERMs are used to treat male hypogonadism as an alternative to exogenous testosterone administration. Worse still, SERMs appear to cause even greater increases in testosterone levels in non-hypogonadal men. One study found that 50 mg/day clomifene increased testosterone levels by about 850 ng/dL in healthy younger men and by about 500 ng/dL in elderly men (Trost & Khera, 2014). Similarly, strong increases in testosterone levels have been observed with partial suppression of estradiol levels via aromatase inhibition in young and older men ([T’Sjoen et al., 2005][120]; [Raven et al., 2006][121]; [de Ronde et al., 2009][122]). 
+使用 SERM 预防乳房发育的一个问题是，当它们用于出生性别为男性并拥有完整性腺的人时，如果睾酮水平没有被抑制，它们将诱发性腺睾酮分泌的大幅增加，从而使循环睾酮水平上升。在患有性腺功能低下 (睾酮水平低) 的男性中，SERM [氯美酚][116] (20–50 mg/天) 和 [恩氯米芬][117] (12.5–25 mg/天) 平均将睾酮水平从约 200–300 ng/dL 至约 450–600 ng/dL (变化约为 2.0 至 2.5 倍，在该患者群体中绝对水平增加 250–400 ng/dL) ([Bach, Najari, & Kashanian, 2016][118]; [Trost & Khera, 2014][119])。由于 SERM 在提高睾酮水平方面非常有效，因此其被用来治疗男性性腺功能减退症，作为外源性睾酮给药的替代品。更糟糕的是，SERM 似乎会导致非性腺功能减退症男性的睾酮水平有更大的提高。一项研究发现，50 mg/天的氯米芬使健康的年轻男性的睾酮水平增加了约 850 ng/dL，使老年男性的睾酮水平增加了约 500 ng/dL (Trost & Khera, 2014)。同样，在年轻和老年男性中，通过抑制芳香化酶部分抑制雌二醇水平，也观察到了睾丸激素水平的强劲增长 ([T’Sjoen et al., 2005][120]; [Raven et al., 2006][121]; [de Ronde et al., 2009][122])。
 
    [116]: https://en.wikipedia.org/wiki/Clomifene
    [117]: https://en.wikipedia.org/wiki/Enclomifene
