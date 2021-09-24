@@ -268,7 +268,7 @@ SERM 对维持骨密度是有效的。然而，不幸的是，它们在骨中只
 
    [124]: https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis
 
-With all of that said however, the combination of bicalutamide and tamoxifen has been assessed in various studies in men with prostate cancer ([PubMed][125]), and increases in testosterone levels have, rather surprisingly, not been a problem in these studies. In terms of the findings, bicalutamide and tamoxifen together do, as expected, increase total testosterone levels. However, the rise in total testosterone levels is not much different from that which occurs with bicalutamide alone. Moreover, free testosterone levels are either increased to a certain degree or are not actually raised at all ([Boccardo et al., 2005][126]; [Saltzstein et al., 2005][127]; [Fradet et al., 2007][128]). This is thought to be due to the fact that SERMs have potent estrogenic effects in the liver and result in increased production of [sex hormone-binding globulin][129] (SHBG), consequently reducing the fraction of free and hence bioactive testosterone in the circulation. This serves to offset the biological influence of the increase in total testosterone levels. In accordance, and reassuringly, unfavorable changes in markers of androgen receptor signaling, like higher [prostate-specific antigen][130] (PSA) levels, have not been observed relative to bicalutamide alone in the studies. 
+然而，尽管如此，比卡鲁胺和他莫昔芬的组合已经在各种研究中对男性前列腺癌患者进行了评估 ([PubMed][125])，而且令人惊讶的是，在这些研究中，睾酮水平的增加并不是一个问题。就研究结果而言，比卡鲁胺和他莫昔芬一起使用，确实如预期的那样，增加了总睾酮水平。然而，总睾酮水平的上升与单独使用比卡鲁胺的情况没有太大区别。此外，游离睾酮水平要么增加到一定程度，要么实际上根本没有提高 ([Boccardo et al., 2005][126]; [Saltzstein et al., 2005][127]; [Fradet et al., 2007][128])。这被认为是由于 SERM 在肝脏中具有强大的雌激素作用，并导致 [性激素结合球蛋白][129] (SHBG) 的产生增加，从而减少了循环中的游离睾酮的部分，因而具有生物活性。这有助于抵消总睾酮水平增加的生物学影响。因此，令人欣慰的是，相对于单用比卡鲁胺而言，在研究中没有观察到雄激素受体信号的不利变化，如 [前列腺特异性抗原][130] 水平升高。
 
    [125]: https://pubmed.ncbi.nlm.nih.gov/?term=bicalutamide[title]+tamoxifen[title]
    [126]: http://doi.org/10.1200/JCO.2005.12.013
@@ -277,14 +277,14 @@ With all of that said however, the combination of bicalutamide and tamoxifen has
    [129]: https://en.wikipedia.org/wiki/Sex_hormone-binding_globulin
    [130]: https://en.wikipedia.org/wiki/Prostate-specific_antigen
 
-It’s not clear why studies of bicalutamide plus tamoxifen have observed increases in total testosterone levels that are not that different from those of bicalutamide alone. Whatever the reason, these studies suggest that the combination of bicalutamide and tamoxifen (or certain other SERMs) might actually be feasible still for non-conventional feminizing hormone therapy. With that said however, elderly men are a different patient population than non-binary transfeminine people. Older men have diminished increases in testosterone levels with bicalutamide and SERMs compared to healthy young men. In relation to this, the combination might not be as favorable for younger people assigned male at birth. 
+目前还不清楚为什么对比卡鲁胺和他莫昔芬的研究观察到总睾丸激素水平的增加与单独使用比卡鲁胺的情况没有什么不同。不管是什么原因，这些研究表明，比卡鲁胺和他莫昔芬 (或某些其他 SERM) 的组合实际上可能仍然是可行的非传统的女性化激素治疗。然而，说到这里，老年男性是一个不同于非二元女性倾向跨性别者的病人群体。与健康的年轻男性相比，老年男性在使用比卡鲁胺和 SERM 时，睾酮水平的增加会减弱。与此相关的是，这种组合可能对出生时分配性别为男性的年轻人不那么有利。
 
-Tamoxifen very well may be exchangeable with raloxifene for use in combination with bicalutamide. However, it should be noted that in contrast to tamoxifen, raloxifene has never been studied in combination with bicalutamide. Or, at least, not in gonadally intact men; one study of bicalutamide with raloxifene in castrated men with prostate cancer does exist, but that doesn’t provide much in the way of useful information ([Ho et al., 2017][131]). Nor has raloxifene actually been properly studied for prevention of gynecomastia. A single retrospective chart review reported that it was effective for pubertal gynecomastia in boys ([Lawrence et al., 2004][132]). But that’s all the data we have. Conversely, there are many high-quality studies of tamoxifen for prevention of gynecomastia, including in combination with bicalutamide. 
+他莫昔芬很有可能可被拉罗昔芬替代，并与比卡鲁胺联合使用。然而，应该注意的是，与他莫昔芬相比，拉罗昔芬从来没有与比卡鲁胺联合使用的研究。或者说，至少没有在性腺完整的男性中进行过研究；在患有前列腺癌的性腺切除男性中，确实存在比卡鲁胺与拉罗昔芬的研究，但这并没有提供多少有用的信息 ([Ho et al., 2017][131])。实际上也没有对拉罗昔芬预防乳房发育进行过适当的研究。一个单一的回顾性图表审查报告说，它对男孩的青春期乳房发育是有效的 ([Lawrence et al., 2004][132])。但这只是目前所拥有的全部数据。相反，有许多关于他莫昔芬预防乳房发育的高质量研究，包括与比卡鲁胺联合使用。
 
    [131]: https://doi.org/10.1016/j.clgc.2016.08.026
    [132]: https://doi.org/10.1016/j.jpeds.2004.03.057
 
-In any case, used by themselves in men, raloxifene has been found to result in lower increases in testosterone levels than tamoxifen or toremifene ([Tsourdi et al., 2009][133]). As such, bicalutamide and raloxifene together may indeed be similar in terms of testosterone levels relative to the combination of bicalutamide and tamoxifen. This might just be due to raloxifene having lower efficacy as a SERM than tamoxifen or toremifene at the relevant clinical doses however (Tsourdi et al., 2009). 
+不管怎样，拉罗昔芬本身用于男性，已被发现导致睾酮水平的增加低于他莫昔芬或托瑞米芬 ([Tsourdi et al., 2009][133])。因此，相对于比卡鲁胺和他莫昔芬的组合，比卡鲁胺和拉罗昔芬一起使用可能确实在睾酮水平方面相似。然而，这可能只是由于拉罗昔芬作为 SERM 的效力在对应的临床剂量下低于他莫昔芬或托瑞米芬 (Tsourdi et al., 2009)。
 
    [133]: https://doi.org/10.1016/j.fertnstert.2008.06.002
 
