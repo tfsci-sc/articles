@@ -288,9 +288,9 @@ SERM 对维持骨密度是有效的。然而，不幸的是，它们在骨中只
 
    [133]: https://doi.org/10.1016/j.fertnstert.2008.06.002
 
-###  Topical Androgens 
+###  外用雄激素 
 
-Another possibility for prevention of breast development is topical application of a non-aromatizable androgen (i.e., an androgen that can’t be converted into an estrogen), namely [dihydrotestosterone][134] (DHT; Andractim), to the breasts. Androgens substantially oppose the actions of estrogens in the breasts, and both topical and systemic DHT have been reported to be effective in the treatment of gynecomastia similarly to SERMs in a number of small studies ([Kuhn et al., 1982][135]; [Kuhn et al., 1983a][136]; [Kuhn et al., 1983b][137]; [Eberle & Keenan, 1985][138]; [Eberle, Sparrow, & Keenan, 1986][139]; [Caron et al., 1987][140]; [Keenan, Fagan, & Richards, 1989][141]; [De Corrado et al., 1998][142]; [Benveniste, Simon, & Herson, 2001][143]). Other systemic androgens like nandrolone ([Heresová et al., 1981][144]; [Heresová & Vrzanova, 2003][145]) and danazol ([Buckle, 1980][146]; [Ting, Chow, & Leung, 2000][147]) have been reported to be effective as well. 
+预防乳房发育的另一种可行方法是在乳房上局部应用一种不可芳香化的雄激素 (即不能转化为雌激素的雄激素，即 [双氢睾酮][134] (DHT; Andractim)。雄激素可以阻止雌激素在乳房中的作用，并且一些小型研究报告表示局部和全身用 DHT 治疗男性乳房发育的效果与 SERM 相似 ([Kuhn et al., 1982][135]; [Kuhn et al., 1983a][136]; [Kuhn et al., 1983b][137]; [Eberle & Keenan, 1985][138]; [Eberle, Sparrow, & Keenan, 1986][139]; [Caron et al., 1987][140]; [Keenan, Fagan, & Richards, 1989][141]; [De Corrado et al., 1998][142]; [Benveniste, Simon, & Herson, 2001][143])。其他全身性雄激素如诺龙 ([Heresová et al., 1981][144]; [Heresová & Vrzanova, 2003][145]) 和达那唑 ([Buckle, 1980][146]; [Ting, Chow, & Leung, 2000][147]) 也被报道有效。
 
    [134]: https://en.wikipedia.org/wiki/Androstanolone
    [135]: https://scholar.google.com/scholar?cluster=4238869506512555946
@@ -307,11 +307,11 @@ Another possibility for prevention of breast development is topical application 
    [146]: https://doi.org/10.2165/00003495-198019050-00005
    [147]: https://www.ncbi.nlm.nih.gov/pubmed/10651345
 
-Unfortunately, pharmaceutical topical DHT is only available today in France ([Drugs.com][148]). Some compounding pharmacies in certain countries might provide topical DHT preparations. However, DHT does not seem to be available from any compounding pharmacies in the United States. In contrast to DHT, testosterone readily converts into estradiol via aromatization and can actually induce some gynecomastia due to excessive estrogenic exposure. As such, unlike non-aromatizable androgens like DHT, use of testosterone for this purpose isn’t appropriate. There are few or no other options for topical androgens besides testosterone and DHT, so the practicality of this route is limited. 
+遗憾的是，药物外用 DHT 目前只在法国有售 ([Drugs.com][148])。某些国家的一些复方药店可能提供局部 DHT 制剂。然而，在美国，似乎没有任何复合药房可以提供 DHT。与 DHT 相反，睾酮很容易通过芳香化作用转化为雌二醇，因此可以由于过度接触雌激素而诱发一些乳房发育。因此，睾酮并不合适用被用于此目的，与 DHT 等不可芳香化的雄性激素不同。除了睾酮和 DHT 之外，几乎没有其他外用雄性激素的选择，所以这种途径的实用性是有限的。
 
    [148]: https://www.drugs.com/international/androstanolone.html
 
-In contrast to SERMs, topical androgens may not be fully effective for preventing breast development. In addition, topical application of androgens to the breasts is very likely to cause local body hair growth and other local androgenic effects (e.g., masculine skin changes, oily skin, acne), which for many transfeminine individuals is probably unacceptable. Lastly, there is a risk of systemic distribution of the topically applied androgen ([Kuhn et al., 1983a][149]) and hence androgenic or masculinizing effects elsewhere in the body. This risk would be lessened in combination with an androgen receptor antagonist like bicalutamide however, although androgen receptor antagonists also risk blocking the local effects of the topical androgen. 
+与 SERM 相比，外用雄激素可能不能完全有效地防止乳房发育。此外，在乳房上局部应用雄激素很可能导致局部体毛生长和其他局部雄激素效应（如男性化的皮肤变化、油性皮肤、痤疮），这对许多女性倾向跨性别者来说可能是不可接受的。最后，局部使用的雄激素有全身分布的风险 ([Kuhn et al., 1983a][149])，因此对身体其他部位有雄激素或男性化的影响。然而，如果与比卡鲁胺这样的雄激素受体拮抗剂联合使用，这种风险就会减少，尽管雄激素受体拮抗剂也有阻断局部雄激素作用的风险。
 
    [149]: https://doi.org/10.1111/j.1365-2265.1983.tb00026.x
 
