@@ -315,11 +315,11 @@ SERM 对维持骨密度是有效的。然而，不幸的是，它们在骨中只
 
    [149]: https://doi.org/10.1111/j.1365-2265.1983.tb00026.x
 
-###  Breast Removal Surgery and Breast Irradiation 
+###  乳房切除手术和乳房照射 
 
-Two non-medication-based alternatives for prevention of breast development are prophylactic surgical breast removal and prophylactic breast irradiation. 
+预防乳房发育的两种非药物治疗方法是预防性手术切除乳房和预防性乳房照射。
 
-If there is no excess skin, mastectomy, or breast removal surgery, can remove the breasts without leaving obvious scars, as was the case in [this][150] young transgender man. Mastectomy is a highly effective means of preventing breast development. Of course, it requires surgery however. 
+如果没有多余的皮肤，乳房切除手术可以在不留下明显疤痕的情况下切除乳房。[这位][150] 年轻的跨性别男性就是如此。乳房切除术是防止乳房发育的一种非常有效的手段，尽管这需要手术。
 
    [150]: https://i.imgur.com/hdcqJoh.jpg
 
