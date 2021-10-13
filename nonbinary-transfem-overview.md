@@ -337,7 +337,7 @@ SERM 对维持骨密度是有效的。然而，不幸的是，它们在骨中只
 
 ###  乳房发育的程度、起始时间和可逆性 
 
-For reasons that are not entirely clear, it’s notable that transfeminine people tend to have poor or suboptimal breast development relative to cisgender women ([Wierckx, Gooren, & T’Sjoen, 2014][158]; [de Blok et al., 2018][159]; [Reisman, Goldstein, & Safer, 2019][160]). Likewise, in generally elderly men with prostate cancer, high-dose bicalutamide monotherapy and high-dose estrogen therapy both cause high rates of gynecomastia but produce only mild-to-moderate gynecomastia in 90% of cases ([Wiki][161]; [Ockrim et al., 2003][162]). (Whether their advanced age is a factor here or not is uncertain but could be involved however.) Hence, any person who was assigned male at birth should, generally speaking or _on average_, not necessarily expect a marked degree of breast development. Small breasts should generally be anticipated as the most likely outcome. There are always exceptions however, with a subset of transfeminine people experiencing substantial breast development. Hence, the degree of breast development one experiences is a matter of chance, and caution should be advised. 
+由于不完全清楚的原因，值得注意的是，相比于顺性别女性，女性倾向跨性别者往往较差或不理想 ([Wierckx, Gooren, & T’Sjoen, 2014][158]; [de Blok et al., 2018][159]; [Reisman, Goldstein, & Safer, 2019][160])。同样，在一般患有前列腺癌的老年男性中，大剂量比卡鲁胺单药治疗和大剂量雌激素治疗都会引起高比率的乳房发育，但在90%的病例中只产生轻度到中度的乳房发育 ([Wiki][161]; [Ockrim et al., 2003][162])。(他们的高龄是否是一个因素，还不确定，但可能与此有关。) 因此，任何在出生时被分配为男性的人，一般来说或平均来说，不一定会有明显的乳房发育程度。一般来说，小乳房应该是最可能的结果。但也有例外，有一小部分的女性倾向跨性别者的乳房会有很大的发育。因此，一个人经历的乳房发育程度是一个机会问题，应该谨慎行事。
 
    [158]: https://doi.org/10.1111/jsm.12487
    [159]: https://doi.org/10.1210/jc.2017-01927
@@ -345,13 +345,13 @@ For reasons that are not entirely clear, it’s notable that transfeminine peopl
    [161]: https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide#Breast_changes
    [162]: https://doi.org/10.1097/01.ju.0000061024.75334.40
 
-There are a few things to be aware of about breast development. One is that it happens slowly and is not something that becomes substantial overnight. Another is that will not continue to progress if hormones are withdrawn. And finally, it seems to be at least partially reversible if medications are discontinued within a certain amount of time (e.g., one year) ([Mancino, Young, & Bland, 2018][163]; [Kanakis et al., 2019][164]). However, a study found that bicalutamide monotherapy-induced gynecomastia outcome was worse if tamoxifen was introduced within a month of symptom onset rather than used from the start of therapy ([Serretta et al. 2012][165]). In any case, for the preceding reasons, a given individual could self-monitor their breast development, and, if it becomes too much for their liking, alter their medication regimen as desired in order to prevent further or reverse existing breast growth. Hence, breast development may not be something that should be feared excessively. 
+关于乳房发育，有几件事需要注意。其一是它发生得很慢，不是一夜之间就会变得很大。另一个是，如果停止使用激素，它将不会继续发展。最后，如果在一定时间内（如一年）停止用药，它似乎至少是部分可逆的 ([Mancino, Young, & Bland, 2018][163]; [Kanakis et al., 2019][164])。然而，一项研究发现，如果在症状出现后一个月内引入他莫昔芬，而不是从治疗开始就使用，那么比卡鲁胺单药治疗会更难引起乳房发育 ([Serretta et al. 2012][165])。无论如何，由于前面的原因，当事人可以自我监测他们的乳房发育进展。如果乳房发育的太快、不符合喜好，可以根据需要改变自己的药物治疗方案，以防止进一步的或扭转现有的乳房增长。因此，乳房发育可能不应被过分担心。
 
    [163]: https://doi.org/10.1016/B978-0-323-35955-9.00007-6
    [164]: https://doi.org/10.1111/andr.12636
    [165]: https://doi.org/10.1016/j.clgc.2012.03.002
 
-##  Summary and Conclusions 
+##  摘要与结论 
 
 Taken together, for the purpose of achieving maximal demasculinization and partial to maximal feminization with the exception of minimal or no breast development in non-binary transfeminine people, the following potential hormone therapy options may be useful: 
 
