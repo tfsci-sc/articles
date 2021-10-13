@@ -353,38 +353,40 @@ SERM 对维持骨密度是有效的。然而，不幸的是，它们在骨中只
 
 ##  摘要与结论 
 
-Taken together, for the purpose of achieving maximal demasculinization and partial to maximal feminization with the exception of minimal or no breast development in non-binary transfeminine people, the following potential hormone therapy options may be useful: 
+综上所述，为了对非二元女性倾向跨性别者实现最少或没有乳房发育的最大程度的去男性化和部分至最大程度的女性化，以下潜在的激素治疗方案可能是有用的：
 
-  1. A high-dose progestogen such as low-dose cyproterone acetate or high-dose rectal progesterone plus an androgen receptor antagonist like bicalutamide or high-dose spironolactone in combination with a SERM or very-low-dose estradiol
-  2. A GnRH agonist or antagonist or gonadectomy plus a SERM or very-low-dose estradiol
-  3. High-dose bicalutamide plus a SERM (possibly—testosterone increases may be problematic)
+  1. 高剂量孕酮，如低剂量醋酸环丙孕酮或高剂量直肠孕酮，加上雄激素受体拮抗剂，如比卡鲁胺或高剂量螺内酯，与SERM或极低剂量雌二醇联合使用。
+  2. GnRH 激动剂或拮抗剂或性腺切除术加 SERM 或极低剂量雌二醇
+  3. 大剂量比卡鲁胺加一种 SERM（只是可能 -- 可能有睾酮增加的问题）
 
-As well as variations thereof, for instance regimens additionally or alternatively including 5α-reductase inhibitors, a topical androgen applied directly to the breasts, nandrolone decanoate, and/or breast removal surgery, as well as further bone density interventions such as calcium and/or vitamin D supplementation, bisphosphonates, and/or weight-bearing exercise. 
+以及上述疗法的变化，例如，另外或替代性地包括5α-还原酶抑制剂、直接应用于乳房的局部雄激素、癸酸诺龙和/或乳房切除手术，以及进一步的骨密度干预，如补充钙和/或维生素D、双磷酸盐和/或负重运动。
 
-Low-to-moderate-dose estradiol monotherapy, resulting in only partial suppression of testosterone levels, may also be a useful and fairly simple approach for non-binary transfeminine hormone therapy, although significant breast development is likely to occur with this option. 
+低到中等剂量的雌二醇单药治疗，只导致睾酮水平的部分抑制，也可能是一种有用的、相当简单的非二元女性倾向跨性别激素治疗方法，尽管这种方案可能会出现明显的乳房发育。
 
-In June 2021, the following review on SERMs for non-binary transfeminine people was published: 
+## 更新
+
+2021 年六月，以下关于非二元女性倾向跨性别者的 SERM 的评论被发表了：
 
   * Xu, J. Y., O’Connell, M. A., Notini, L., Cheung, A. S., Zwickl, S., & Pang, K. C. (2021). Selective Estrogen Receptor Modulators: A Potential Option For Non-Binary Gender-Affirming Hormonal Care? _Frontiers in Endocrinology_, _12_, 701364. [DOI:[10.3389/fendo.2021.701364][166]]
 
    [166]: https://doi.org/10.3389/fendo.2021.701364
 
-The article is the first literature of its kind. In relation to the lack of evidence for the efficacy and safety of SERMs in non-binary transfeminine hormone therapy at present, it stated that SERMs should not be routinely recommended to non-binary transfeminine people. However, it was cautiously permissive of their use in non-binary transfeminine people who request them and provide informed consent. The review concluded that SERMs are a theoretically attractive potential option for non-binary transfeminine hormone therapy and called for clinical research on them for these purposes. 
+该文章是第一篇此类文献。关于目前缺乏 SERM 在非二元女性倾向激素治疗中的有效性和安全性的证据，它指出，不应常规推荐 SERM 用于非二元女性倾向跨性别者。然而，它谨慎地允许在提出要求并提供知情同意的非二元女性女性倾向跨性别者中使用这些药物。审查得出的结论是，SERM 是一种理论上有吸引力的潜在选择，用于非二元女性倾向跨性别者的激素治疗，并呼吁为这些目的对其进行临床研究。
 
-Ada S. Cheung of [Trans Health Research][167] in Australia is a co-author on the paper. 
+澳大利亚 [Trans Health Research][167] 的 Ada S. Cheung 是该论文的共同作者。
 
    [167]: https://www.transresearch.org.au/
 
-A handful of additional but more limited mentions as well as use instances of SERMs for non-binary transfeminine and transmasculine people have also occurred previously in the literature ([Carswell & Roberts, 2017][168]; [Moser & Devereux, 2019][169]; [Pang et al., 2020][170]; [Naroji et al., 2021][171]). 
+此前，文献中还出现了少数额外但更有限的提及以及非二元女性倾向跨性别者和女性倾向跨性别者使用 SERM 的例子 ([Carswell & Roberts, 2017][168]; [Moser & Devereux, 2019][169]; [Pang et al., 2020][170]; [Naroji et al., 2021][171])。
 
    [168]: https://doi.org/10.1089/trgh.2017.0021
    [169]: https://doi.org/10.1007/s11930-019-00221-y
    [170]: https://doi.org/10.1542/peds.2019-1606
    [171]: https://doi.org/10.1016/j.jpag.2021.02.063
 
-##  Supplementary Material 
+##  补充材料 
 
-An interesting anecdotal report of hormone therapy with bicalutamide 50 mg/day + cyproterone acetate 12.5 mg/day + raloxifene 60 mg/day in a formerly self-identified femboy can be found [here][172] ([PDF][173]). 
+这里有一个有趣的，关于一位曾经自身认同为伪娘、使用 50 mg/天 比卡鲁胺 + 醋酸环丙孕酮 12.5 mg/天 + 雷洛昔芬 60 mg/天 的激素治疗[报告][172] ([PDF][173])。
 
    [172]: https://docs.google.com/document/d/1PYWaZaHazpbyOtGEWIq4krsVmqLxENIhFqJW4fBuXv8/view
    [173]: https://docdro.id/4iy0Lkj
