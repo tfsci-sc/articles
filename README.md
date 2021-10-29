@@ -8,6 +8,12 @@ Translations for Transfeminine Science articles in Simplified Chinese
 
 [对非二元女性倾向跨性别者的激素治疗可能性的探索 (Aly W., 2019)](https://limelight.moe/t/topic/7303)
 
+### 特定主题类
+
+#### 雌激素
+
+[经阴囊及新阴唇给药对女性倾向跨性别者经皮雌二醇吸收的极大增强 (Aly W., 2019)](https://limelight.moe/t/topic/8307)
+
 ### 未分类
 
 [舌下含服雌二醇及口服醋酸甲羟孕酮在女性倾向跨性别者中的应用 (Aly W., 2020)](https://limelight.moe/t/topic/8298)
