@@ -23,6 +23,7 @@ The translations in this project were approved with direct permission from Aly W
 #### 雌激素
 
 [经阴囊及新阴唇给药对女性倾向跨性别者经皮雌二醇吸收的极大增强 (Aly W., 2019)](https://limelight.moe/t/topic/8307)
+[关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介 (Aly W., 2019)](https://github.com/tfsci-sc/articles/blob/main/sublingual-ev.md)
 
 ### 未分类
 
