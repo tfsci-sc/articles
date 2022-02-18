@@ -27,6 +27,7 @@ The translations in this project were approved with direct permission from Aly W
 ### 未分类
 
 [舌下含服雌二醇及口服醋酸甲羟孕酮在女性倾向跨性别者中的应用 (Aly W., 2020)](https://limelight.moe/t/topic/8298)
+[性激素与性激素结合球蛋白及其对女性化激素治疗的意义 (Aly W., 2020)](https://github.com/tfsci-sc/articles/blob/main/shbg.md)
 
 ## 协议/ License
 
