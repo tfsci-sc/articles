@@ -39,6 +39,6 @@ This translation project follows the current distribution practices of the origi
 
 ## 贡献方法/ Contributions
 
-为了提高效率，*强烈*建议通过提交Pull requests/ commits的方法进行贡献，感谢。
+为了提高效率，*强烈*建议通过提交Pull requests/ commits的方法进行贡献。同时，您也可以参考 [专有词汇表](https://github.com/tfsci-sc/terms/blob/main/terms.md) 以帮助保持翻译的一致性。十分感谢。
 
-For the sake of efficiency, it is *highly recommended* to contribute via submitting pull requests and commits. Thanks.
+For the sake of efficiency, it is *highly recommended* to contribute via submitting pull requests and commits. You may also refer to the [non-consensus terms list](https://github.com/tfsci-sc/terms/blob/main/terms.md) to maintain consistency within this repo. Your help would be much appreciated. 
