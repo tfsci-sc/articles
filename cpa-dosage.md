@@ -1,4 +1,4 @@
-# 在女性倾向跨性别者中，低剂量的醋酸环丙孕酮足以最大程度抑制睾酮
+# 低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平
 
 | 作者 [Aly W.][0] | 首次发表于 2019 年 7 月 1 日 | 最后修改于 2022 年 2 月 14 日 |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ CPA 每个月为完全达到临床上的雄激素拮抗效果所需剂量的生�
 
 ## 低剂量或高剂量 CPA 对睾酮的抑制
 
-像 CPA 一类的孕激素，可以显著抑制出生指派性别为男、未去势的人群当中的睾酮水平。从 1970 年代到 1980 年代初发表的一系列规模较小、质量较低的研究项目发现，健康年轻男性每日服用 5\~10 mg 的 CPA，可将睾酮水平抑制 40\~70%。其中，一些项目报告了使用 5 mg/天剂量的睾酮抑制程度，和使用 10 mg/天剂量的几乎一致（皆抑制了约 50%；[图表](https://commons.wikimedia.org/wiki/File:Testosterone_levels_with_5_or_10_mg_per_day_oral_cyproterone_acetate_in_men.png)）；而 10 mg/天剂量的效果则与 20 mg/天相近（皆为约 60\~70%；[图表](https://commons.wikimedia.org/wiki/File:Androgen_levels_with_10_or_20_mg_per_day_oral_cyproterone_acetate_in_men.png)）。同一项目里即使 CPA 剂量加倍，也未能提高睾酮抑制率，这表明实际仅需 5 或 10 mg/天的 CPA 剂量，即可最大程度抑制睾酮。一项在 2002 年进行的、使用更现代和更可靠的血清睾酮定量方法的研究项目，发现了 10 mg/天用量的 CPA 可将睾酮水平抑制 66%（从约 600±150 ng/dL 压减至约 185 ng/dL；但未提供标准差数据）<sup>([Meriggiola et al., 2002a](https://doi.org/10.1210/jcem.87.5.8514))</sup>。
+像 CPA 一类的孕激素，可以显著抑制出生指派性别为男、性腺完整的人群当中的睾酮水平。从 1970 年代到 1980 年代初发表的一系列规模较小、质量较低的研究项目发现，健康年轻男性每日服用 5\~10 mg 的 CPA，可将睾酮水平抑制 40\~70%。其中，一些项目报告了使用 5 mg/天剂量的睾酮抑制程度，和使用 10 mg/天剂量的几乎一致（皆抑制了约 50%；[图表](https://commons.wikimedia.org/wiki/File:Testosterone_levels_with_5_or_10_mg_per_day_oral_cyproterone_acetate_in_men.png)）；而 10 mg/天剂量的效果则与 20 mg/天相近（皆为约 60\~70%；[图表](https://commons.wikimedia.org/wiki/File:Androgen_levels_with_10_or_20_mg_per_day_oral_cyproterone_acetate_in_men.png)）。同一项目里即使 CPA 剂量加倍，也未能提高睾酮抑制率，这表明实际仅需 5 或 10 mg/天的 CPA 剂量，即可最大程度抑制睾酮。一项在 2002 年进行的、使用更现代和更可靠的血清睾酮定量方法的研究项目，发现了 10 mg/天用量的 CPA 可将睾酮水平抑制 66%（从约 600±150 ng/dL 压减至约 185 ng/dL；但未提供标准差数据）<sup>([Meriggiola et al., 2002a](https://doi.org/10.1210/jcem.87.5.8514))</sup>。
 
 > ![figure](https://transfemscience.org/assets/images/0gzj2zppdq731.png)  
 > ![figure](https://transfemscience.org/assets/images/sxcwo8ceyp731.png)  
@@ -214,7 +214,7 @@ CPA 的雄激素受体（AR）拮抗效应相对较弱。为达到有意义、�
 
 这两篇论文皆声明，其为首次揭露女性倾向跨性别者服用低剂量 CPA 之疗效。不过，这项成就其实应该属于 [Meyer 等人 (2020)](https://doi.org/10.1530/EJE-19-0463) [[PDF](https://files.transfemscience.org/pdfs/Meyer%20et%20al.%20(2020)%20-%20Safety%20and%20Rapid%20Efficacy%20of%20Guideline-Based%20Gender-Affirming%20Hormone%20Therapy_%20An%20Analysis%20of%20388%20Individuals%20Diagnosed%20with%20Gender%20Dysphoria.pdf)]；其于 2020 年 2 月便已发现，女性倾向跨性别者合用雌二醇与 10、25、50 mg/天的 CPA 时，可获得一致的睾酮抑制效果。
 
-[Lim 等人 (2020)](https://doi.org/10.1210/clinem/dgaa262) 在 2020 年 5/7 月发表了一篇论文；其研究课题并非与 CPA 及睾酮抑制效果有关，不过，其报告了 26 名女性倾向跨性别者分别使用口服与透皮雌二醇时，睾酮水平中位数（范围）分别为 0.6 (0.4–1.0) nmol/L、0.9 (0.7–1.6) nmol/L；她们还分为了合用雌二醇与低剂量 CPA（12.5-18.8 mg/天，中位数 12.5；共 14 人）、去势后单用雌二醇（共 9 人）、以及合用雌二醇与螺内酯（共 3 人）等组别。
+[Lim 等人 (2020)](https://doi.org/10.1210/clinem/dgaa262) 在 2020 年 5/7 月发表了一篇论文；其研究课题并非与 CPA 及睾酮抑制效果有关，不过，其报告了 26 名女性倾向跨性别者分别使用口服与透皮雌二醇时，睾酮水平中位数（范围）分别为 0.6 (0.4–1.0) nmol/L、0.9 (0.7–1.6) nmol/L；她们还分为了合用雌二醇与低剂量 CPA（12.5-18.8 mg/天，中位数 12.5；共 14 人）、摘除性腺后单用雌二醇（共 9 人）、以及合用雌二醇与螺内酯（共 3 人）等组别。
 
 
 ### 后记三
