@@ -26,6 +26,10 @@ The translations in this project were approved with direct permission from Aly W
 
 [关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介 (Aly W., 2019)](https://github.com/tfsci-sc/articles/blob/main/sublingual-ev.md)
 
+#### 抗雄激素
+
+[低剂量的醋酸环丙孕酮足以最大限度地抑制女性倾向跨性别者的睾酮水平 (Aly W., 2019)](https://github.com/tfsci-sc/articles/blob/main/cpa-dosage.md)
+
 ### 未分类
 
 [舌下含服雌二醇及口服醋酸甲羟孕酮在女性倾向跨性别者中的应用 (Aly W., 2020)](https://limelight.moe/t/topic/8298)
