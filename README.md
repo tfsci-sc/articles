@@ -1,6 +1,8 @@
 # articles
 Translations for Transfeminine Science articles in Simplified Chinese
 
+# Project archived. See [project-trans/transfeminine-science](https://github.com/project-trans/transfeminine-science)
+
 ## 关于/ About
 
 本项目计划对 _Transfeminine Science_ (https://transfemscience.org/) 进行非官方简体中文翻译。
